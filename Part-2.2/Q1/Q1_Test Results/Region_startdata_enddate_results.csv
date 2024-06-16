@@ -1,0 +1,346 @@
+SaleId,Campus,Site,Region,State,SaleDate,MealType,MenuItem,FreeCount,ReducedCount,PaidCount,TotalMealCount,EntryMethod
+846,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+846,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+846,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+849,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+849,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",752,0,0,752,Bulk
+849,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+854,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+854,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+854,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",560,0,0,560,Bulk
+857,"IDEA Mission",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+857,"IDEA Mission",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+857,"IDEA Mission",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+860,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+860,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+860,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+861,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-17,"CACFP Supper","In School Supper",0,0,0,0,Bulk
+861,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-17,"CACFP Supper","In School Supper",0,0,0,0,Bulk
+861,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-17,"CACFP Supper","In School Supper",0,0,0,0,Bulk
+873,"IDEA Quest",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",77,0,0,77,Bulk
+873,"IDEA Quest",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+873,"IDEA Quest",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+882,"IDEA McAllen",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+882,"IDEA McAllen",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",520,0,0,520,Bulk
+882,"IDEA McAllen",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+885,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+885,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",69,0,0,69,Bulk
+885,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+887,"IDEA Mission",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+887,"IDEA Mission",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",220,0,0,220,Bulk
+887,"IDEA Mission",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+892,"IDEA North Mission",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",182,0,0,182,Bulk
+892,"IDEA North Mission",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+892,"IDEA North Mission",Academy,URGV,Texas,2024-04-17,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+902,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",65,0,0,65,Bulk
+902,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+902,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+906,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+906,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+906,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",15,0,0,15,Bulk
+909,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+909,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",22,0,0,22,Bulk
+909,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+912,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+912,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",84,0,0,84,Bulk
+912,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+915,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-17,"CACFP Supper","In School Supper",0,0,0,0,Bulk
+915,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-17,"CACFP Supper","In School Supper",118,0,0,118,Bulk
+915,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-17,"CACFP Supper","In School Supper",0,0,0,0,Bulk
+939,"IDEA Los Encinos",Unknown,URGV,Texas,2024-04-17,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+939,"IDEA Los Encinos",Unknown,URGV,Texas,2024-04-17,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+943,"IDEA La Joya",Unknown,URGV,Texas,2024-04-17,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+943,"IDEA La Joya",Unknown,URGV,Texas,2024-04-17,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+943,"IDEA La Joya",Unknown,URGV,Texas,2024-04-17,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+946,"IDEA North Mission",Unknown,URGV,Texas,2024-04-17,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+946,"IDEA North Mission",Unknown,URGV,Texas,2024-04-17,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+946,"IDEA North Mission",Unknown,URGV,Texas,2024-04-17,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+939,"IDEA Los Encinos",Unknown,URGV,Texas,2024-04-17,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+958,"IDEA Mission",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+958,"IDEA Mission",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",488,0,0,488,Bulk
+958,"IDEA Mission",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+961,"IDEA Quest",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",549,0,0,549,Bulk
+961,"IDEA Quest",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+961,"IDEA Quest",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+968,"IDEA Palmview",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+968,"IDEA Palmview",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+968,"IDEA Palmview",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",538,0,0,538,Bulk
+990,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",560,0,0,560,Bulk
+990,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+990,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+993,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+993,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+993,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",512,0,0,512,Bulk
+1000,"IDEA La Joya",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1000,"IDEA La Joya",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",417,0,0,417,Bulk
+1000,"IDEA La Joya",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1007,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1007,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",638,0,0,638,Bulk
+1007,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1008,"IDEA McAllen",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1008,"IDEA McAllen",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1008,"IDEA McAllen",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",712,0,0,712,Bulk
+1010,"IDEA North Mission",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",622,0,0,622,Bulk
+1010,"IDEA North Mission",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1010,"IDEA North Mission",Academy,URGV,Texas,2024-04-17,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1022,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",487,0,0,487,Bulk
+1022,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1022,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1027,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",549,0,0,549,Bulk
+1027,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1027,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1038,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1038,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1038,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",341,0,0,341,Bulk
+1039,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1039,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1039,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",167,0,0,167,Bulk
+1043,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",256,0,0,256,Bulk
+1043,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1043,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1049,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1049,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",482,0,0,482,Bulk
+1049,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1050,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1050,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",315,0,0,315,Bulk
+1050,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1072,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1072,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",282,0,0,282,Bulk
+1072,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1078,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1078,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",503,0,0,503,Bulk
+1078,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1109,"IDEA Palmview",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1109,"IDEA Palmview",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1114,"IDEA Tres Lagos",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1114,"IDEA Tres Lagos",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1123,"IDEA North Mission",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1123,"IDEA North Mission",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1123,"IDEA North Mission",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1114,"IDEA Tres Lagos",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1109,"IDEA Palmview",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1124,"IDEA La Joya",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1124,"IDEA La Joya",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1124,"IDEA La Joya",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1128,"IDEA Quest",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1128,"IDEA Quest",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1128,"IDEA Quest",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1129,"IDEA Los Encinos",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1129,"IDEA Los Encinos",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1129,"IDEA Los Encinos",Unknown,URGV,Texas,2024-04-17,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1143,"IDEA Quest",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1143,"IDEA Quest",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1143,"IDEA Quest",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",506,0,0,506,Bulk
+1155,"IDEA La Joya",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",465,0,0,465,Bulk
+1155,"IDEA La Joya",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1155,"IDEA La Joya",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1160,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1160,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",671,0,0,671,Bulk
+1160,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1166,"IDEA McAllen",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1166,"IDEA McAllen",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",675,0,0,675,Bulk
+1166,"IDEA McAllen",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1170,"IDEA North Mission",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",730,0,0,730,Bulk
+1170,"IDEA North Mission",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1170,"IDEA North Mission",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1182,"IDEA Palmview",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1182,"IDEA Palmview",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",637,0,0,637,Bulk
+1182,"IDEA Palmview",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1185,"IDEA Mission",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1185,"IDEA Mission",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1185,"IDEA Mission",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",554,0,0,554,Bulk
+1191,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",628,0,0,628,Bulk
+1191,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1191,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-17,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1195,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1195,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1195,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",443,0,0,443,Bulk
+1199,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1199,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1199,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",299,0,0,299,Bulk
+1207,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1207,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1207,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",366,0,0,366,Bulk
+1213,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1213,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",202,0,0,202,Bulk
+1213,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1231,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1231,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",550,0,0,550,Bulk
+1231,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1234,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",421,0,0,421,Bulk
+1234,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1234,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1237,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",612,0,0,612,Bulk
+1237,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1237,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1244,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1244,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1244,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-17,Lunch,"CP In School Lunch",477,0,0,477,Bulk
+1276,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1276,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",596,0,0,596,Bulk
+1276,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1294,"IDEA Quest",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1294,"IDEA Quest",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",78,0,0,78,Bulk
+1294,"IDEA Quest",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1301,"IDEA McAllen",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1301,"IDEA McAllen",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",534,0,0,534,Bulk
+1301,"IDEA McAllen",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1302,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1302,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1302,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",56,0,0,56,Bulk
+1306,"IDEA North Mission",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",204,0,0,204,Bulk
+1306,"IDEA North Mission",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1306,"IDEA North Mission",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1308,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1308,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",143,0,0,143,Bulk
+1308,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1311,"IDEA Mission",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",272,0,0,272,Bulk
+1311,"IDEA Mission",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1311,"IDEA Mission",Academy,URGV,Texas,2024-04-18,"CACFP Supper","AC In School Supper",0,0,0,0,Bulk
+1318,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",16,0,0,16,Bulk
+1318,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+1318,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+1319,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+1319,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+1319,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",20,0,0,20,Bulk
+1326,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+1326,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",72,0,0,72,Bulk
+1326,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+1330,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+1330,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",0,0,0,0,Bulk
+1330,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-18,"CACFP Supper","CP In School Supper",23,0,0,23,Bulk
+1333,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-18,"CACFP Supper","In School Supper",111,0,0,111,Bulk
+1333,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-18,"CACFP Supper","In School Supper",0,0,0,0,Bulk
+1333,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-18,"CACFP Supper","In School Supper",0,0,0,0,Bulk
+1356,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-18,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+1356,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-18,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+1356,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-18,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+1357,"IDEA La Joya",Unknown,URGV,Texas,2024-04-18,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+1357,"IDEA La Joya",Unknown,URGV,Texas,2024-04-18,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+1357,"IDEA La Joya",Unknown,URGV,Texas,2024-04-18,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+1385,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",630,0,0,630,Bulk
+1385,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1385,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1392,"IDEA Quest",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1392,"IDEA Quest",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",576,0,0,576,Bulk
+1392,"IDEA Quest",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1396,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1396,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",492,0,0,492,Bulk
+1396,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1403,"IDEA Mission",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1403,"IDEA Mission",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",543,0,0,543,Bulk
+1403,"IDEA Mission",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1410,"IDEA North Mission",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",609,0,0,609,Bulk
+1410,"IDEA North Mission",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1410,"IDEA North Mission",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1411,"IDEA McAllen",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1411,"IDEA McAllen",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1411,"IDEA McAllen",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",692,0,0,692,Bulk
+1415,"IDEA La Joya",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1415,"IDEA La Joya",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1415,"IDEA La Joya",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",437,0,0,437,Bulk
+1418,"IDEA Palmview",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",545,0,0,545,Bulk
+1418,"IDEA Palmview",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1418,"IDEA Palmview",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1426,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",538,0,0,538,Bulk
+1426,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1426,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-18,Breakfast,"AC In School Breakfast",0,0,0,0,Bulk
+1442,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1442,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",265,0,0,265,Bulk
+1442,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1444,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1444,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1444,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",216,0,0,216,Bulk
+1452,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1452,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1452,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",584,0,0,584,Bulk
+1461,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1461,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",567,0,0,567,Bulk
+1461,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1467,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1467,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1467,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",325,0,0,325,Bulk
+1475,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1475,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",483,0,0,483,Bulk
+1475,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1480,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1480,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",510,0,0,510,Bulk
+1480,"IDEA Los Encinos","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1488,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1488,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1488,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",331,0,0,331,Bulk
+1491,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",164,0,0,164,Bulk
+1491,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1491,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-18,Breakfast,"CP In School Breakfast",0,0,0,0,Bulk
+1522,"IDEA Quest",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1522,"IDEA Quest",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1522,"IDEA Quest",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1524,"IDEA Palmview",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1524,"IDEA Palmview",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1524,"IDEA Palmview",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1528,"IDEA North Mission",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1528,"IDEA North Mission",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1528,"IDEA North Mission",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1536,"IDEA Tres Lagos",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1536,"IDEA Tres Lagos",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1536,"IDEA Tres Lagos",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1546,"IDEA Los Encinos",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1546,"IDEA Los Encinos",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1546,"IDEA Los Encinos",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1548,"IDEA La Joya",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1548,"IDEA La Joya",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1548,"IDEA La Joya",Unknown,URGV,Texas,2024-04-18,Lunch,"CNP Staff Lunch",0,0,0,0,Bulk
+1560,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1560,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",671,0,0,671,Bulk
+1560,"IDEA Rio Grande City",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1563,"IDEA Quest",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1563,"IDEA Quest",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1563,"IDEA Quest",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",397,0,0,397,Bulk
+1567,"IDEA Mission",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",473,0,0,473,Bulk
+1567,"IDEA Mission",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1567,"IDEA Mission",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1568,"IDEA McAllen",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1568,"IDEA McAllen",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",661,0,0,661,Bulk
+1568,"IDEA McAllen",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1574,"IDEA La Joya",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1574,"IDEA La Joya",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1574,"IDEA La Joya",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",450,0,0,450,Bulk
+1591,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1591,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",505,0,0,505,Bulk
+1591,"IDEA Tres Lagos",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1603,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",726,0,0,726,Bulk
+1603,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1603,"IDEA Los Encinos",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1608,"IDEA North Mission",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1608,"IDEA North Mission",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1608,"IDEA North Mission",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",734,0,0,734,Bulk
+1613,"IDEA Palmview",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1613,"IDEA Palmview",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",0,0,0,0,Bulk
+1613,"IDEA Palmview",Academy,URGV,Texas,2024-04-18,Lunch,"AC In School Lunch",612,0,0,612,Bulk
+1616,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1616,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",413,0,0,413,Bulk
+1616,"IDEA Rio Grande City","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1624,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1624,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",475,0,0,475,Bulk
+1624,"IDEA Quest","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1625,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1625,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",201,0,0,201,Bulk
+1625,"IDEA La Joya","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1627,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",573,0,0,573,Bulk
+1627,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1627,"IDEA McAllen","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1648,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1648,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",451,0,0,451,Bulk
+1648,"IDEA Tres Lagos","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1656,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1656,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1656,"IDEA Mission","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",518,0,0,518,Bulk
+1662,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1662,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",665,0,0,665,Bulk
+1662,"IDEA North Mission","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1666,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1666,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",0,0,0,0,Bulk
+1666,"IDEA Palmview","College Preparatory",URGV,Texas,2024-04-18,Lunch,"CP In School Lunch",276,0,0,276,Bulk
+1698,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-19,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+1698,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-19,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
+1698,"IDEA Rio Grande City",Unknown,URGV,Texas,2024-04-19,Breakfast,"CNP Staff Breakfast",0,0,0,0,Bulk
