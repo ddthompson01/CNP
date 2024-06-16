@@ -10,7 +10,7 @@ CNP Applications Analyst Technical Assessment
     - Next, I formatted Midland to merge middle school into college prep to caclulate attendance properly.
     - I then created a function to calculate attendance for all ada files. 
     - I created a function to find all non compliant issues. I compared attendance with the total meal count. If the total meal count was > attenance, an email is generated and sent to a cafeteria manager. If there is no manager for the campus, it is sent directly to the regional manager.
-    - I created an html e-mail template that matches the one shown in the pdf.
+    - I created an html email template that matches the one shown in the pdf.
     - I then created a function to generate an email preview for testing purposes. A screenshot is shown below:
       <img width="1047" alt="Screenshot 2024-06-14 at 6 15 56 PM" src="https://github.com/ddthompson01/CNP/assets/112508527/8ec4b39e-7798-4342-9140-eb47f4efb271">
       
