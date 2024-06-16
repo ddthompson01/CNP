@@ -1,0 +1,31 @@
+SCHOOLNAME	ATTDATE	MEMBERSHIP	ABSENCES	ATTENDANCE
+IDEA Bridge Academy	2024-04-15	529	42	487
+IDEA Bridge Academy	2024-04-16	527	35	492
+IDEA Bridge Academy	2024-04-17	527	40	487
+IDEA Bridge Academy	2024-04-18	527	30	497
+IDEA Bridge Academy	2024-04-19	526	40	486
+IDEA Bridge College Preparatory	2024-04-15	481	74	407
+IDEA Bridge College Preparatory	2024-04-16	481	57	424
+IDEA Bridge College Preparatory	2024-04-17	481	52	429
+IDEA Bridge College Preparatory	2024-04-18	480	65	415
+IDEA Bridge College Preparatory	2024-04-19	480	84	396
+IDEA Innovation Academy	2024-04-15	511	59	452
+IDEA Innovation Academy	2024-04-16	511	62	449
+IDEA Innovation Academy	2024-04-17	509	40	469
+IDEA Innovation Academy	2024-04-18	509	73	436
+IDEA Innovation Academy	2024-04-19	509	68	441
+IDEA Innovation College Preparatory	2024-04-15	340	39	301
+IDEA Innovation College Preparatory	2024-04-16	340	18	322
+IDEA Innovation College Preparatory	2024-04-17	340	17	323
+IDEA Innovation College Preparatory	2024-04-18	340	22	318
+IDEA Innovation College Preparatory	2024-04-19	340	14	326
+IDEA University Prep Academy	2024-04-15	353	57	296
+IDEA University Prep Academy	2024-04-16	353	52	301
+IDEA University Prep Academy	2024-04-17	353	40	313
+IDEA University Prep Academy	2024-04-18	353	37	316
+IDEA University Prep Academy	2024-04-19	353	38	315
+IDEA University Prep College Preparatory	2024-04-15	246	30	216
+IDEA University Prep College Preparatory	2024-04-16	246	31	215
+IDEA University Prep College Preparatory	2024-04-17	245	24	221
+IDEA University Prep College Preparatory	2024-04-18	245	35	210
+IDEA University Prep College Preparatory	2024-04-19	245	41	204

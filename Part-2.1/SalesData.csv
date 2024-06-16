@@ -1,0 +1,2120 @@
+Campus,Site,Region,State,SaleDate,MealType,MenuItem,FreeCount,ReducedCount,PaidCount,TotalMealCount,EntryMethod
+IDEA Achieve,Academy,TRCR,TX,4/15/24,Breakfast,AC Breakfast,288,0,0,288,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/15/24,CACFP Supper,AC Supper,470,0,0,470,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/15/24,Lunch,AC Lunch,538,0,0,538,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/16/24,Breakfast,AC Breakfast,264,0,0,264,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/16/24,CACFP Supper,AC Supper,426,0,0,426,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/16/24,Lunch,AC Lunch,456,0,0,456,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/17/24,Breakfast,AC Breakfast,258,0,0,258,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/17/24,CACFP Supper,AC Supper,438,0,0,438,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/17/24,Lunch,AC Lunch,489,0,0,489,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/18/24,Breakfast,AC Breakfast,260,0,0,260,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/18/24,CACFP Supper,AC Supper,469,0,0,469,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/18/24,Lunch,AC Lunch,554,0,0,554,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/19/24,Breakfast,AC Breakfast,276,0,0,276,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/19/24,CACFP Supper,AC Supper,428,0,0,428,Bulk
+IDEA Achieve,Academy,TRCR,TX,4/19/24,Lunch,AC Lunch,512,0,0,512,Bulk
+IDEA Achieve,College Preparatory,TRCR,TX,4/15/24,Breakfast,CP Breakfast,128,0,0,128,Bulk
+IDEA Achieve,College Preparatory,TRCR,TX,4/15/24,Lunch,CP Lunch,335,0,0,335,Bulk
+IDEA Achieve,College Preparatory,TRCR,TX,4/16/24,Breakfast,CP Breakfast,149,0,0,149,Bulk
+IDEA Achieve,College Preparatory,TRCR,TX,4/16/24,Lunch,CP Lunch,428,0,0,428,Bulk
+IDEA Achieve,College Preparatory,TRCR,TX,4/17/24,Breakfast,CP Breakfast,151,0,0,151,Bulk
+IDEA Achieve,College Preparatory,TRCR,TX,4/17/24,Lunch,CP Lunch,305,0,0,305,Bulk
+IDEA Achieve,College Preparatory,TRCR,TX,4/18/24,Breakfast,CP Breakfast,153,0,0,153,Bulk
+IDEA Achieve,College Preparatory,TRCR,TX,4/18/24,Lunch,CP Lunch,340,0,0,340,Bulk
+IDEA Achieve,College Preparatory,TRCR,TX,4/19/24,Breakfast,CP Breakfast,138,0,0,138,Bulk
+IDEA Achieve,College Preparatory,TRCR,TX,4/19/24,Lunch,CP Lunch,355,0,0,355,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/15/24,Breakfast,AC Breakfast,561,0,0,561,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/15/24,CACFP Supper,AC Supper,109,0,0,109,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/15/24,Lunch,AC Lunch,649,0,0,649,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/16/24,Breakfast,AC Breakfast,598,0,0,598,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/16/24,CACFP Supper,AC Supper,124,0,0,124,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/16/24,Lunch,AC Lunch,665,0,0,665,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/17/24,Breakfast,AC Breakfast,586,0,0,586,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/17/24,CACFP Supper,AC Supper,237,0,0,237,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/17/24,CACFP Supper,Supper,18,2,5,25,Individual
+IDEA Alamo,Academy,MRGV,TX,4/17/24,Lunch,AC Lunch,620,0,0,620,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/18/24,Breakfast,AC Breakfast,622,0,0,622,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/18/24,CACFP Supper,AC Supper,262,0,0,262,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/18/24,CACFP Supper,Supper,16,2,8,26,Individual
+IDEA Alamo,Academy,MRGV,TX,4/18/24,Lunch,AC Lunch,666,0,0,666,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/19/24,Breakfast,AC Breakfast,568,0,0,568,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/19/24,CACFP Supper,AC Supper,8,0,0,8,Bulk
+IDEA Alamo,Academy,MRGV,TX,4/19/24,CACFP Supper,Supper,17,1,8,26,Individual
+IDEA Alamo,Academy,MRGV,TX,4/19/24,Lunch,AC Lunch,537,0,0,537,Bulk
+IDEA Alamo,College Preparatory,MRGV,TX,4/15/24,Breakfast,CP Breakfast,537,0,0,537,Bulk
+IDEA Alamo,College Preparatory,MRGV,TX,4/15/24,Lunch,CP Lunch,662,0,0,662,Bulk
+IDEA Alamo,College Preparatory,MRGV,TX,4/16/24,Breakfast,CP Breakfast,574,0,0,574,Bulk
+IDEA Alamo,College Preparatory,MRGV,TX,4/16/24,Lunch,CP Lunch,657,0,0,657,Bulk
+IDEA Alamo,College Preparatory,MRGV,TX,4/17/24,Breakfast,CP Breakfast,485,0,0,485,Bulk
+IDEA Alamo,College Preparatory,MRGV,TX,4/17/24,CACFP Supper,Supper,20,0,2,22,Individual
+IDEA Alamo,College Preparatory,MRGV,TX,4/17/24,Lunch,CP Lunch,531,0,0,531,Bulk
+IDEA Alamo,College Preparatory,MRGV,TX,4/18/24,Breakfast,CP Breakfast,513,0,0,513,Bulk
+IDEA Alamo,College Preparatory,MRGV,TX,4/18/24,CACFP Supper,Supper,15,0,1,16,Individual
+IDEA Alamo,College Preparatory,MRGV,TX,4/18/24,Lunch,CP Lunch,680,0,0,680,Bulk
+IDEA Alamo,College Preparatory,MRGV,TX,4/19/24,Breakfast,CP Breakfast,537,0,0,537,Bulk
+IDEA Alamo,College Preparatory,MRGV,TX,4/19/24,CACFP Supper,Supper,5,0,0,5,Individual
+IDEA Alamo,College Preparatory,MRGV,TX,4/19/24,Lunch,CP Lunch,636,0,0,636,Bulk
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/15/24,Breakfast,AC Breakfast,273,0,0,273,Bulk
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/15/24,CACFP Supper,Supper,50,1,50,101,Individual
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/15/24,Lunch,AC Lunch,323,0,0,323,Bulk
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/16/24,Breakfast,AC Breakfast,263,0,0,263,Bulk
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/16/24,CACFP Supper,Supper,52,1,49,102,Individual
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/16/24,Lunch,AC Lunch,364,0,0,364,Bulk
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/17/24,Breakfast,AC Breakfast,288,0,0,288,Bulk
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/17/24,CACFP Supper,Supper,48,1,54,103,Individual
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/17/24,Lunch,AC Lunch,313,0,0,313,Bulk
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/18/24,Breakfast,AC Breakfast,277,0,0,277,Bulk
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/18/24,CACFP Supper,Supper,57,2,54,113,Individual
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/18/24,Lunch,AC Lunch,338,0,0,338,Bulk
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/19/24,Breakfast,AC Breakfast,274,0,0,274,Bulk
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/19/24,CACFP Supper,Supper,50,2,48,100,Individual
+IDEA Ambrose and Freda Robinson,Academy,WSAR,TX,4/19/24,Lunch,AC Lunch,378,0,0,378,Bulk
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/15/24,Breakfast,CP Breakfast,73,0,0,73,Bulk
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/15/24,CACFP Supper,Supper,5,0,9,14,Individual
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/15/24,Lunch,CP Lunch,95,0,0,95,Bulk
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/16/24,Breakfast,CP Breakfast,69,0,0,69,Bulk
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/16/24,CACFP Supper,Supper,9,0,11,20,Individual
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/16/24,Lunch,CP Lunch,65,0,0,65,Bulk
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/17/24,Breakfast,CP Breakfast,70,0,0,70,Bulk
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/17/24,CACFP Supper,Supper,8,0,8,16,Individual
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/17/24,Lunch,CP Lunch,94,0,0,94,Bulk
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/18/24,Breakfast,CP Breakfast,64,0,0,64,Bulk
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/18/24,CACFP Supper,Supper,10,0,13,23,Individual
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/18/24,Lunch,CP Lunch,102,0,0,102,Bulk
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/19/24,Breakfast,CP Breakfast,66,0,0,66,Bulk
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/19/24,CACFP Supper,Supper,8,0,7,15,Individual
+IDEA Ambrose and Freda Robinson,College Preparatory,WSAR,TX,4/19/24,Lunch,CP Lunch,97,0,0,97,Bulk
+IDEA Bassett,Academy,JACK,FL,4/15/24,Breakfast,AC Breakfast,368,0,0,368,Bulk
+IDEA Bassett,Academy,JACK,FL,4/15/24,CACFP Supper,Supper,119,0,0,119,Bulk
+IDEA Bassett,Academy,JACK,FL,4/15/24,Lunch,AC Lunch,337,0,0,337,Bulk
+IDEA Bassett,Academy,JACK,FL,4/16/24,Breakfast,AC Breakfast,336,0,0,336,Bulk
+IDEA Bassett,Academy,JACK,FL,4/16/24,CACFP Supper,Supper,146,0,0,146,Bulk
+IDEA Bassett,Academy,JACK,FL,4/16/24,Lunch,AC Lunch,345,0,0,345,Bulk
+IDEA Bassett,Academy,JACK,FL,4/17/24,Breakfast,AC Breakfast,342,0,0,342,Bulk
+IDEA Bassett,Academy,JACK,FL,4/17/24,CACFP Supper,Supper,139,0,0,139,Bulk
+IDEA Bassett,Academy,JACK,FL,4/17/24,Lunch,AC Lunch,356,0,0,356,Bulk
+IDEA Bassett,Academy,JACK,FL,4/18/24,Breakfast,AC Breakfast,314,0,0,314,Bulk
+IDEA Bassett,Academy,JACK,FL,4/18/24,CACFP Supper,Supper,154,0,0,154,Bulk
+IDEA Bassett,Academy,JACK,FL,4/18/24,Lunch,AC Lunch,363,0,0,363,Bulk
+IDEA Bassett,Academy,JACK,FL,4/19/24,Breakfast,AC Breakfast,343,0,0,343,Bulk
+IDEA Bassett,Academy,JACK,FL,4/19/24,CACFP Supper,Supper,89,0,0,89,Bulk
+IDEA Bassett,Academy,JACK,FL,4/19/24,Lunch,AC Lunch,347,0,0,347,Bulk
+IDEA Bassett,College Preparatory,JACK,FL,4/15/24,Breakfast,CP Breakfast,137,0,0,137,Bulk
+IDEA Bassett,College Preparatory,JACK,FL,4/15/24,Lunch,CP Lunch,196,0,0,196,Bulk
+IDEA Bassett,College Preparatory,JACK,FL,4/16/24,Breakfast,CP Breakfast,122,0,0,122,Bulk
+IDEA Bassett,College Preparatory,JACK,FL,4/16/24,Lunch,CP Lunch,185,0,0,185,Bulk
+IDEA Bassett,College Preparatory,JACK,FL,4/17/24,Breakfast,CP Breakfast,130,0,0,130,Bulk
+IDEA Bassett,College Preparatory,JACK,FL,4/17/24,Lunch,CP Lunch,195,0,0,195,Bulk
+IDEA Bassett,College Preparatory,JACK,FL,4/18/24,Breakfast,CP Breakfast,115,0,0,115,Bulk
+IDEA Bassett,College Preparatory,JACK,FL,4/18/24,Lunch,CP Lunch,183,0,0,183,Bulk
+IDEA Bassett,College Preparatory,JACK,FL,4/19/24,Breakfast,CP Breakfast,106,0,0,106,Bulk
+IDEA Bassett,College Preparatory,JACK,FL,4/19/24,Lunch,CP Lunch,178,0,0,178,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/15/24,Breakfast,AC Breakfast,318,0,0,318,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/15/24,CACFP Supper,AC Supper,22,0,0,22,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/15/24,CACFP Supper,Supper,124,6,84,214,Individual
+IDEA Bluff Springs,Academy,AUR,TX,4/15/24,Lunch,AC Lunch,455,0,0,455,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/16/24,Breakfast,AC Breakfast,343,0,0,343,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/16/24,CACFP Supper,AC Supper,18,0,0,18,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/16/24,CACFP Supper,Supper,129,7,84,220,Individual
+IDEA Bluff Springs,Academy,AUR,TX,4/16/24,Lunch,AC Lunch,423,0,0,423,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/17/24,Breakfast,AC Breakfast,371,0,0,371,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/17/24,CACFP Supper,AC Supper,21,0,0,21,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/17/24,CACFP Supper,Supper,122,8,89,219,Individual
+IDEA Bluff Springs,Academy,AUR,TX,4/17/24,Lunch,AC Lunch,459,0,0,459,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/18/24,Breakfast,AC Breakfast,356,0,0,356,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/18/24,CACFP Supper,AC Supper,20,0,0,20,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/18/24,CACFP Supper,Supper,129,8,85,222,Individual
+IDEA Bluff Springs,Academy,AUR,TX,4/18/24,Lunch,AC Lunch,474,0,0,474,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/19/24,Breakfast,AC Breakfast,361,0,0,361,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/19/24,CACFP Supper,AC Supper,17,0,0,17,Bulk
+IDEA Bluff Springs,Academy,AUR,TX,4/19/24,CACFP Supper,Supper,122,6,81,209,Individual
+IDEA Bluff Springs,Academy,AUR,TX,4/19/24,Lunch,AC Lunch,472,0,0,472,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/15/24,Breakfast,CP Breakfast,130,0,0,130,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/15/24,CACFP Supper,CP Supper,10,0,0,10,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/15/24,CACFP Supper,Supper,0,0,2,2,Individual
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/15/24,Lunch,CP Lunch,495,0,0,495,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/16/24,Breakfast,CP Breakfast,133,0,0,133,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/16/24,CACFP Supper,CP Supper,7,0,0,7,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/16/24,CACFP Supper,Supper,0,0,3,3,Individual
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/16/24,Lunch,CP Lunch,447,0,0,447,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/17/24,Breakfast,CP Breakfast,161,0,0,161,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/17/24,CACFP Supper,CP Supper,8,0,0,8,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/17/24,Lunch,CP Lunch,597,0,0,597,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/18/24,Breakfast,CP Breakfast,140,0,0,140,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/18/24,CACFP Supper,CP Supper,4,0,0,4,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/18/24,CACFP Supper,Supper,0,0,3,3,Individual
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/18/24,Lunch,CP Lunch,592,0,0,592,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/19/24,Breakfast,CP Breakfast,142,0,0,142,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/19/24,CACFP Supper,CP Supper,10,0,0,10,Bulk
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/19/24,CACFP Supper,Supper,0,0,3,3,Individual
+IDEA Bluff Springs,College Preparatory,AUR,TX,4/19/24,Lunch,CP Lunch,520,0,0,520,Bulk
+IDEA Brackenridge,Academy,WSAR,TX,4/15/24,Breakfast,AC Breakfast,399,0,0,399,Bulk
+IDEA Brackenridge,Academy,WSAR,TX,4/15/24,CACFP Supper,Supper,155,7,58,220,Individual
+IDEA Brackenridge,Academy,WSAR,TX,4/15/24,Lunch,AC Lunch,533,0,0,533,Bulk
+IDEA Brackenridge,Academy,WSAR,TX,4/16/24,Breakfast,AC Breakfast,431,0,0,431,Bulk
+IDEA Brackenridge,Academy,WSAR,TX,4/16/24,CACFP Supper,Supper,173,8,71,252,Individual
+IDEA Brackenridge,Academy,WSAR,TX,4/16/24,Lunch,AC Lunch,574,0,0,574,Bulk
+IDEA Brackenridge,Academy,WSAR,TX,4/17/24,Breakfast,AC Breakfast,424,0,0,424,Bulk
+IDEA Brackenridge,Academy,WSAR,TX,4/17/24,CACFP Supper,Supper,165,9,74,248,Individual
+IDEA Brackenridge,Academy,WSAR,TX,4/17/24,Lunch,AC Lunch,544,0,0,544,Bulk
+IDEA Brackenridge,Academy,WSAR,TX,4/18/24,Breakfast,AC Breakfast,405,0,0,405,Bulk
+IDEA Brackenridge,Academy,WSAR,TX,4/18/24,CACFP Supper,Supper,168,8,67,243,Individual
+IDEA Brackenridge,Academy,WSAR,TX,4/18/24,Lunch,AC Lunch,552,0,0,552,Bulk
+IDEA Brackenridge,Academy,WSAR,TX,4/19/24,Breakfast,AC Breakfast,396,0,0,396,Bulk
+IDEA Brackenridge,Academy,WSAR,TX,4/19/24,CACFP Supper,Supper,150,8,66,224,Individual
+IDEA Brackenridge,Academy,WSAR,TX,4/19/24,Lunch,AC Lunch,507,0,0,507,Bulk
+IDEA Brackenridge,College Preparatory,WSAR,TX,4/15/24,Breakfast,CP Breakfast,367,0,0,367,Bulk
+IDEA Brackenridge,College Preparatory,WSAR,TX,4/15/24,Lunch,CP Lunch,514,0,0,514,Bulk
+IDEA Brackenridge,College Preparatory,WSAR,TX,4/16/24,Breakfast,CP Breakfast,385,0,0,385,Bulk
+IDEA Brackenridge,College Preparatory,WSAR,TX,4/16/24,Lunch,CP Lunch,527,0,0,527,Bulk
+IDEA Brackenridge,College Preparatory,WSAR,TX,4/17/24,Breakfast,CP Breakfast,416,0,0,416,Bulk
+IDEA Brackenridge,College Preparatory,WSAR,TX,4/17/24,Lunch,CP Lunch,540,0,0,540,Bulk
+IDEA Brackenridge,College Preparatory,WSAR,TX,4/18/24,Breakfast,CP Breakfast,377,0,0,377,Bulk
+IDEA Brackenridge,College Preparatory,WSAR,TX,4/18/24,Lunch,CP Lunch,529,0,0,529,Bulk
+IDEA Brackenridge,College Preparatory,WSAR,TX,4/19/24,Breakfast,CP Breakfast,356,0,0,356,Bulk
+IDEA Brackenridge,College Preparatory,WSAR,TX,4/19/24,Lunch,CP Lunch,509,0,0,509,Bulk
+IDEA Bridge,Academy,SOLA,LA,4/15/24,Breakfast,AC Breakfast,467,0,0,467,Bulk
+IDEA Bridge,Academy,SOLA,LA,4/15/24,CACFP Supper,Supper,141,10,43,194,Individual
+IDEA Bridge,Academy,SOLA,LA,4/15/24,Lunch,AC Lunch,430,0,0,430,Bulk
+IDEA Bridge,Academy,SOLA,LA,4/16/24,Breakfast,AC Breakfast,480,0,0,480,Bulk
+IDEA Bridge,Academy,SOLA,LA,4/16/24,CACFP Supper,Supper,160,14,38,212,Individual
+IDEA Bridge,Academy,SOLA,LA,4/16/24,Lunch,AC Lunch,473,0,0,473,Bulk
+IDEA Bridge,Academy,SOLA,LA,4/17/24,Breakfast,AC Breakfast,477,0,0,477,Bulk
+IDEA Bridge,Academy,SOLA,LA,4/17/24,CACFP Supper,Supper,141,11,40,192,Individual
+IDEA Bridge,Academy,SOLA,LA,4/17/24,Lunch,AC Lunch,479,0,0,479,Bulk
+IDEA Bridge,Academy,SOLA,LA,4/18/24,Breakfast,AC Breakfast,462,0,0,462,Bulk
+IDEA Bridge,Academy,SOLA,LA,4/18/24,CACFP Supper,Supper,169,14,37,220,Individual
+IDEA Bridge,Academy,SOLA,LA,4/18/24,Lunch,AC Lunch,489,0,0,489,Bulk
+IDEA Bridge,Academy,SOLA,LA,4/19/24,Breakfast,AC Breakfast,452,0,0,452,Bulk
+IDEA Bridge,Academy,SOLA,LA,4/19/24,Lunch,AC Lunch,481,0,0,481,Bulk
+IDEA Bridge,College Preparatory,SOLA,LA,4/15/24,Breakfast,CP Breakfast,264,0,0,264,Bulk
+IDEA Bridge,College Preparatory,SOLA,LA,4/15/24,CACFP Supper,Supper,11,1,6,18,Individual
+IDEA Bridge,College Preparatory,SOLA,LA,4/15/24,Lunch,CP Lunch,352,0,0,352,Bulk
+IDEA Bridge,College Preparatory,SOLA,LA,4/16/24,Breakfast,CP Breakfast,309,0,0,309,Bulk
+IDEA Bridge,College Preparatory,SOLA,LA,4/16/24,CACFP Supper,Supper,13,1,6,20,Individual
+IDEA Bridge,College Preparatory,SOLA,LA,4/16/24,Lunch,CP Lunch,360,0,0,360,Bulk
+IDEA Bridge,College Preparatory,SOLA,LA,4/17/24,Breakfast,CP Breakfast,363,0,0,363,Bulk
+IDEA Bridge,College Preparatory,SOLA,LA,4/17/24,CACFP Supper,Supper,11,1,5,17,Individual
+IDEA Bridge,College Preparatory,SOLA,LA,4/17/24,Lunch,CP Lunch,401,0,0,401,Bulk
+IDEA Bridge,College Preparatory,SOLA,LA,4/18/24,Breakfast,CP Breakfast,396,0,0,396,Bulk
+IDEA Bridge,College Preparatory,SOLA,LA,4/18/24,CACFP Supper,Supper,17,0,4,21,Individual
+IDEA Bridge,College Preparatory,SOLA,LA,4/18/24,Lunch,CP Lunch,366,0,0,366,Bulk
+IDEA Bridge,College Preparatory,SOLA,LA,4/19/24,Breakfast,CP Breakfast,378,0,0,378,Bulk
+IDEA Bridge,College Preparatory,SOLA,LA,4/19/24,Lunch,CP Lunch,362,0,0,362,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/15/24,Breakfast,AC Breakfast,462,0,0,462,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/15/24,CACFP Supper,AC Supper,243,0,0,243,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/15/24,CACFP Supper,Supper,21,0,14,35,Individual
+IDEA Brownsville,Academy,LRGV,TX,4/15/24,Lunch,AC Lunch,630,0,0,630,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/16/24,Breakfast,AC Breakfast,481,0,0,481,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/16/24,CACFP Supper,AC Supper,267,0,0,267,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/16/24,CACFP Supper,Supper,27,2,22,51,Individual
+IDEA Brownsville,Academy,LRGV,TX,4/16/24,Lunch,AC Lunch,657,0,0,657,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/17/24,Breakfast,AC Breakfast,498,0,0,498,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/17/24,CACFP Supper,AC Supper,248,0,0,248,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/17/24,CACFP Supper,Supper,16,1,11,28,Individual
+IDEA Brownsville,Academy,LRGV,TX,4/17/24,Lunch,AC Lunch,619,0,0,619,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/18/24,Breakfast,AC Breakfast,470,0,0,470,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/18/24,CACFP Supper,AC Supper,185,0,0,185,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/18/24,CACFP Supper,Supper,31,1,22,54,Individual
+IDEA Brownsville,Academy,LRGV,TX,4/18/24,Lunch,AC Lunch,603,0,0,603,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/19/24,Breakfast,AC Breakfast,506,0,0,506,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/19/24,CACFP Supper,Supper,17,2,12,31,Individual
+IDEA Brownsville,Academy,LRGV,TX,4/19/24,CACFP Supper,Supper,249,0,0,249,Bulk
+IDEA Brownsville,Academy,LRGV,TX,4/19/24,Lunch,AC Lunch,623,0,0,623,Bulk
+IDEA Brownsville,College Preparatory,LRGV,TX,4/15/24,Breakfast,CP Breakfast,493,0,0,493,Bulk
+IDEA Brownsville,College Preparatory,LRGV,TX,4/15/24,CACFP Supper,Supper,27,4,19,50,Individual
+IDEA Brownsville,College Preparatory,LRGV,TX,4/15/24,Lunch,CP Lunch,532,0,0,532,Bulk
+IDEA Brownsville,College Preparatory,LRGV,TX,4/16/24,Breakfast,CP Breakfast,428,0,0,428,Bulk
+IDEA Brownsville,College Preparatory,LRGV,TX,4/16/24,CACFP Supper,Supper,30,6,31,67,Individual
+IDEA Brownsville,College Preparatory,LRGV,TX,4/16/24,Lunch,CP Lunch,542,0,0,542,Bulk
+IDEA Brownsville,College Preparatory,LRGV,TX,4/17/24,Breakfast,CP Breakfast,593,0,0,593,Bulk
+IDEA Brownsville,College Preparatory,LRGV,TX,4/17/24,CACFP Supper,Supper,42,10,48,100,Individual
+IDEA Brownsville,College Preparatory,LRGV,TX,4/17/24,Lunch,CP Lunch,528,0,0,528,Bulk
+IDEA Brownsville,College Preparatory,LRGV,TX,4/18/24,Breakfast,CP Breakfast,463,0,0,463,Bulk
+IDEA Brownsville,College Preparatory,LRGV,TX,4/18/24,CACFP Supper,Supper,44,4,40,88,Individual
+IDEA Brownsville,College Preparatory,LRGV,TX,4/18/24,Lunch,CP Lunch,548,0,0,548,Bulk
+IDEA Brownsville,College Preparatory,LRGV,TX,4/19/24,Breakfast,CP Breakfast,434,0,0,434,Bulk
+IDEA Brownsville,College Preparatory,LRGV,TX,4/19/24,CACFP Supper,Supper,18,1,7,26,Individual
+IDEA Brownsville,College Preparatory,LRGV,TX,4/19/24,Lunch,CP Lunch,568,0,0,568,Bulk
+IDEA Burke,Academy,WSAR,TX,4/15/24,Breakfast,AC Breakfast,567,0,0,567,Bulk
+IDEA Burke,Academy,WSAR,TX,4/15/24,CACFP Supper,Supper,46,5,65,116,Individual
+IDEA Burke,Academy,WSAR,TX,4/15/24,Lunch,AC Lunch,593,0,0,593,Bulk
+IDEA Burke,Academy,WSAR,TX,4/16/24,Breakfast,AC Breakfast,539,0,0,539,Bulk
+IDEA Burke,Academy,WSAR,TX,4/16/24,Lunch,AC Lunch,565,0,0,565,Bulk
+IDEA Burke,Academy,WSAR,TX,4/17/24,Breakfast,AC Breakfast,542,0,0,542,Bulk
+IDEA Burke,Academy,WSAR,TX,4/17/24,CACFP Supper,Supper,50,6,76,132,Individual
+IDEA Burke,Academy,WSAR,TX,4/17/24,Lunch,AC Lunch,549,0,0,549,Bulk
+IDEA Burke,Academy,WSAR,TX,4/18/24,Breakfast,AC Breakfast,510,0,0,510,Bulk
+IDEA Burke,Academy,WSAR,TX,4/18/24,CACFP Supper,Supper,52,5,85,142,Individual
+IDEA Burke,Academy,WSAR,TX,4/18/24,Lunch,AC Lunch,602,0,0,602,Bulk
+IDEA Burke,Academy,WSAR,TX,4/19/24,Breakfast,AC Breakfast,523,0,0,523,Bulk
+IDEA Burke,Academy,WSAR,TX,4/19/24,CACFP Supper,Supper,48,4,74,126,Individual
+IDEA Burke,Academy,WSAR,TX,4/19/24,Lunch,AC Lunch,589,0,0,589,Bulk
+IDEA Burke,College Preparatory,WSAR,TX,4/15/24,Breakfast,CP Breakfast,336,0,0,336,Bulk
+IDEA Burke,College Preparatory,WSAR,TX,4/15/24,CACFP Supper,Supper,16,0,20,36,Individual
+IDEA Burke,College Preparatory,WSAR,TX,4/15/24,Lunch,CP Lunch,379,0,0,379,Bulk
+IDEA Burke,College Preparatory,WSAR,TX,4/16/24,Breakfast,CP Breakfast,333,0,0,333,Bulk
+IDEA Burke,College Preparatory,WSAR,TX,4/16/24,CACFP Supper,Supper,15,1,16,32,Individual
+IDEA Burke,College Preparatory,WSAR,TX,4/16/24,Lunch,CP Lunch,355,0,0,355,Bulk
+IDEA Burke,College Preparatory,WSAR,TX,4/17/24,Breakfast,CP Breakfast,328,0,0,328,Bulk
+IDEA Burke,College Preparatory,WSAR,TX,4/17/24,CACFP Supper,Supper,13,1,18,32,Individual
+IDEA Burke,College Preparatory,WSAR,TX,4/17/24,Lunch,CP Lunch,324,0,0,324,Bulk
+IDEA Burke,College Preparatory,WSAR,TX,4/18/24,Breakfast,CP Breakfast,312,0,0,312,Bulk
+IDEA Burke,College Preparatory,WSAR,TX,4/18/24,CACFP Supper,Supper,12,1,12,25,Individual
+IDEA Burke,College Preparatory,WSAR,TX,4/18/24,Lunch,CP Lunch,386,0,0,386,Bulk
+IDEA Burke,College Preparatory,WSAR,TX,4/19/24,Breakfast,CP Breakfast,349,0,0,349,Bulk
+IDEA Burke,College Preparatory,WSAR,TX,4/19/24,CACFP Supper,Supper,11,1,15,27,Individual
+IDEA Burke,College Preparatory,WSAR,TX,4/19/24,Lunch,CP Lunch,345,0,0,345,Bulk
+IDEA Carver,Academy,ESAR,TX,4/15/24,Breakfast,AC Breakfast,406,0,0,406,Bulk
+IDEA Carver,Academy,ESAR,TX,4/15/24,CACFP Supper,Supper,108,7,47,162,Individual
+IDEA Carver,Academy,ESAR,TX,4/15/24,Lunch,AC Lunch,432,0,0,432,Bulk
+IDEA Carver,Academy,ESAR,TX,4/16/24,Breakfast,AC Breakfast,403,0,0,403,Bulk
+IDEA Carver,Academy,ESAR,TX,4/16/24,CACFP Supper,Supper,108,7,50,165,Individual
+IDEA Carver,Academy,ESAR,TX,4/16/24,Lunch,AC Lunch,439,0,0,439,Bulk
+IDEA Carver,Academy,ESAR,TX,4/17/24,Breakfast,AC Breakfast,407,0,0,407,Bulk
+IDEA Carver,Academy,ESAR,TX,4/17/24,CACFP Supper,Supper,106,7,52,165,Individual
+IDEA Carver,Academy,ESAR,TX,4/17/24,Lunch,AC Lunch,390,0,0,390,Bulk
+IDEA Carver,Academy,ESAR,TX,4/18/24,Breakfast,AC Breakfast,405,0,0,405,Bulk
+IDEA Carver,Academy,ESAR,TX,4/18/24,CACFP Supper,Supper,108,5,52,165,Individual
+IDEA Carver,Academy,ESAR,TX,4/18/24,Lunch,AC Lunch,442,0,0,442,Bulk
+IDEA Carver,Academy,ESAR,TX,4/19/24,Breakfast,AC Breakfast,395,0,0,395,Bulk
+IDEA Carver,Academy,ESAR,TX,4/19/24,CACFP Supper,Supper,102,6,45,153,Individual
+IDEA Carver,Academy,ESAR,TX,4/19/24,Lunch,AC Lunch,414,0,0,414,Bulk
+IDEA Carver,College Preparatory,ESAR,TX,4/15/24,Breakfast,CP Breakfast,395,0,0,395,Bulk
+IDEA Carver,College Preparatory,ESAR,TX,4/15/24,Lunch,CP Lunch,467,0,0,467,Bulk
+IDEA Carver,College Preparatory,ESAR,TX,4/16/24,Breakfast,CP Breakfast,406,0,0,406,Bulk
+IDEA Carver,College Preparatory,ESAR,TX,4/16/24,Lunch,CP Lunch,474,0,0,474,Bulk
+IDEA Carver,College Preparatory,ESAR,TX,4/17/24,Breakfast,CP Breakfast,401,0,0,401,Bulk
+IDEA Carver,College Preparatory,ESAR,TX,4/17/24,Lunch,CP Lunch,455,0,0,455,Bulk
+IDEA Carver,College Preparatory,ESAR,TX,4/18/24,Breakfast,CP Breakfast,408,0,0,408,Bulk
+IDEA Carver,College Preparatory,ESAR,TX,4/18/24,Lunch,CP Lunch,493,0,0,493,Bulk
+IDEA Carver,College Preparatory,ESAR,TX,4/19/24,Breakfast,CP Breakfast,401,0,0,401,Bulk
+IDEA Carver,College Preparatory,ESAR,TX,4/19/24,Lunch,CP Lunch,467,0,0,467,Bulk
+IDEA Converse,Academy,ESAR,TX,4/15/24,Breakfast,AC Breakfast,405,0,0,405,Bulk
+IDEA Converse,Academy,ESAR,TX,4/15/24,CACFP Supper,Supper,85,8,107,200,Individual
+IDEA Converse,Academy,ESAR,TX,4/15/24,Lunch,AC Lunch,471,0,0,471,Bulk
+IDEA Converse,Academy,ESAR,TX,4/16/24,Breakfast,AC Breakfast,377,0,0,377,Bulk
+IDEA Converse,Academy,ESAR,TX,4/16/24,CACFP Supper,Supper,79,8,110,197,Individual
+IDEA Converse,Academy,ESAR,TX,4/16/24,Lunch,AC Lunch,434,0,0,434,Bulk
+IDEA Converse,Academy,ESAR,TX,4/17/24,Breakfast,AC Breakfast,413,0,0,413,Bulk
+IDEA Converse,Academy,ESAR,TX,4/17/24,CACFP Supper,Supper,83,8,108,199,Individual
+IDEA Converse,Academy,ESAR,TX,4/17/24,Lunch,AC Lunch,444,0,0,444,Bulk
+IDEA Converse,Academy,ESAR,TX,4/18/24,Breakfast,AC Breakfast,404,0,0,404,Bulk
+IDEA Converse,Academy,ESAR,TX,4/18/24,CACFP Supper,Supper,83,6,110,199,Individual
+IDEA Converse,Academy,ESAR,TX,4/18/24,Lunch,AC Lunch,483,0,0,483,Bulk
+IDEA Converse,Academy,ESAR,TX,4/19/24,Breakfast,AC Breakfast,390,0,0,390,Bulk
+IDEA Converse,Academy,ESAR,TX,4/19/24,CACFP Supper,Supper,80,6,102,188,Individual
+IDEA Converse,Academy,ESAR,TX,4/19/24,Lunch,AC Lunch,471,0,0,471,Bulk
+IDEA Converse,College Preparatory,ESAR,TX,4/15/24,Breakfast,CP Breakfast,185,0,0,185,Bulk
+IDEA Converse,College Preparatory,ESAR,TX,4/15/24,Lunch,CP Lunch,297,0,0,297,Bulk
+IDEA Converse,College Preparatory,ESAR,TX,4/16/24,Breakfast,CP Breakfast,163,0,0,163,Bulk
+IDEA Converse,College Preparatory,ESAR,TX,4/16/24,CACFP Supper,Supper,0,0,1,1,Individual
+IDEA Converse,College Preparatory,ESAR,TX,4/16/24,Lunch,CP Lunch,309,0,0,309,Bulk
+IDEA Converse,College Preparatory,ESAR,TX,4/17/24,Breakfast,CP Breakfast,181,0,0,181,Bulk
+IDEA Converse,College Preparatory,ESAR,TX,4/17/24,Lunch,CP Lunch,256,0,0,256,Bulk
+IDEA Converse,College Preparatory,ESAR,TX,4/18/24,Breakfast,CP Breakfast,198,0,0,198,Bulk
+IDEA Converse,College Preparatory,ESAR,TX,4/18/24,CACFP Supper,Supper,1,0,0,1,Individual
+IDEA Converse,College Preparatory,ESAR,TX,4/18/24,Lunch,CP Lunch,288,0,0,288,Bulk
+IDEA Converse,College Preparatory,ESAR,TX,4/19/24,Breakfast,CP Breakfast,187,0,0,187,Bulk
+IDEA Converse,College Preparatory,ESAR,TX,4/19/24,CACFP Supper,Supper,0,0,1,1,Individual
+IDEA Converse,College Preparatory,ESAR,TX,4/19/24,Lunch,CP Lunch,268,0,0,268,Bulk
+IDEA Donna,Academy,MRGV,TX,4/15/24,Breakfast,AC Breakfast,531,0,0,531,Bulk
+IDEA Donna,Academy,MRGV,TX,4/15/24,CACFP Supper,AC Supper,18,0,0,18,Bulk
+IDEA Donna,Academy,MRGV,TX,4/15/24,CACFP Supper,Supper,13,0,9,22,Individual
+IDEA Donna,Academy,MRGV,TX,4/15/24,Lunch,AC Lunch,655,0,0,655,Bulk
+IDEA Donna,Academy,MRGV,TX,4/16/24,Breakfast,AC Breakfast,592,0,0,592,Bulk
+IDEA Donna,Academy,MRGV,TX,4/16/24,CACFP Supper,AC Supper,12,0,0,12,Bulk
+IDEA Donna,Academy,MRGV,TX,4/16/24,CACFP Supper,Supper,26,1,11,38,Individual
+IDEA Donna,Academy,MRGV,TX,4/16/24,Lunch,AC Lunch,712,0,0,712,Bulk
+IDEA Donna,Academy,MRGV,TX,4/17/24,Breakfast,AC Breakfast,575,0,0,575,Bulk
+IDEA Donna,Academy,MRGV,TX,4/17/24,CACFP Supper,AC Supper,19,0,0,19,Bulk
+IDEA Donna,Academy,MRGV,TX,4/17/24,CACFP Supper,Supper,14,1,12,27,Individual
+IDEA Donna,Academy,MRGV,TX,4/17/24,Lunch,AC Lunch,663,0,0,663,Bulk
+IDEA Donna,Academy,MRGV,TX,4/18/24,Breakfast,AC Breakfast,562,0,0,562,Bulk
+IDEA Donna,Academy,MRGV,TX,4/18/24,CACFP Supper,AC Supper,19,0,0,19,Bulk
+IDEA Donna,Academy,MRGV,TX,4/18/24,CACFP Supper,Supper,22,1,11,34,Individual
+IDEA Donna,Academy,MRGV,TX,4/18/24,Lunch,AC Lunch,678,0,0,678,Bulk
+IDEA Donna,Academy,MRGV,TX,4/19/24,Breakfast,AC Breakfast,568,0,0,568,Bulk
+IDEA Donna,Academy,MRGV,TX,4/19/24,CACFP Supper,AC Supper,19,0,0,19,Bulk
+IDEA Donna,Academy,MRGV,TX,4/19/24,CACFP Supper,Supper,11,0,10,21,Individual
+IDEA Donna,Academy,MRGV,TX,4/19/24,Lunch,AC Lunch,662,0,0,662,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/15/24,Breakfast,CP Breakfast,518,0,0,518,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/15/24,CACFP Supper,CP Supper,12,0,0,12,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/15/24,CACFP Supper,Supper,84,3,53,140,Individual
+IDEA Donna,College Preparatory,MRGV,TX,4/15/24,Lunch,CP Lunch,587,0,0,587,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/16/24,Breakfast,CP Breakfast,530,0,0,530,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/16/24,CACFP Supper,CP Supper,11,0,0,11,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/16/24,CACFP Supper,Supper,10,1,9,20,Individual
+IDEA Donna,College Preparatory,MRGV,TX,4/16/24,Lunch,CP Lunch,669,0,0,669,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/17/24,Breakfast,CP Breakfast,543,0,0,543,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/17/24,CACFP Supper,CP Supper,11,0,0,11,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/17/24,CACFP Supper,Supper,68,2,35,105,Individual
+IDEA Donna,College Preparatory,MRGV,TX,4/17/24,Lunch,CP Lunch,609,0,0,609,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/18/24,Breakfast,CP Breakfast,557,0,0,557,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/18/24,CACFP Supper,CP Supper,12,0,0,12,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/18/24,CACFP Supper,Supper,77,2,46,125,Individual
+IDEA Donna,College Preparatory,MRGV,TX,4/18/24,Lunch,CP Lunch,619,0,0,619,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/19/24,Breakfast,CP Breakfast,556,0,0,556,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/19/24,CACFP Supper,CP Supper,10,0,0,10,Bulk
+IDEA Donna,College Preparatory,MRGV,TX,4/19/24,CACFP Supper,Supper,73,2,51,126,Individual
+IDEA Donna,College Preparatory,MRGV,TX,4/19/24,Lunch,CP Lunch,643,0,0,643,Bulk
+IDEA Eastside,Academy,ESAR,TX,4/15/24,Breakfast,AC Breakfast,323,0,0,323,Bulk
+IDEA Eastside,Academy,ESAR,TX,4/15/24,CACFP Supper,Supper,46,1,10,57,Individual
+IDEA Eastside,Academy,ESAR,TX,4/15/24,Lunch,AC Lunch,359,0,0,359,Bulk
+IDEA Eastside,Academy,ESAR,TX,4/16/24,Breakfast,AC Breakfast,332,0,0,332,Bulk
+IDEA Eastside,Academy,ESAR,TX,4/16/24,CACFP Supper,Supper,46,1,13,60,Individual
+IDEA Eastside,Academy,ESAR,TX,4/16/24,Lunch,AC Lunch,362,0,0,362,Bulk
+IDEA Eastside,Academy,ESAR,TX,4/17/24,Breakfast,AC Breakfast,339,0,0,339,Bulk
+IDEA Eastside,Academy,ESAR,TX,4/17/24,CACFP Supper,Supper,43,1,12,56,Individual
+IDEA Eastside,Academy,ESAR,TX,4/17/24,Lunch,AC Lunch,343,0,0,343,Bulk
+IDEA Eastside,Academy,ESAR,TX,4/18/24,Breakfast,AC Breakfast,330,0,0,330,Bulk
+IDEA Eastside,Academy,ESAR,TX,4/18/24,CACFP Supper,Supper,49,2,12,63,Individual
+IDEA Eastside,Academy,ESAR,TX,4/18/24,Lunch,AC Lunch,362,0,0,362,Bulk
+IDEA Eastside,Academy,ESAR,TX,4/19/24,Breakfast,AC Breakfast,293,0,0,293,Bulk
+IDEA Eastside,Academy,ESAR,TX,4/19/24,CACFP Supper,Supper,43,2,12,57,Individual
+IDEA Eastside,Academy,ESAR,TX,4/19/24,Lunch,AC Lunch,330,0,0,330,Bulk
+IDEA Eastside,College Preparatory,ESAR,TX,4/15/24,Breakfast,CP Breakfast,335,0,0,335,Bulk
+IDEA Eastside,College Preparatory,ESAR,TX,4/15/24,Lunch,CP Lunch,348,0,0,348,Bulk
+IDEA Eastside,College Preparatory,ESAR,TX,4/16/24,Breakfast,CP Breakfast,305,0,0,305,Bulk
+IDEA Eastside,College Preparatory,ESAR,TX,4/16/24,Lunch,CP Lunch,326,0,0,326,Bulk
+IDEA Eastside,College Preparatory,ESAR,TX,4/17/24,Breakfast,CP Breakfast,312,0,0,312,Bulk
+IDEA Eastside,College Preparatory,ESAR,TX,4/17/24,Lunch,CP Lunch,393,0,0,393,Bulk
+IDEA Eastside,College Preparatory,ESAR,TX,4/18/24,Breakfast,CP Breakfast,330,0,0,330,Bulk
+IDEA Eastside,College Preparatory,ESAR,TX,4/18/24,Lunch,CP Lunch,388,0,0,388,Bulk
+IDEA Eastside,College Preparatory,ESAR,TX,4/19/24,Breakfast,CP Breakfast,279,0,0,279,Bulk
+IDEA Eastside,College Preparatory,ESAR,TX,4/19/24,Lunch,CP Lunch,330,0,0,330,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/15/24,Breakfast,AC Breakfast,422,0,0,422,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/15/24,CACFP Supper,AC Supper,252,0,0,252,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/15/24,Lunch,AC Lunch,498,0,0,498,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/16/24,Breakfast,AC Breakfast,398,0,0,398,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/16/24,Lunch,AC Lunch,519,0,0,519,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/17/24,Breakfast,AC Breakfast,364,0,0,364,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/17/24,CACFP Supper,AC Supper,272,0,0,272,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/17/24,Lunch,AC Lunch,504,0,0,504,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/18/24,Breakfast,AC Breakfast,420,0,0,420,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/18/24,CACFP Supper,AC Supper,234,0,0,234,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/18/24,Lunch,AC Lunch,534,0,0,534,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/19/24,Breakfast,AC Breakfast,437,0,0,437,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/19/24,CACFP Supper,AC Supper,229,0,0,229,Bulk
+IDEA Edgecliff,Academy,TRCR,TX,4/19/24,Lunch,AC Lunch,569,0,0,569,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/15/24,Breakfast,CP Breakfast,256,0,0,256,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/15/24,CACFP Supper,CP Supper,12,0,0,12,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/15/24,Lunch,CP Lunch,395,0,0,395,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/16/24,Breakfast,CP Breakfast,306,0,0,306,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/16/24,CACFP Supper,CP Supper,17,0,0,17,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/16/24,Lunch,CP Lunch,419,0,0,419,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/17/24,Breakfast,CP Breakfast,297,0,0,297,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/17/24,CACFP Supper,CP Supper,22,0,0,22,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/17/24,Lunch,CP Lunch,360,0,0,360,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/18/24,Breakfast,CP Breakfast,261,0,0,261,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/18/24,CACFP Supper,CP Supper,14,0,0,14,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/18/24,Lunch,CP Lunch,394,0,0,394,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/19/24,Breakfast,CP Breakfast,298,0,0,298,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/19/24,CACFP Supper,CP Supper,10,0,0,10,Bulk
+IDEA Edgecliff,College Preparatory,TRCR,TX,4/19/24,Lunch,CP Lunch,406,0,0,406,Bulk
+IDEA Edgemere,Academy,ELPR,TX,4/15/24,Breakfast,AC Breakfast,724,0,0,724,Bulk
+IDEA Edgemere,Academy,ELPR,TX,4/15/24,CACFP Supper,Supper,143,13,110,266,Individual
+IDEA Edgemere,Academy,ELPR,TX,4/15/24,Lunch,AC Lunch,612,0,0,612,Bulk
+IDEA Edgemere,Academy,ELPR,TX,4/16/24,Breakfast,AC Breakfast,614,0,0,614,Bulk
+IDEA Edgemere,Academy,ELPR,TX,4/16/24,CACFP Supper,Supper,156,10,115,281,Individual
+IDEA Edgemere,Academy,ELPR,TX,4/16/24,Lunch,AC Lunch,555,0,0,555,Bulk
+IDEA Edgemere,Academy,ELPR,TX,4/17/24,Breakfast,AC Breakfast,570,0,0,570,Bulk
+IDEA Edgemere,Academy,ELPR,TX,4/17/24,CACFP Supper,Supper,151,10,110,271,Individual
+IDEA Edgemere,Academy,ELPR,TX,4/17/24,Lunch,AC Lunch,613,0,0,613,Bulk
+IDEA Edgemere,Academy,ELPR,TX,4/18/24,Breakfast,AC Breakfast,557,0,0,557,Bulk
+IDEA Edgemere,Academy,ELPR,TX,4/18/24,CACFP Supper,Supper,146,10,134,290,Individual
+IDEA Edgemere,Academy,ELPR,TX,4/18/24,Lunch,AC Lunch,598,0,0,598,Bulk
+IDEA Edgemere,Academy,ELPR,TX,4/19/24,Breakfast,AC Breakfast,534,0,0,534,Bulk
+IDEA Edgemere,Academy,ELPR,TX,4/19/24,CACFP Supper,Supper,138,10,116,264,Individual
+IDEA Edgemere,Academy,ELPR,TX,4/19/24,Lunch,AC Lunch,647,0,0,647,Bulk
+IDEA Edgemere,College Preparatory,ELPR,TX,4/15/24,Breakfast,CP Breakfast,243,0,0,243,Bulk
+IDEA Edgemere,College Preparatory,ELPR,TX,4/15/24,CACFP Supper,Supper,0,0,1,1,Individual
+IDEA Edgemere,College Preparatory,ELPR,TX,4/15/24,Lunch,CP Lunch,403,0,0,403,Bulk
+IDEA Edgemere,College Preparatory,ELPR,TX,4/16/24,Breakfast,CP Breakfast,364,0,0,364,Bulk
+IDEA Edgemere,College Preparatory,ELPR,TX,4/16/24,CACFP Supper,Supper,1,0,1,2,Individual
+IDEA Edgemere,College Preparatory,ELPR,TX,4/16/24,Lunch,CP Lunch,388,0,0,388,Bulk
+IDEA Edgemere,College Preparatory,ELPR,TX,4/17/24,Breakfast,CP Breakfast,345,0,0,345,Bulk
+IDEA Edgemere,College Preparatory,ELPR,TX,4/17/24,CACFP Supper,Supper,4,0,1,5,Individual
+IDEA Edgemere,College Preparatory,ELPR,TX,4/17/24,Lunch,CP Lunch,404,0,0,404,Bulk
+IDEA Edgemere,College Preparatory,ELPR,TX,4/18/24,Breakfast,CP Breakfast,327,0,0,327,Bulk
+IDEA Edgemere,College Preparatory,ELPR,TX,4/18/24,CACFP Supper,Supper,0,0,2,2,Individual
+IDEA Edgemere,College Preparatory,ELPR,TX,4/18/24,Lunch,CP Lunch,432,0,0,432,Bulk
+IDEA Edgemere,College Preparatory,ELPR,TX,4/19/24,Breakfast,CP Breakfast,335,0,0,335,Bulk
+IDEA Edgemere,College Preparatory,ELPR,TX,4/19/24,CACFP Supper,Supper,0,0,2,2,Individual
+IDEA Edgemere,College Preparatory,ELPR,TX,4/19/24,Lunch,CP Lunch,422,0,0,422,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/15/24,Breakfast,AC Breakfast,483,0,0,483,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/15/24,CACFP Supper,AC Supper,117,0,0,117,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/15/24,Lunch,AC Lunch,664,0,0,664,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/16/24,Breakfast,AC Breakfast,510,0,0,510,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/16/24,CACFP Supper,AC Supper,160,0,0,160,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/16/24,Lunch,AC Lunch,668,0,0,668,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/17/24,Breakfast,AC Breakfast,510,0,0,510,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/17/24,CACFP Supper,AC Supper,147,0,0,147,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/17/24,Lunch,AC Lunch,607,0,0,607,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/18/24,Breakfast,AC Breakfast,490,0,0,490,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/18/24,CACFP Supper,AC Supper,147,0,0,147,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/18/24,Lunch,AC Lunch,659,0,0,659,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/19/24,Breakfast,AC Breakfast,486,0,0,486,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/19/24,CACFP Supper,AC Supper,102,0,0,102,Bulk
+IDEA Edinburg,Academy,MRGV,TX,4/19/24,Lunch,AC Lunch,532,0,0,532,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/15/24,Breakfast,CP Breakfast,550,0,0,550,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/15/24,CACFP Supper,CP Supper,59,0,0,59,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/15/24,Lunch,CP Lunch,552,0,0,552,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/16/24,Breakfast,CP Breakfast,551,0,0,551,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/16/24,CACFP Supper,CP Supper,61,0,0,61,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/16/24,Lunch,CP Lunch,556,0,0,556,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/17/24,Breakfast,CP Breakfast,562,0,0,562,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/17/24,CACFP Supper,CP Supper,67,0,0,67,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/17/24,Lunch,CP Lunch,579,0,0,579,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/18/24,Breakfast,CP Breakfast,514,0,0,514,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/18/24,CACFP Supper,CP Supper,71,0,0,71,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/18/24,Lunch,CP Lunch,594,0,0,594,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/19/24,Breakfast,CP Breakfast,512,0,0,512,Bulk
+IDEA Edinburg,College Preparatory,MRGV,TX,4/19/24,Lunch,CP Lunch,522,0,0,522,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/15/24,Breakfast,AC Breakfast,430,0,0,430,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/15/24,CACFP Supper,AC Supper,358,0,0,358,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/15/24,CACFP Supper,Supper,13,0,2,15,Individual
+IDEA Elsa,Academy,MRGV,TX,4/15/24,Lunch,AC Lunch,644,0,0,644,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/16/24,Breakfast,AC Breakfast,457,0,0,457,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/16/24,CACFP Supper,AC Supper,257,0,0,257,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/16/24,CACFP Supper,Supper,10,0,6,16,Individual
+IDEA Elsa,Academy,MRGV,TX,4/16/24,Lunch,AC Lunch,674,0,0,674,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/17/24,Breakfast,AC Breakfast,468,0,0,468,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/17/24,CACFP Supper,AC Supper,373,0,0,373,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/17/24,CACFP Supper,Supper,9,0,6,15,Individual
+IDEA Elsa,Academy,MRGV,TX,4/17/24,Lunch,AC Lunch,637,0,0,637,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/18/24,Breakfast,AC Breakfast,451,0,0,451,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/18/24,CACFP Supper,AC Supper,410,0,0,410,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/18/24,CACFP Supper,Supper,20,0,7,27,Individual
+IDEA Elsa,Academy,MRGV,TX,4/18/24,Lunch,AC Lunch,652,0,0,652,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/19/24,Breakfast,AC Breakfast,434,0,0,434,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/19/24,CACFP Supper,AC Supper,329,0,0,329,Bulk
+IDEA Elsa,Academy,MRGV,TX,4/19/24,CACFP Supper,Supper,12,0,3,15,Individual
+IDEA Elsa,Academy,MRGV,TX,4/19/24,Lunch,AC Lunch,637,0,0,637,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/15/24,Breakfast,CP Breakfast,442,0,0,442,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/15/24,CACFP Supper,CP Supper,3,0,0,3,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/15/24,CACFP Supper,Supper,8,0,1,9,Individual
+IDEA Elsa,College Preparatory,MRGV,TX,4/15/24,Lunch,CP Lunch,492,0,0,492,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/16/24,Breakfast,CP Breakfast,435,0,0,435,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/16/24,CACFP Supper,CP Supper,4,0,0,4,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/16/24,CACFP Supper,Supper,10,0,2,12,Individual
+IDEA Elsa,College Preparatory,MRGV,TX,4/16/24,Lunch,CP Lunch,499,0,0,499,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/17/24,Breakfast,CP Breakfast,437,0,0,437,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/17/24,CACFP Supper,CP Supper,4,0,0,4,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/17/24,CACFP Supper,Supper,2,0,3,5,Individual
+IDEA Elsa,College Preparatory,MRGV,TX,4/17/24,Lunch,CP Lunch,555,0,0,555,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/18/24,Breakfast,CP Breakfast,418,0,0,418,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/18/24,CACFP Supper,CP Supper,13,0,0,13,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/18/24,CACFP Supper,Supper,18,0,8,26,Individual
+IDEA Elsa,College Preparatory,MRGV,TX,4/18/24,Lunch,CP Lunch,519,0,0,519,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/19/24,Breakfast,CP Breakfast,445,0,0,445,Bulk
+IDEA Elsa,College Preparatory,MRGV,TX,4/19/24,CACFP Supper,Supper,2,0,4,6,Individual
+IDEA Elsa,College Preparatory,MRGV,TX,4/19/24,Lunch,CP Lunch,470,0,0,470,Bulk
+IDEA Ewing Halsell,Academy,WSAR,TX,4/15/24,Breakfast,AC Breakfast,346,0,0,346,Bulk
+IDEA Ewing Halsell,Academy,WSAR,TX,4/15/24,CACFP Supper,Supper,26,1,30,57,Individual
+IDEA Ewing Halsell,Academy,WSAR,TX,4/15/24,Lunch,AC Lunch,597,0,0,597,Bulk
+IDEA Ewing Halsell,Academy,WSAR,TX,4/16/24,Breakfast,AC Breakfast,352,0,0,352,Bulk
+IDEA Ewing Halsell,Academy,WSAR,TX,4/16/24,CACFP Supper,Supper,18,1,18,37,Individual
+IDEA Ewing Halsell,Academy,WSAR,TX,4/16/24,Lunch,AC Lunch,592,0,0,592,Bulk
+IDEA Ewing Halsell,Academy,WSAR,TX,4/17/24,Breakfast,AC Breakfast,348,0,0,348,Bulk
+IDEA Ewing Halsell,Academy,WSAR,TX,4/17/24,CACFP Supper,Supper,27,1,25,53,Individual
+IDEA Ewing Halsell,Academy,WSAR,TX,4/17/24,Lunch,AC Lunch,590,0,0,590,Bulk
+IDEA Ewing Halsell,Academy,WSAR,TX,4/18/24,Breakfast,AC Breakfast,370,0,0,370,Bulk
+IDEA Ewing Halsell,Academy,WSAR,TX,4/18/24,CACFP Supper,Supper,23,1,23,47,Individual
+IDEA Ewing Halsell,Academy,WSAR,TX,4/18/24,Lunch,AC Lunch,587,0,0,587,Bulk
+IDEA Ewing Halsell,Academy,WSAR,TX,4/19/24,Breakfast,AC Breakfast,369,0,0,369,Bulk
+IDEA Ewing Halsell,Academy,WSAR,TX,4/19/24,CACFP Supper,Supper,15,0,22,37,Individual
+IDEA Ewing Halsell,Academy,WSAR,TX,4/19/24,Lunch,AC Lunch,567,0,0,567,Bulk
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/15/24,Breakfast,CP Breakfast,255,0,0,255,Bulk
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/15/24,CACFP Supper,Supper,10,0,12,22,Individual
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/15/24,Lunch,CP Lunch,426,0,0,426,Bulk
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/16/24,Breakfast,CP Breakfast,272,0,0,272,Bulk
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/16/24,CACFP Supper,Supper,6,0,6,12,Individual
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/16/24,Lunch,CP Lunch,437,0,0,437,Bulk
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/17/24,Breakfast,CP Breakfast,247,0,0,247,Bulk
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/17/24,CACFP Supper,Supper,7,0,5,12,Individual
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/17/24,Lunch,CP Lunch,492,0,0,492,Bulk
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/18/24,Breakfast,CP Breakfast,266,0,0,266,Bulk
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/18/24,CACFP Supper,Supper,4,0,4,8,Individual
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/18/24,Lunch,CP Lunch,460,0,0,460,Bulk
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/19/24,Breakfast,CP Breakfast,243,0,0,243,Bulk
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/19/24,CACFP Supper,Supper,5,0,8,13,Individual
+IDEA Ewing Halsell,College Preparatory,WSAR,TX,4/19/24,Lunch,CP Lunch,345,0,0,345,Bulk
+IDEA Frontier,Academy,LRGV,TX,4/15/24,Breakfast,AC Breakfast,627,0,0,627,Bulk
+IDEA Frontier,Academy,LRGV,TX,4/15/24,CACFP Supper,Supper,137,8,34,179,Individual
+IDEA Frontier,Academy,LRGV,TX,4/15/24,Lunch,AC Lunch,630,0,0,630,Bulk
+IDEA Frontier,Academy,LRGV,TX,4/16/24,Breakfast,AC Breakfast,644,0,0,644,Bulk
+IDEA Frontier,Academy,LRGV,TX,4/16/24,CACFP Supper,Supper,119,7,24,150,Individual
+IDEA Frontier,Academy,LRGV,TX,4/16/24,Lunch,AC Lunch,635,0,0,635,Bulk
+IDEA Frontier,Academy,LRGV,TX,4/17/24,Breakfast,AC Breakfast,646,0,0,646,Bulk
+IDEA Frontier,Academy,LRGV,TX,4/17/24,CACFP Supper,Supper,118,8,28,154,Individual
+IDEA Frontier,Academy,LRGV,TX,4/17/24,Lunch,AC Lunch,652,0,0,652,Bulk
+IDEA Frontier,Academy,LRGV,TX,4/18/24,Breakfast,AC Breakfast,603,0,0,603,Bulk
+IDEA Frontier,Academy,LRGV,TX,4/18/24,CACFP Supper,Supper,144,8,26,178,Individual
+IDEA Frontier,Academy,LRGV,TX,4/18/24,Lunch,AC Lunch,630,0,0,630,Bulk
+IDEA Frontier,Academy,LRGV,TX,4/19/24,Breakfast,AC Breakfast,612,0,0,612,Bulk
+IDEA Frontier,Academy,LRGV,TX,4/19/24,CACFP Supper,Supper,104,4,24,132,Individual
+IDEA Frontier,Academy,LRGV,TX,4/19/24,Lunch,AC Lunch,635,0,0,635,Bulk
+IDEA Frontier,College Preparatory,LRGV,TX,4/15/24,Breakfast,CP Breakfast,619,0,0,619,Bulk
+IDEA Frontier,College Preparatory,LRGV,TX,4/15/24,CACFP Supper,Supper,14,2,7,23,Individual
+IDEA Frontier,College Preparatory,LRGV,TX,4/15/24,Lunch,CP Lunch,679,0,0,679,Bulk
+IDEA Frontier,College Preparatory,LRGV,TX,4/16/24,Breakfast,CP Breakfast,637,0,0,637,Bulk
+IDEA Frontier,College Preparatory,LRGV,TX,4/16/24,CACFP Supper,Supper,12,0,4,16,Individual
+IDEA Frontier,College Preparatory,LRGV,TX,4/16/24,Lunch,CP Lunch,715,0,0,715,Bulk
+IDEA Frontier,College Preparatory,LRGV,TX,4/17/24,Breakfast,CP Breakfast,636,0,0,636,Bulk
+IDEA Frontier,College Preparatory,LRGV,TX,4/17/24,CACFP Supper,Supper,19,0,10,29,Individual
+IDEA Frontier,College Preparatory,LRGV,TX,4/17/24,Lunch,CP Lunch,669,0,0,669,Bulk
+IDEA Frontier,College Preparatory,LRGV,TX,4/18/24,Breakfast,CP Breakfast,580,0,0,580,Bulk
+IDEA Frontier,College Preparatory,LRGV,TX,4/18/24,CACFP Supper,Supper,21,2,12,35,Individual
+IDEA Frontier,College Preparatory,LRGV,TX,4/18/24,Lunch,CP Lunch,571,0,0,571,Bulk
+IDEA Frontier,College Preparatory,LRGV,TX,4/19/24,Breakfast,CP Breakfast,604,0,0,604,Bulk
+IDEA Frontier,College Preparatory,LRGV,TX,4/19/24,CACFP Supper,Supper,14,2,9,25,Individual
+IDEA Frontier,College Preparatory,LRGV,TX,4/19/24,Lunch,CP Lunch,639,0,0,639,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/15/24,Breakfast,AC Breakfast,358,0,0,358,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/15/24,CACFP Supper,AC Supper,45,0,0,45,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/15/24,Lunch,AC Lunch,533,0,0,533,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/16/24,Breakfast,AC Breakfast,408,0,0,408,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/16/24,CACFP Supper,AC Supper,9,0,0,9,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/16/24,Lunch,AC Lunch,433,0,0,433,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/17/24,Breakfast,AC Breakfast,379,0,0,379,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/17/24,CACFP Supper,AC Supper,9,0,0,9,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/17/24,Lunch,AC Lunch,483,0,0,483,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/18/24,Breakfast,AC Breakfast,396,0,0,396,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/18/24,CACFP Supper,AC Supper,8,0,0,8,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/18/24,Lunch,AC Lunch,512,0,0,512,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/19/24,Breakfast,AC Breakfast,387,0,0,387,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/19/24,CACFP Supper,AC Supper,8,0,0,8,Bulk
+IDEA Hardy,Academy,HOUR,TX,4/19/24,Lunch,AC Lunch,518,0,0,518,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/15/24,Breakfast,CP Breakfast,223,0,0,223,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/15/24,Lunch,CP Lunch,354,0,0,354,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/16/24,Breakfast,CP Breakfast,221,0,0,221,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/16/24,CACFP Supper,CP Supper,1,0,0,1,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/16/24,Lunch,CP Lunch,404,0,0,404,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/17/24,Breakfast,CP Breakfast,220,0,0,220,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/17/24,Lunch,CP Lunch,391,0,0,391,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/18/24,Breakfast,CP Breakfast,199,0,0,199,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/18/24,Lunch,CP Lunch,325,0,0,325,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/19/24,Breakfast,CP Breakfast,264,0,0,264,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/19/24,CACFP Supper,CP Supper,1,0,0,1,Bulk
+IDEA Hardy,College Preparatory,HOUR,TX,4/19/24,Lunch,CP Lunch,379,0,0,379,Bulk
+IDEA Harlingen,Academy,LRGV,TX,4/15/24,Breakfast,AC Breakfast,453,0,0,453,Bulk
+IDEA Harlingen,Academy,LRGV,TX,4/15/24,CACFP Supper,Supper,48,1,17,66,Individual
+IDEA Harlingen,Academy,LRGV,TX,4/15/24,Lunch,AC Lunch,503,0,0,503,Bulk
+IDEA Harlingen,Academy,LRGV,TX,4/16/24,Breakfast,AC Breakfast,461,0,0,461,Bulk
+IDEA Harlingen,Academy,LRGV,TX,4/16/24,CACFP Supper,Supper,107,4,35,146,Individual
+IDEA Harlingen,Academy,LRGV,TX,4/16/24,Lunch,AC Lunch,583,0,0,583,Bulk
+IDEA Harlingen,Academy,LRGV,TX,4/17/24,Breakfast,AC Breakfast,479,0,0,479,Bulk
+IDEA Harlingen,Academy,LRGV,TX,4/17/24,CACFP Supper,Supper,113,4,39,156,Individual
+IDEA Harlingen,Academy,LRGV,TX,4/17/24,Lunch,AC Lunch,509,0,0,509,Bulk
+IDEA Harlingen,Academy,LRGV,TX,4/18/24,Breakfast,AC Breakfast,440,0,0,440,Bulk
+IDEA Harlingen,Academy,LRGV,TX,4/18/24,CACFP Supper,Supper,109,4,32,145,Individual
+IDEA Harlingen,Academy,LRGV,TX,4/18/24,Lunch,AC Lunch,432,0,0,432,Bulk
+IDEA Harlingen,Academy,LRGV,TX,4/19/24,Breakfast,AC Breakfast,449,0,0,449,Bulk
+IDEA Harlingen,Academy,LRGV,TX,4/19/24,CACFP Supper,Supper,97,4,39,140,Individual
+IDEA Harlingen,Academy,LRGV,TX,4/19/24,Lunch,AC Lunch,530,0,0,530,Bulk
+IDEA Harlingen,College Preparatory,LRGV,TX,4/15/24,Breakfast,CP Breakfast,197,0,0,197,Bulk
+IDEA Harlingen,College Preparatory,LRGV,TX,4/15/24,CACFP Supper,Supper,20,0,6,26,Individual
+IDEA Harlingen,College Preparatory,LRGV,TX,4/15/24,Lunch,CP Lunch,284,0,0,284,Bulk
+IDEA Harlingen,College Preparatory,LRGV,TX,4/16/24,Breakfast,CP Breakfast,239,0,0,239,Bulk
+IDEA Harlingen,College Preparatory,LRGV,TX,4/16/24,CACFP Supper,Supper,16,1,5,22,Individual
+IDEA Harlingen,College Preparatory,LRGV,TX,4/16/24,Lunch,CP Lunch,319,0,0,319,Bulk
+IDEA Harlingen,College Preparatory,LRGV,TX,4/17/24,Breakfast,CP Breakfast,224,0,0,224,Bulk
+IDEA Harlingen,College Preparatory,LRGV,TX,4/17/24,CACFP Supper,Supper,21,2,6,29,Individual
+IDEA Harlingen,College Preparatory,LRGV,TX,4/17/24,Lunch,CP Lunch,279,0,0,279,Bulk
+IDEA Harlingen,College Preparatory,LRGV,TX,4/18/24,Breakfast,CP Breakfast,172,0,0,172,Bulk
+IDEA Harlingen,College Preparatory,LRGV,TX,4/18/24,CACFP Supper,Supper,18,0,3,21,Individual
+IDEA Harlingen,College Preparatory,LRGV,TX,4/18/24,Lunch,CP Lunch,291,0,0,291,Bulk
+IDEA Harlingen,College Preparatory,LRGV,TX,4/19/24,Breakfast,CP Breakfast,185,0,0,185,Bulk
+IDEA Harlingen,College Preparatory,LRGV,TX,4/19/24,CACFP Supper,Supper,19,0,3,22,Individual
+IDEA Harlingen,College Preparatory,LRGV,TX,4/19/24,Lunch,CP Lunch,275,0,0,275,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/15/24,Breakfast,AC Breakfast,153,0,0,153,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/15/24,CACFP Supper,AC Supper,29,0,0,29,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/15/24,CACFP Supper,Supper,12,1,12,25,Individual
+IDEA Health Professions,Academy,AUR,TX,4/15/24,Lunch,AC Lunch,216,0,0,216,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/16/24,Breakfast,AC Breakfast,145,0,0,145,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/16/24,CACFP Supper,AC Supper,34,0,0,34,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/16/24,CACFP Supper,Supper,12,2,7,21,Individual
+IDEA Health Professions,Academy,AUR,TX,4/16/24,Lunch,AC Lunch,244,0,0,244,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/17/24,Breakfast,AC Breakfast,161,0,0,161,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/17/24,CACFP Supper,AC Supper,28,0,0,28,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/17/24,CACFP Supper,Supper,12,0,10,22,Individual
+IDEA Health Professions,Academy,AUR,TX,4/17/24,Lunch,AC Lunch,229,0,0,229,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/18/24,Breakfast,AC Breakfast,153,0,0,153,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/18/24,CACFP Supper,AC Supper,32,0,0,32,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/18/24,CACFP Supper,Supper,10,1,9,20,Individual
+IDEA Health Professions,Academy,AUR,TX,4/18/24,Lunch,AC Lunch,234,0,0,234,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/19/24,Breakfast,AC Breakfast,185,0,0,185,Bulk
+IDEA Health Professions,Academy,AUR,TX,4/19/24,CACFP Supper,Supper,10,0,8,18,Individual
+IDEA Health Professions,Academy,AUR,TX,4/19/24,Lunch,AC Lunch,226,0,0,226,Bulk
+IDEA Health Professions,College Preparatory,AUR,TX,4/15/24,Breakfast,CP Breakfast,155,0,0,155,Bulk
+IDEA Health Professions,College Preparatory,AUR,TX,4/15/24,CACFP Supper,Supper,11,0,8,19,Individual
+IDEA Health Professions,College Preparatory,AUR,TX,4/15/24,Lunch,CP Lunch,239,0,0,239,Bulk
+IDEA Health Professions,College Preparatory,AUR,TX,4/16/24,Breakfast,CP Breakfast,179,0,0,179,Bulk
+IDEA Health Professions,College Preparatory,AUR,TX,4/16/24,CACFP Supper,Supper,4,0,2,6,Individual
+IDEA Health Professions,College Preparatory,AUR,TX,4/16/24,Lunch,CP Lunch,207,0,0,207,Bulk
+IDEA Health Professions,College Preparatory,AUR,TX,4/17/24,Breakfast,CP Breakfast,144,0,0,144,Bulk
+IDEA Health Professions,College Preparatory,AUR,TX,4/17/24,CACFP Supper,Supper,4,1,1,6,Individual
+IDEA Health Professions,College Preparatory,AUR,TX,4/17/24,Lunch,CP Lunch,213,0,0,213,Bulk
+IDEA Health Professions,College Preparatory,AUR,TX,4/18/24,Breakfast,CP Breakfast,142,0,0,142,Bulk
+IDEA Health Professions,College Preparatory,AUR,TX,4/18/24,CACFP Supper,Supper,2,0,1,3,Individual
+IDEA Health Professions,College Preparatory,AUR,TX,4/18/24,Lunch,CP Lunch,244,0,0,244,Bulk
+IDEA Health Professions,College Preparatory,AUR,TX,4/19/24,Breakfast,CP Breakfast,134,0,0,134,Bulk
+IDEA Health Professions,College Preparatory,AUR,TX,4/19/24,CACFP Supper,Supper,2,0,1,3,Individual
+IDEA Health Professions,College Preparatory,AUR,TX,4/19/24,Lunch,CP Lunch,227,0,0,227,Bulk
+IDEA Hidden Meadow,Academy,WSAR,TX,4/15/24,Breakfast,AC Breakfast,353,0,0,353,Bulk
+IDEA Hidden Meadow,Academy,WSAR,TX,4/15/24,CACFP Supper,Supper,20,0,29,49,Individual
+IDEA Hidden Meadow,Academy,WSAR,TX,4/15/24,Lunch,AC Lunch,413,0,0,413,Bulk
+IDEA Hidden Meadow,Academy,WSAR,TX,4/16/24,Breakfast,AC Breakfast,342,0,0,342,Bulk
+IDEA Hidden Meadow,Academy,WSAR,TX,4/16/24,CACFP Supper,Supper,24,0,40,64,Individual
+IDEA Hidden Meadow,Academy,WSAR,TX,4/16/24,Lunch,AC Lunch,465,0,0,465,Bulk
+IDEA Hidden Meadow,Academy,WSAR,TX,4/17/24,Breakfast,AC Breakfast,369,0,0,369,Bulk
+IDEA Hidden Meadow,Academy,WSAR,TX,4/17/24,CACFP Supper,Supper,19,3,33,55,Individual
+IDEA Hidden Meadow,Academy,WSAR,TX,4/17/24,Lunch,AC Lunch,403,0,0,403,Bulk
+IDEA Hidden Meadow,Academy,WSAR,TX,4/18/24,Breakfast,AC Breakfast,339,0,0,339,Bulk
+IDEA Hidden Meadow,Academy,WSAR,TX,4/18/24,CACFP Supper,Supper,19,2,35,56,Individual
+IDEA Hidden Meadow,Academy,WSAR,TX,4/18/24,Lunch,AC Lunch,428,0,0,428,Bulk
+IDEA Hidden Meadow,Academy,WSAR,TX,4/19/24,Breakfast,AC Breakfast,355,0,0,355,Bulk
+IDEA Hidden Meadow,Academy,WSAR,TX,4/19/24,CACFP Supper,Supper,15,1,29,45,Individual
+IDEA Hidden Meadow,Academy,WSAR,TX,4/19/24,Lunch,AC Lunch,428,0,0,428,Bulk
+IDEA Hidden Meadow,College Preparatory,WSAR,TX,4/15/24,Breakfast,CP Breakfast,201,0,0,201,Bulk
+IDEA Hidden Meadow,College Preparatory,WSAR,TX,4/15/24,Lunch,CP Lunch,189,0,0,189,Bulk
+IDEA Hidden Meadow,College Preparatory,WSAR,TX,4/16/24,Breakfast,CP Breakfast,196,0,0,196,Bulk
+IDEA Hidden Meadow,College Preparatory,WSAR,TX,4/16/24,Lunch,CP Lunch,249,0,0,249,Bulk
+IDEA Hidden Meadow,College Preparatory,WSAR,TX,4/17/24,Breakfast,CP Breakfast,196,0,0,196,Bulk
+IDEA Hidden Meadow,College Preparatory,WSAR,TX,4/17/24,Lunch,CP Lunch,179,0,0,179,Bulk
+IDEA Hidden Meadow,College Preparatory,WSAR,TX,4/18/24,Breakfast,CP Breakfast,193,0,0,193,Bulk
+IDEA Hidden Meadow,College Preparatory,WSAR,TX,4/18/24,Lunch,CP Lunch,196,0,0,196,Bulk
+IDEA Hidden Meadow,College Preparatory,WSAR,TX,4/19/24,Breakfast,CP Breakfast,177,0,0,177,Bulk
+IDEA Hidden Meadow,College Preparatory,WSAR,TX,4/19/24,Lunch,CP Lunch,182,0,0,182,Bulk
+IDEA Hope,Academy,TABR,FL,4/15/24,Breakfast,AC Breakfast,263,0,0,263,Bulk
+IDEA Hope,Academy,TABR,FL,4/15/24,CACFP Supper,Supper,226,0,0,226,Bulk
+IDEA Hope,Academy,TABR,FL,4/15/24,Lunch,AC Lunch,370,0,0,370,Bulk
+IDEA Hope,Academy,TABR,FL,4/16/24,Breakfast,AC Breakfast,297,0,0,297,Bulk
+IDEA Hope,Academy,TABR,FL,4/16/24,CACFP Supper,Supper,228,0,0,228,Bulk
+IDEA Hope,Academy,TABR,FL,4/16/24,Lunch,AC Lunch,361,0,0,361,Bulk
+IDEA Hope,Academy,TABR,FL,4/17/24,Breakfast,AC Breakfast,315,0,0,315,Bulk
+IDEA Hope,Academy,TABR,FL,4/17/24,CACFP Supper,Supper,210,0,0,210,Bulk
+IDEA Hope,Academy,TABR,FL,4/17/24,Lunch,AC Lunch,337,0,0,337,Bulk
+IDEA Hope,Academy,TABR,FL,4/18/24,Breakfast,AC Breakfast,293,0,0,293,Bulk
+IDEA Hope,Academy,TABR,FL,4/18/24,CACFP Supper,Supper,228,0,0,228,Bulk
+IDEA Hope,Academy,TABR,FL,4/18/24,Lunch,AC Lunch,298,0,0,298,Bulk
+IDEA Hope,Academy,TABR,FL,4/19/24,Breakfast,AC Breakfast,254,0,0,254,Bulk
+IDEA Hope,Academy,TABR,FL,4/19/24,CACFP Supper,Supper,229,0,0,229,Bulk
+IDEA Hope,Academy,TABR,FL,4/19/24,Lunch,AC Lunch,376,0,0,376,Bulk
+IDEA Hope,College Preparatory,TABR,FL,4/15/24,Breakfast,CP Breakfast,180,0,0,180,Bulk
+IDEA Hope,College Preparatory,TABR,FL,4/15/24,Lunch,CP Lunch,212,0,0,212,Bulk
+IDEA Hope,College Preparatory,TABR,FL,4/16/24,Breakfast,CP Breakfast,217,0,0,217,Bulk
+IDEA Hope,College Preparatory,TABR,FL,4/16/24,Lunch,CP Lunch,209,0,0,209,Bulk
+IDEA Hope,College Preparatory,TABR,FL,4/17/24,Breakfast,CP Breakfast,209,0,0,209,Bulk
+IDEA Hope,College Preparatory,TABR,FL,4/17/24,Lunch,CP Lunch,207,0,0,207,Bulk
+IDEA Hope,College Preparatory,TABR,FL,4/18/24,Breakfast,CP Breakfast,199,0,0,199,Bulk
+IDEA Hope,College Preparatory,TABR,FL,4/18/24,Lunch,CP Lunch,210,0,0,210,Bulk
+IDEA Hope,College Preparatory,TABR,FL,4/19/24,Breakfast,CP Breakfast,185,0,0,185,Bulk
+IDEA Hope,College Preparatory,TABR,FL,4/19/24,Lunch,CP Lunch,191,0,0,191,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/15/24,Breakfast,AC Breakfast,488,0,0,488,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/15/24,CACFP Supper,AC Supper,13,0,0,13,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/15/24,CACFP Supper,Supper,308,29,170,507,Individual
+IDEA Horizon Vista,Academy,ELPR,TX,4/15/24,Lunch,AC Lunch,625,0,0,625,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/16/24,Breakfast,AC Breakfast,398,0,0,398,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/16/24,CACFP Supper,AC Supper,9,0,0,9,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/16/24,CACFP Supper,Supper,324,31,173,528,Individual
+IDEA Horizon Vista,Academy,ELPR,TX,4/16/24,Lunch,AC Lunch,572,0,0,572,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/17/24,Breakfast,AC Breakfast,403,0,0,403,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/17/24,CACFP Supper,AC Supper,17,0,0,17,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/17/24,CACFP Supper,Supper,125,13,56,194,Individual
+IDEA Horizon Vista,Academy,ELPR,TX,4/17/24,Lunch,AC Lunch,552,0,0,552,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/18/24,Breakfast,AC Breakfast,445,0,0,445,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/18/24,CACFP Supper,AC Supper,13,0,0,13,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/18/24,CACFP Supper,Supper,335,31,192,558,Individual
+IDEA Horizon Vista,Academy,ELPR,TX,4/18/24,Lunch,AC Lunch,596,0,0,596,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/19/24,Breakfast,AC Breakfast,420,0,0,420,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/19/24,CACFP Supper,AC Supper,13,0,0,13,Bulk
+IDEA Horizon Vista,Academy,ELPR,TX,4/19/24,CACFP Supper,Supper,286,26,156,468,Individual
+IDEA Horizon Vista,Academy,ELPR,TX,4/19/24,Lunch,AC Lunch,619,0,0,619,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/15/24,Breakfast,CP Breakfast,39,0,0,39,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/15/24,Breakfast,Breakfast,45,2,41,88,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/15/24,CACFP Supper,CP Supper,22,0,0,22,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/15/24,CACFP Supper,Supper,81,3,59,143,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/15/24,Lunch,CP Lunch,5,0,0,5,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/15/24,Lunch,Lunch,93,2,66,161,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/15/24,Lunch,Lunch - Merchandiser,47,2,35,84,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/16/24,Breakfast,CP Breakfast,41,0,0,41,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/16/24,Breakfast,Breakfast,44,3,40,87,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/16/24,CACFP Supper,CP Supper,25,0,0,25,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/16/24,CACFP Supper,Supper,88,2,51,141,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/16/24,Lunch,CP Lunch,4,0,0,4,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/16/24,Lunch,Lunch,117,3,77,197,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/16/24,Lunch,Lunch - Merchandiser,39,1,29,69,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/17/24,Breakfast,CP Breakfast,40,0,0,40,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/17/24,Breakfast,Breakfast,45,2,43,90,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/17/24,CACFP Supper,CP Supper,28,0,0,28,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/17/24,CACFP Supper,Supper,93,2,68,163,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/17/24,Lunch,CP Lunch,8,0,0,8,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/17/24,Lunch,Lunch,63,0,46,109,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/17/24,Lunch,Lunch - Merchandiser,72,2,53,127,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/18/24,Breakfast,CP Breakfast,50,0,0,50,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/18/24,Breakfast,Breakfast,53,2,41,96,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/18/24,CACFP Supper,CP Supper,28,0,0,28,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/18/24,CACFP Supper,Supper,84,2,63,149,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/18/24,Lunch,CP Lunch,7,0,0,7,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/18/24,Lunch,Lunch,117,1,82,200,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/18/24,Lunch,Lunch - Merchandiser,38,2,29,69,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/19/24,Breakfast,CP Breakfast,58,0,0,58,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/19/24,Breakfast,Breakfast,49,3,38,90,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/19/24,CACFP Supper,CP Supper,17,0,0,17,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/19/24,CACFP Supper,Supper,93,3,58,154,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/19/24,Lunch,CP Lunch,8,0,0,8,Bulk
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/19/24,Lunch,Lunch,95,2,65,162,Individual
+IDEA Horizon Vista,College Preparatory,ELPR,TX,4/19/24,Lunch,Lunch - Merchandiser,38,2,31,71,Individual
+IDEA Ingram Hills,Academy,WSAR,TX,4/15/24,Breakfast,AC Breakfast,365,0,0,365,Bulk
+IDEA Ingram Hills,Academy,WSAR,TX,4/15/24,CACFP Supper,Supper,30,9,35,74,Individual
+IDEA Ingram Hills,Academy,WSAR,TX,4/15/24,Lunch,AC Lunch,529,0,0,529,Bulk
+IDEA Ingram Hills,Academy,WSAR,TX,4/16/24,Breakfast,AC Breakfast,387,0,0,387,Bulk
+IDEA Ingram Hills,Academy,WSAR,TX,4/16/24,CACFP Supper,Supper,23,7,28,58,Individual
+IDEA Ingram Hills,Academy,WSAR,TX,4/16/24,Lunch,AC Lunch,556,0,0,556,Bulk
+IDEA Ingram Hills,Academy,WSAR,TX,4/17/24,Breakfast,AC Breakfast,387,0,0,387,Bulk
+IDEA Ingram Hills,Academy,WSAR,TX,4/17/24,CACFP Supper,Supper,27,6,28,61,Individual
+IDEA Ingram Hills,Academy,WSAR,TX,4/17/24,Lunch,AC Lunch,536,0,0,536,Bulk
+IDEA Ingram Hills,Academy,WSAR,TX,4/18/24,Breakfast,AC Breakfast,407,0,0,407,Bulk
+IDEA Ingram Hills,Academy,WSAR,TX,4/18/24,CACFP Supper,Supper,44,8,46,98,Individual
+IDEA Ingram Hills,Academy,WSAR,TX,4/18/24,Lunch,AC Lunch,536,0,0,536,Bulk
+IDEA Ingram Hills,Academy,WSAR,TX,4/19/24,Breakfast,AC Breakfast,411,0,0,411,Bulk
+IDEA Ingram Hills,Academy,WSAR,TX,4/19/24,CACFP Supper,Supper,26,7,38,71,Individual
+IDEA Ingram Hills,Academy,WSAR,TX,4/19/24,Lunch,AC Lunch,505,0,0,505,Bulk
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/15/24,Breakfast,CP Breakfast,196,0,0,196,Bulk
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/15/24,CACFP Supper,Supper,4,0,9,13,Individual
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/15/24,Lunch,CP Lunch,374,0,0,374,Bulk
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/16/24,Breakfast,CP Breakfast,175,0,0,175,Bulk
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/16/24,CACFP Supper,Supper,5,1,12,18,Individual
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/16/24,Lunch,CP Lunch,454,0,0,454,Bulk
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/17/24,Breakfast,CP Breakfast,181,0,0,181,Bulk
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/17/24,CACFP Supper,Supper,7,0,13,20,Individual
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/17/24,Lunch,CP Lunch,311,0,0,311,Bulk
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/18/24,Breakfast,CP Breakfast,146,0,0,146,Bulk
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/18/24,CACFP Supper,Supper,12,1,17,30,Individual
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/18/24,Lunch,CP Lunch,377,0,0,377,Bulk
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/19/24,Breakfast,CP Breakfast,158,0,0,158,Bulk
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/19/24,CACFP Supper,Supper,3,0,12,15,Individual
+IDEA Ingram Hills,College Preparatory,WSAR,TX,4/19/24,Lunch,CP Lunch,321,0,0,321,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/15/24,Breakfast,AC Breakfast,338,0,0,338,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/15/24,CACFP Supper,AC Supper,152,0,0,152,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/15/24,CACFP Supper,Supper,9,0,15,24,Individual
+IDEA Innovation,Academy,SOLA,LA,4/15/24,Lunch,AC Lunch,349,0,0,349,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/16/24,Breakfast,AC Breakfast,342,0,0,342,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/16/24,CACFP Supper,AC Supper,178,0,0,178,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/16/24,Lunch,AC Lunch,355,0,0,355,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/17/24,Breakfast,AC Breakfast,377,0,0,377,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/17/24,CACFP Supper,AC Supper,219,0,0,219,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/17/24,Lunch,AC Lunch,455,0,0,455,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/18/24,Breakfast,AC Breakfast,332,0,0,332,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/18/24,CACFP Supper,AC Supper,306,0,0,306,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/18/24,Lunch,AC Lunch,358,0,0,358,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/19/24,Breakfast,AC Breakfast,300,0,0,300,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/19/24,CACFP Supper,AC Supper,291,0,0,291,Bulk
+IDEA Innovation,Academy,SOLA,LA,4/19/24,Lunch,AC Lunch,416,0,0,416,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/15/24,Breakfast,CP Breakfast,218,0,0,218,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/15/24,CACFP Supper,CP Supper,9,0,0,9,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/15/24,Lunch,CP Lunch,370,0,0,370,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/16/24,Breakfast,CP Breakfast,192,0,0,192,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/16/24,CACFP Supper,CP Supper,9,0,0,9,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/16/24,Lunch,CP Lunch,351,0,0,351,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/17/24,Breakfast,CP Breakfast,193,0,0,193,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/17/24,CACFP Supper,CP Supper,9,0,0,9,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/17/24,Lunch,CP Lunch,274,0,0,274,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/18/24,Breakfast,CP Breakfast,215,0,0,215,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/18/24,CACFP Supper,CP Supper,8,0,0,8,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/18/24,Lunch,CP Lunch,379,0,0,379,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/19/24,Breakfast,CP Breakfast,235,0,0,235,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/19/24,CACFP Supper,CP Supper,8,0,0,8,Bulk
+IDEA Innovation,College Preparatory,SOLA,LA,4/19/24,Lunch,CP Lunch,262,0,0,262,Bulk
+IDEA Judson,Academy,ESAR,TX,4/15/24,Breakfast,AC Breakfast,385,0,0,385,Bulk
+IDEA Judson,Academy,ESAR,TX,4/15/24,Breakfast,Breakfast,0,0,1,1,Individual
+IDEA Judson,Academy,ESAR,TX,4/15/24,CACFP Supper,AC Supper,5,0,0,5,Bulk
+IDEA Judson,Academy,ESAR,TX,4/15/24,CACFP Supper,Supper,180,13,114,307,Individual
+IDEA Judson,Academy,ESAR,TX,4/15/24,Lunch,AC Lunch,605,0,0,605,Bulk
+IDEA Judson,Academy,ESAR,TX,4/16/24,Breakfast,AC Breakfast,436,0,0,436,Bulk
+IDEA Judson,Academy,ESAR,TX,4/16/24,CACFP Supper,AC Supper,17,0,0,17,Bulk
+IDEA Judson,Academy,ESAR,TX,4/16/24,CACFP Supper,Supper,88,9,69,166,Individual
+IDEA Judson,Academy,ESAR,TX,4/16/24,Lunch,AC Lunch,563,0,0,563,Bulk
+IDEA Judson,Academy,ESAR,TX,4/17/24,Breakfast,AC Breakfast,417,0,0,417,Bulk
+IDEA Judson,Academy,ESAR,TX,4/17/24,CACFP Supper,AC Supper,5,0,0,5,Bulk
+IDEA Judson,Academy,ESAR,TX,4/17/24,CACFP Supper,Supper,151,12,81,244,Individual
+IDEA Judson,Academy,ESAR,TX,4/17/24,Lunch,AC Lunch,590,0,0,590,Bulk
+IDEA Judson,Academy,ESAR,TX,4/18/24,Breakfast,AC Breakfast,408,0,0,408,Bulk
+IDEA Judson,Academy,ESAR,TX,4/18/24,CACFP Supper,AC Supper,11,0,0,11,Bulk
+IDEA Judson,Academy,ESAR,TX,4/18/24,CACFP Supper,Supper,142,11,87,240,Individual
+IDEA Judson,Academy,ESAR,TX,4/18/24,Lunch,AC Lunch,594,0,0,594,Bulk
+IDEA Judson,Academy,ESAR,TX,4/19/24,Breakfast,AC Breakfast,359,0,0,359,Bulk
+IDEA Judson,Academy,ESAR,TX,4/19/24,CACFP Supper,AC Supper,4,0,0,4,Bulk
+IDEA Judson,Academy,ESAR,TX,4/19/24,Lunch,AC Lunch,587,0,0,587,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/15/24,Breakfast,CP Breakfast,58,0,0,58,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/15/24,Breakfast,Breakfast,99,10,136,245,Individual
+IDEA Judson,College Preparatory,ESAR,TX,4/15/24,CACFP Supper,CP Supper,1,0,0,1,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/15/24,Lunch,CP Lunch,583,0,0,583,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/16/24,Breakfast,CP Breakfast,30,0,0,30,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/16/24,Breakfast,Breakfast,120,8,145,273,Individual
+IDEA Judson,College Preparatory,ESAR,TX,4/16/24,CACFP Supper,CP Supper,5,0,0,5,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/16/24,Lunch,CP Lunch,658,0,0,658,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/17/24,Breakfast,CP Breakfast,51,0,0,51,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/17/24,Breakfast,Breakfast,113,8,145,266,Individual
+IDEA Judson,College Preparatory,ESAR,TX,4/17/24,CACFP Supper,CP Supper,1,0,0,1,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/17/24,Lunch,CP Lunch,584,0,0,584,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/18/24,Breakfast,CP Breakfast,35,0,0,35,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/18/24,Breakfast,Breakfast,106,7,134,247,Individual
+IDEA Judson,College Preparatory,ESAR,TX,4/18/24,CACFP Supper,CP Supper,3,0,0,3,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/18/24,Lunch,CP Lunch,597,0,0,597,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/19/24,Breakfast,CP Breakfast,57,0,0,57,Bulk
+IDEA Judson,College Preparatory,ESAR,TX,4/19/24,Breakfast,Breakfast,93,7,139,239,Individual
+IDEA Judson,College Preparatory,ESAR,TX,4/19/24,Lunch,CP Lunch,591,0,0,591,Bulk
+IDEA Kyle,Academy,AUR,TX,4/15/24,Breakfast,AC Breakfast,285,0,0,285,Bulk
+IDEA Kyle,Academy,AUR,TX,4/15/24,CACFP Supper,AC Supper,114,0,0,114,Bulk
+IDEA Kyle,Academy,AUR,TX,4/15/24,Lunch,AC Lunch,444,0,0,444,Bulk
+IDEA Kyle,Academy,AUR,TX,4/16/24,Breakfast,AC Breakfast,260,0,0,260,Bulk
+IDEA Kyle,Academy,AUR,TX,4/16/24,CACFP Supper,AC Supper,121,0,0,121,Bulk
+IDEA Kyle,Academy,AUR,TX,4/16/24,Lunch,AC Lunch,428,0,0,428,Bulk
+IDEA Kyle,Academy,AUR,TX,4/17/24,Breakfast,AC Breakfast,263,0,0,263,Bulk
+IDEA Kyle,Academy,AUR,TX,4/17/24,CACFP Supper,AC Supper,124,0,0,124,Bulk
+IDEA Kyle,Academy,AUR,TX,4/17/24,Lunch,AC Lunch,449,0,0,449,Bulk
+IDEA Kyle,Academy,AUR,TX,4/18/24,Breakfast,AC Breakfast,261,0,0,261,Bulk
+IDEA Kyle,Academy,AUR,TX,4/18/24,CACFP Supper,AC Supper,119,0,0,119,Bulk
+IDEA Kyle,Academy,AUR,TX,4/18/24,Lunch,AC Lunch,468,0,0,468,Bulk
+IDEA Kyle,Academy,AUR,TX,4/19/24,Breakfast,AC Breakfast,272,0,0,272,Bulk
+IDEA Kyle,Academy,AUR,TX,4/19/24,CACFP Supper,AC Supper,112,0,0,112,Bulk
+IDEA Kyle,Academy,AUR,TX,4/19/24,Lunch,AC Lunch,511,0,0,511,Bulk
+IDEA Kyle,College Preparatory,AUR,TX,4/15/24,Breakfast,CP Breakfast,298,0,0,298,Bulk
+IDEA Kyle,College Preparatory,AUR,TX,4/15/24,Lunch,CP Lunch,468,0,0,468,Bulk
+IDEA Kyle,College Preparatory,AUR,TX,4/16/24,Breakfast,CP Breakfast,339,0,0,339,Bulk
+IDEA Kyle,College Preparatory,AUR,TX,4/16/24,Lunch,CP Lunch,449,0,0,449,Bulk
+IDEA Kyle,College Preparatory,AUR,TX,4/17/24,Breakfast,CP Breakfast,316,0,0,316,Bulk
+IDEA Kyle,College Preparatory,AUR,TX,4/17/24,Lunch,CP Lunch,463,0,0,463,Bulk
+IDEA Kyle,College Preparatory,AUR,TX,4/18/24,Breakfast,CP Breakfast,313,0,0,313,Bulk
+IDEA Kyle,College Preparatory,AUR,TX,4/18/24,Lunch,CP Lunch,506,0,0,506,Bulk
+IDEA Kyle,College Preparatory,AUR,TX,4/19/24,Breakfast,CP Breakfast,312,0,0,312,Bulk
+IDEA Kyle,College Preparatory,AUR,TX,4/19/24,Lunch,CP Lunch,497,0,0,497,Bulk
+IDEA La Joya,Academy,URGV,TX,4/15/24,Breakfast,AC Breakfast,436,0,0,436,Bulk
+IDEA La Joya,Academy,URGV,TX,4/15/24,CACFP Supper,Supper,18,0,3,21,Individual
+IDEA La Joya,Academy,URGV,TX,4/15/24,Lunch,AC Lunch,457,0,0,457,Bulk
+IDEA La Joya,Academy,URGV,TX,4/16/24,Breakfast,AC Breakfast,412,0,0,412,Bulk
+IDEA La Joya,Academy,URGV,TX,4/16/24,CACFP Supper,Supper,49,0,19,68,Individual
+IDEA La Joya,Academy,URGV,TX,4/16/24,Lunch,AC Lunch,495,0,0,495,Bulk
+IDEA La Joya,Academy,URGV,TX,4/17/24,Breakfast,AC Breakfast,417,0,0,417,Bulk
+IDEA La Joya,Academy,URGV,TX,4/17/24,CACFP Supper,Supper,55,0,17,72,Individual
+IDEA La Joya,Academy,URGV,TX,4/17/24,Lunch,AC Lunch,465,0,0,465,Bulk
+IDEA La Joya,Academy,URGV,TX,4/18/24,Breakfast,AC Breakfast,437,0,0,437,Bulk
+IDEA La Joya,Academy,URGV,TX,4/18/24,CACFP Supper,Supper,55,1,13,69,Individual
+IDEA La Joya,Academy,URGV,TX,4/18/24,Lunch,AC Lunch,450,0,0,450,Bulk
+IDEA La Joya,Academy,URGV,TX,4/19/24,Breakfast,AC Breakfast,387,0,0,387,Bulk
+IDEA La Joya,Academy,URGV,TX,4/19/24,CACFP Supper,Supper,37,0,11,48,Individual
+IDEA La Joya,Academy,URGV,TX,4/19/24,Lunch,AC Lunch,445,0,0,445,Bulk
+IDEA La Joya,College Preparatory,URGV,TX,4/15/24,Breakfast,CP Breakfast,173,0,0,173,Bulk
+IDEA La Joya,College Preparatory,URGV,TX,4/15/24,Lunch,CP Lunch,228,0,0,228,Bulk
+IDEA La Joya,College Preparatory,URGV,TX,4/16/24,Breakfast,CP Breakfast,177,0,0,177,Bulk
+IDEA La Joya,College Preparatory,URGV,TX,4/16/24,CACFP Supper,Supper,20,0,3,23,Individual
+IDEA La Joya,College Preparatory,URGV,TX,4/16/24,Lunch,CP Lunch,203,0,0,203,Bulk
+IDEA La Joya,College Preparatory,URGV,TX,4/17/24,Breakfast,CP Breakfast,167,0,0,167,Bulk
+IDEA La Joya,College Preparatory,URGV,TX,4/17/24,CACFP Supper,Supper,26,0,7,33,Individual
+IDEA La Joya,College Preparatory,URGV,TX,4/17/24,Lunch,CP Lunch,202,0,0,202,Bulk
+IDEA La Joya,College Preparatory,URGV,TX,4/18/24,Breakfast,CP Breakfast,164,0,0,164,Bulk
+IDEA La Joya,College Preparatory,URGV,TX,4/18/24,CACFP Supper,Supper,23,0,6,29,Individual
+IDEA La Joya,College Preparatory,URGV,TX,4/18/24,Lunch,CP Lunch,201,0,0,201,Bulk
+IDEA La Joya,College Preparatory,URGV,TX,4/19/24,Breakfast,CP Breakfast,153,0,0,153,Bulk
+IDEA La Joya,College Preparatory,URGV,TX,4/19/24,CACFP Supper,Supper,4,0,1,5,Individual
+IDEA La Joya,College Preparatory,URGV,TX,4/19/24,Lunch,CP Lunch,186,0,0,186,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/15/24,Breakfast,AC Breakfast,558,0,0,558,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/15/24,CACFP Supper,Supper,19,0,0,19,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/15/24,Lunch,AC Lunch,552,0,0,552,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/16/24,Breakfast,AC Breakfast,414,0,0,414,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/16/24,CACFP Supper,Supper,46,0,0,46,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/16/24,Lunch,AC Lunch,531,0,0,531,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/17/24,Breakfast,AC Breakfast,455,0,0,455,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/17/24,CACFP Supper,Supper,72,0,0,72,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/17/24,Lunch,AC Lunch,512,0,0,512,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/18/24,Breakfast,AC Breakfast,440,0,0,440,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/18/24,CACFP Supper,Supper,81,0,0,81,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/18/24,Lunch,AC Lunch,559,0,0,559,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/19/24,Breakfast,AC Breakfast,418,0,0,418,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/19/24,CACFP Supper,Supper,16,0,0,16,Bulk
+IDEA Lake Houston,Academy,HOUR,TX,4/19/24,Lunch,AC Lunch,555,0,0,555,Bulk
+IDEA Lake Houston,College Preparatory,HOUR,TX,4/15/24,Breakfast,CP Breakfast,322,0,0,322,Bulk
+IDEA Lake Houston,College Preparatory,HOUR,TX,4/15/24,Lunch,CP Lunch,251,0,0,251,Bulk
+IDEA Lake Houston,College Preparatory,HOUR,TX,4/16/24,Breakfast,CP Breakfast,293,0,0,293,Bulk
+IDEA Lake Houston,College Preparatory,HOUR,TX,4/16/24,Lunch,CP Lunch,321,0,0,321,Bulk
+IDEA Lake Houston,College Preparatory,HOUR,TX,4/17/24,Breakfast,CP Breakfast,192,0,0,192,Bulk
+IDEA Lake Houston,College Preparatory,HOUR,TX,4/17/24,Lunch,CP Lunch,215,0,0,215,Bulk
+IDEA Lake Houston,College Preparatory,HOUR,TX,4/18/24,Breakfast,CP Breakfast,137,0,0,137,Bulk
+IDEA Lake Houston,College Preparatory,HOUR,TX,4/18/24,Lunch,CP Lunch,259,0,0,259,Bulk
+IDEA Lake Houston,College Preparatory,HOUR,TX,4/19/24,Breakfast,CP Breakfast,276,0,0,276,Bulk
+IDEA Lake Houston,College Preparatory,HOUR,TX,4/19/24,Lunch,CP Lunch,265,0,0,265,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/15/24,Breakfast,AC Breakfast,637,0,0,637,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/15/24,CACFP Supper,Supper,14,0,13,27,Individual
+IDEA Los Encinos,Academy,URGV,TX,4/15/24,Lunch,AC Lunch,707,0,0,707,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/16/24,Breakfast,AC Breakfast,656,0,0,656,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/16/24,CACFP Supper,Supper,19,0,17,36,Individual
+IDEA Los Encinos,Academy,URGV,TX,4/16/24,Lunch,AC Lunch,739,0,0,739,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/17/24,Breakfast,AC Breakfast,638,0,0,638,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/17/24,CACFP Supper,Supper,29,2,19,50,Individual
+IDEA Los Encinos,Academy,URGV,TX,4/17/24,Lunch,AC Lunch,752,0,0,752,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/18/24,Breakfast,AC Breakfast,630,0,0,630,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/18/24,CACFP Supper,AC Supper,143,0,0,143,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/18/24,CACFP Supper,Supper,23,2,22,47,Individual
+IDEA Los Encinos,Academy,URGV,TX,4/18/24,Lunch,AC Lunch,726,0,0,726,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/19/24,Breakfast,AC Breakfast,615,0,0,615,Bulk
+IDEA Los Encinos,Academy,URGV,TX,4/19/24,CACFP Supper,Supper,23,2,20,45,Individual
+IDEA Los Encinos,Academy,URGV,TX,4/19/24,Lunch,AC Lunch,725,0,0,725,Bulk
+IDEA Los Encinos,College Preparatory,URGV,TX,4/15/24,Breakfast,CP Breakfast,541,0,0,541,Bulk
+IDEA Los Encinos,College Preparatory,URGV,TX,4/15/24,CACFP Supper,Supper,23,1,53,77,Individual
+IDEA Los Encinos,College Preparatory,URGV,TX,4/15/24,Lunch,CP Lunch,567,0,0,567,Bulk
+IDEA Los Encinos,College Preparatory,URGV,TX,4/16/24,Breakfast,CP Breakfast,545,0,0,545,Bulk
+IDEA Los Encinos,College Preparatory,URGV,TX,4/16/24,CACFP Supper,Supper,17,1,28,46,Individual
+IDEA Los Encinos,College Preparatory,URGV,TX,4/16/24,Lunch,CP Lunch,600,0,0,600,Bulk
+IDEA Los Encinos,College Preparatory,URGV,TX,4/17/24,Breakfast,CP Breakfast,549,0,0,549,Bulk
+IDEA Los Encinos,College Preparatory,URGV,TX,4/17/24,CACFP Supper,Supper,19,2,44,65,Individual
+IDEA Los Encinos,College Preparatory,URGV,TX,4/17/24,Lunch,CP Lunch,612,0,0,612,Bulk
+IDEA Los Encinos,College Preparatory,URGV,TX,4/18/24,Breakfast,CP Breakfast,510,0,0,510,Bulk
+IDEA Los Encinos,College Preparatory,URGV,TX,4/18/24,CACFP Supper,Supper,23,1,44,68,Individual
+IDEA Los Encinos,College Preparatory,URGV,TX,4/18/24,Lunch,CP Lunch,596,0,0,596,Bulk
+IDEA Los Encinos,College Preparatory,URGV,TX,4/19/24,Breakfast,CP Breakfast,530,0,0,530,Bulk
+IDEA Los Encinos,College Preparatory,URGV,TX,4/19/24,CACFP Supper,Supper,5,3,54,62,Individual
+IDEA Los Encinos,College Preparatory,URGV,TX,4/19/24,Lunch,CP Lunch,563,0,0,563,Bulk
+IDEA Mays,Academy,WSAR,TX,4/15/24,Breakfast,AC Breakfast,547,0,0,547,Bulk
+IDEA Mays,Academy,WSAR,TX,4/15/24,CACFP Supper,Supper,121,10,89,220,Individual
+IDEA Mays,Academy,WSAR,TX,4/15/24,Lunch,AC Lunch,631,0,0,631,Bulk
+IDEA Mays,Academy,WSAR,TX,4/16/24,Breakfast,AC Breakfast,577,0,0,577,Bulk
+IDEA Mays,Academy,WSAR,TX,4/16/24,CACFP Supper,Supper,63,3,59,125,Individual
+IDEA Mays,Academy,WSAR,TX,4/16/24,Lunch,AC Lunch,649,0,0,649,Bulk
+IDEA Mays,Academy,WSAR,TX,4/17/24,Breakfast,AC Breakfast,569,0,0,569,Bulk
+IDEA Mays,Academy,WSAR,TX,4/17/24,CACFP Supper,Supper,122,10,89,221,Individual
+IDEA Mays,Academy,WSAR,TX,4/17/24,Lunch,AC Lunch,623,0,0,623,Bulk
+IDEA Mays,Academy,WSAR,TX,4/18/24,Breakfast,AC Breakfast,551,0,0,551,Bulk
+IDEA Mays,Academy,WSAR,TX,4/18/24,CACFP Supper,Supper,133,10,94,237,Individual
+IDEA Mays,Academy,WSAR,TX,4/18/24,Lunch,AC Lunch,604,0,0,604,Bulk
+IDEA Mays,Academy,WSAR,TX,4/19/24,Breakfast,AC Breakfast,524,0,0,524,Bulk
+IDEA Mays,Academy,WSAR,TX,4/19/24,CACFP Supper,Supper,121,9,87,217,Individual
+IDEA Mays,Academy,WSAR,TX,4/19/24,Lunch,AC Lunch,597,0,0,597,Bulk
+IDEA Mays,College Preparatory,WSAR,TX,4/15/24,Breakfast,CP Breakfast,506,0,0,506,Bulk
+IDEA Mays,College Preparatory,WSAR,TX,4/15/24,CACFP Supper,Supper,18,0,23,41,Individual
+IDEA Mays,College Preparatory,WSAR,TX,4/15/24,Lunch,CP Lunch,536,0,0,536,Bulk
+IDEA Mays,College Preparatory,WSAR,TX,4/16/24,Breakfast,CP Breakfast,480,0,0,480,Bulk
+IDEA Mays,College Preparatory,WSAR,TX,4/16/24,CACFP Supper,Supper,4,0,12,16,Individual
+IDEA Mays,College Preparatory,WSAR,TX,4/16/24,Lunch,CP Lunch,566,0,0,566,Bulk
+IDEA Mays,College Preparatory,WSAR,TX,4/17/24,Breakfast,CP Breakfast,509,0,0,509,Bulk
+IDEA Mays,College Preparatory,WSAR,TX,4/17/24,CACFP Supper,Supper,20,0,24,44,Individual
+IDEA Mays,College Preparatory,WSAR,TX,4/17/24,Lunch,CP Lunch,580,0,0,580,Bulk
+IDEA Mays,College Preparatory,WSAR,TX,4/18/24,Breakfast,CP Breakfast,493,0,0,493,Bulk
+IDEA Mays,College Preparatory,WSAR,TX,4/18/24,CACFP Supper,Supper,20,0,22,42,Individual
+IDEA Mays,College Preparatory,WSAR,TX,4/18/24,Lunch,CP Lunch,563,0,0,563,Bulk
+IDEA Mays,College Preparatory,WSAR,TX,4/19/24,Breakfast,CP Breakfast,450,0,0,450,Bulk
+IDEA Mays,College Preparatory,WSAR,TX,4/19/24,CACFP Supper,Supper,16,0,16,32,Individual
+IDEA Mays,College Preparatory,WSAR,TX,4/19/24,Lunch,CP Lunch,489,0,0,489,Bulk
+IDEA McAllen,Academy,URGV,TX,4/15/24,Breakfast,AC Breakfast,714,0,0,714,Bulk
+IDEA McAllen,Academy,URGV,TX,4/15/24,CACFP Supper,AC Supper,518,0,0,518,Bulk
+IDEA McAllen,Academy,URGV,TX,4/15/24,Lunch,AC Lunch,689,0,0,689,Bulk
+IDEA McAllen,Academy,URGV,TX,4/16/24,Breakfast,AC Breakfast,690,0,0,690,Bulk
+IDEA McAllen,Academy,URGV,TX,4/16/24,CACFP Supper,AC Supper,650,0,0,650,Bulk
+IDEA McAllen,Academy,URGV,TX,4/16/24,Lunch,AC Lunch,657,0,0,657,Bulk
+IDEA McAllen,Academy,URGV,TX,4/17/24,Breakfast,AC Breakfast,712,0,0,712,Bulk
+IDEA McAllen,Academy,URGV,TX,4/17/24,CACFP Supper,AC Supper,520,0,0,520,Bulk
+IDEA McAllen,Academy,URGV,TX,4/17/24,Lunch,AC Lunch,675,0,0,675,Bulk
+IDEA McAllen,Academy,URGV,TX,4/18/24,Breakfast,AC Breakfast,692,0,0,692,Bulk
+IDEA McAllen,Academy,URGV,TX,4/18/24,CACFP Supper,AC Supper,534,0,0,534,Bulk
+IDEA McAllen,Academy,URGV,TX,4/18/24,Lunch,AC Lunch,661,0,0,661,Bulk
+IDEA McAllen,Academy,URGV,TX,4/19/24,Breakfast,AC Breakfast,680,0,0,680,Bulk
+IDEA McAllen,Academy,URGV,TX,4/19/24,CACFP Supper,AC Supper,533,0,0,533,Bulk
+IDEA McAllen,Academy,URGV,TX,4/19/24,Lunch,AC Lunch,659,0,0,659,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/15/24,Breakfast,CP Breakfast,569,0,0,569,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/15/24,CACFP Supper,CP Supper,13,0,0,13,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/15/24,Lunch,CP Lunch,532,0,0,532,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/16/24,Breakfast,CP Breakfast,584,0,0,584,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/16/24,CACFP Supper,CP Supper,9,0,0,9,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/16/24,Lunch,CP Lunch,681,0,0,681,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/17/24,Breakfast,CP Breakfast,482,0,0,482,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/17/24,CACFP Supper,CP Supper,15,0,0,15,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/17/24,Lunch,CP Lunch,560,0,0,560,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/18/24,Breakfast,CP Breakfast,567,0,0,567,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/18/24,CACFP Supper,CP Supper,16,0,0,16,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/18/24,Lunch,CP Lunch,573,0,0,573,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/19/24,Breakfast,CP Breakfast,583,0,0,583,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/19/24,CACFP Supper,CP Supper,11,0,0,11,Bulk
+IDEA McAllen,College Preparatory,URGV,TX,4/19/24,Lunch,CP Lunch,567,0,0,567,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/15/24,Breakfast,AC Breakfast,576,0,0,576,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/15/24,CACFP Supper,Supper,278,11,208,497,Individual
+IDEA Mesa Hills,Academy,ELPR,TX,4/15/24,Lunch,AC Lunch,582,0,0,582,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/16/24,Breakfast,AC Breakfast,577,0,0,577,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/16/24,CACFP Supper,AC Supper,315,0,0,315,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/16/24,CACFP Supper,Supper,125,5,63,193,Individual
+IDEA Mesa Hills,Academy,ELPR,TX,4/16/24,Lunch,AC Lunch,568,0,0,568,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/17/24,Breakfast,AC Breakfast,577,0,0,577,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/17/24,CACFP Supper,Supper,294,11,200,505,Individual
+IDEA Mesa Hills,Academy,ELPR,TX,4/17/24,Lunch,AC Lunch,551,0,0,551,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/18/24,Breakfast,AC Breakfast,634,0,0,634,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/18/24,CACFP Supper,Supper,295,9,206,510,Individual
+IDEA Mesa Hills,Academy,ELPR,TX,4/18/24,Lunch,AC Lunch,572,0,0,572,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/19/24,Breakfast,AC Breakfast,585,0,0,585,Bulk
+IDEA Mesa Hills,Academy,ELPR,TX,4/19/24,CACFP Supper,Supper,277,8,186,471,Individual
+IDEA Mesa Hills,Academy,ELPR,TX,4/19/24,Lunch,AC Lunch,592,0,0,592,Bulk
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/15/24,Breakfast,CP Breakfast,311,0,0,311,Bulk
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/15/24,CACFP Supper,Supper,89,4,98,191,Individual
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/15/24,Lunch,CP Lunch,267,0,0,267,Bulk
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/16/24,Breakfast,CP Breakfast,347,0,0,347,Bulk
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/16/24,CACFP Supper,Supper,100,6,108,214,Individual
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/16/24,Lunch,CP Lunch,296,0,0,296,Bulk
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/17/24,Breakfast,CP Breakfast,309,0,0,309,Bulk
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/17/24,CACFP Supper,Supper,5,2,3,10,Individual
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/17/24,Lunch,CP Lunch,279,0,0,279,Bulk
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/18/24,Breakfast,CP Breakfast,341,0,0,341,Bulk
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/18/24,Lunch,CP Lunch,393,0,0,393,Bulk
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/19/24,Breakfast,CP Breakfast,312,0,0,312,Bulk
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/19/24,CACFP Supper,Supper,70,5,79,154,Individual
+IDEA Mesa Hills,College Preparatory,ELPR,TX,4/19/24,Lunch,CP Lunch,293,0,0,293,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/15/24,Breakfast,AC Breakfast,405,0,0,405,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/15/24,CACFP Supper,AC Supper,93,0,0,93,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/15/24,Lunch,AC Lunch,432,0,0,432,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/16/24,Breakfast,AC Breakfast,417,0,0,417,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/16/24,CACFP Supper,AC Supper,106,0,0,106,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/16/24,Lunch,AC Lunch,347,0,0,347,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/17/24,Breakfast,AC Breakfast,427,0,0,427,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/17/24,CACFP Supper,AC Supper,130,0,0,130,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/17/24,Lunch,AC Lunch,402,0,0,402,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/18/24,Breakfast,AC Breakfast,440,0,0,440,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/18/24,CACFP Supper,AC Supper,122,0,0,122,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/18/24,Lunch,AC Lunch,430,0,0,430,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/19/24,Breakfast,AC Breakfast,436,0,0,436,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/19/24,CACFP Supper,AC Supper,87,0,0,87,Bulk
+IDEA Mesquite Hills,Academy,ELPR,TX,4/19/24,Lunch,AC Lunch,444,0,0,444,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/15/24,Breakfast,CP Breakfast,140,0,0,140,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/15/24,CACFP Supper,CP Supper,145,0,0,145,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/15/24,Lunch,CP Lunch,222,0,0,222,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/16/24,Breakfast,CP Breakfast,154,0,0,154,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/16/24,Lunch,CP Lunch,202,0,0,202,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/17/24,Breakfast,CP Breakfast,146,0,0,146,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/17/24,CACFP Supper,CP Supper,114,0,0,114,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/17/24,Lunch,CP Lunch,209,0,0,209,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/18/24,Breakfast,CP Breakfast,141,0,0,141,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/18/24,CACFP Supper,CP Supper,154,0,0,154,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/18/24,Lunch,CP Lunch,216,0,0,216,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/19/24,Breakfast,CP Breakfast,144,0,0,144,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/19/24,CACFP Supper,CP Supper,147,0,0,147,Bulk
+IDEA Mesquite Hills,College Preparatory,ELPR,TX,4/19/24,Lunch,CP Lunch,235,0,0,235,Bulk
+IDEA Mission,Academy,URGV,TX,4/15/24,Breakfast,AC Breakfast,505,0,0,505,Bulk
+IDEA Mission,Academy,URGV,TX,4/15/24,CACFP Supper,AC Supper,235,0,0,235,Bulk
+IDEA Mission,Academy,URGV,TX,4/15/24,Lunch,AC Lunch,583,0,0,583,Bulk
+IDEA Mission,Academy,URGV,TX,4/16/24,Breakfast,AC Breakfast,545,0,0,545,Bulk
+IDEA Mission,Academy,URGV,TX,4/16/24,CACFP Supper,AC Supper,211,0,0,211,Bulk
+IDEA Mission,Academy,URGV,TX,4/16/24,Lunch,AC Lunch,397,0,0,397,Bulk
+IDEA Mission,Academy,URGV,TX,4/17/24,Breakfast,AC Breakfast,488,0,0,488,Bulk
+IDEA Mission,Academy,URGV,TX,4/17/24,CACFP Supper,AC Supper,220,0,0,220,Bulk
+IDEA Mission,Academy,URGV,TX,4/17/24,Lunch,AC Lunch,554,0,0,554,Bulk
+IDEA Mission,Academy,URGV,TX,4/18/24,Breakfast,AC Breakfast,543,0,0,543,Bulk
+IDEA Mission,Academy,URGV,TX,4/18/24,CACFP Supper,AC Supper,272,0,0,272,Bulk
+IDEA Mission,Academy,URGV,TX,4/18/24,Lunch,AC Lunch,473,0,0,473,Bulk
+IDEA Mission,Academy,URGV,TX,4/19/24,Breakfast,AC Breakfast,492,0,0,492,Bulk
+IDEA Mission,Academy,URGV,TX,4/19/24,CACFP Supper,AC Supper,231,0,0,231,Bulk
+IDEA Mission,Academy,URGV,TX,4/19/24,Lunch,AC Lunch,528,0,0,528,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/15/24,Breakfast,CP Breakfast,575,0,0,575,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/15/24,CACFP Supper,CP Supper,14,0,0,14,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/15/24,Lunch,CP Lunch,558,0,0,558,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/16/24,Breakfast,CP Breakfast,643,0,0,643,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/16/24,CACFP Supper,CP Supper,18,0,0,18,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/16/24,Lunch,CP Lunch,624,0,0,624,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/17/24,Breakfast,CP Breakfast,503,0,0,503,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/17/24,CACFP Supper,CP Supper,84,0,0,84,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/17/24,Lunch,CP Lunch,443,0,0,443,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/18/24,Breakfast,CP Breakfast,483,0,0,483,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/18/24,CACFP Supper,CP Supper,20,0,0,20,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/18/24,Lunch,CP Lunch,518,0,0,518,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/19/24,Breakfast,CP Breakfast,570,0,0,570,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/19/24,CACFP Supper,CP Supper,24,0,0,24,Bulk
+IDEA Mission,College Preparatory,URGV,TX,4/19/24,Lunch,CP Lunch,552,0,0,552,Bulk
+IDEA Monterrey Park,Academy,ESAR,TX,4/15/24,Breakfast,AC Breakfast,472,0,0,472,Bulk
+IDEA Monterrey Park,Academy,ESAR,TX,4/15/24,CACFP Supper,Supper,112,9,49,170,Individual
+IDEA Monterrey Park,Academy,ESAR,TX,4/15/24,Lunch,AC Lunch,488,0,0,488,Bulk
+IDEA Monterrey Park,Academy,ESAR,TX,4/16/24,Breakfast,AC Breakfast,453,0,0,453,Bulk
+IDEA Monterrey Park,Academy,ESAR,TX,4/16/24,Lunch,AC Lunch,502,0,0,502,Bulk
+IDEA Monterrey Park,Academy,ESAR,TX,4/17/24,Breakfast,AC Breakfast,459,0,0,459,Bulk
+IDEA Monterrey Park,Academy,ESAR,TX,4/17/24,Lunch,AC Lunch,521,0,0,521,Bulk
+IDEA Monterrey Park,Academy,ESAR,TX,4/18/24,Breakfast,AC Breakfast,450,0,0,450,Bulk
+IDEA Monterrey Park,Academy,ESAR,TX,4/18/24,Lunch,AC Lunch,491,0,0,491,Bulk
+IDEA Monterrey Park,Academy,ESAR,TX,4/19/24,Breakfast,AC Breakfast,452,0,0,452,Bulk
+IDEA Monterrey Park,Academy,ESAR,TX,4/19/24,Lunch,AC Lunch,491,0,0,491,Bulk
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/15/24,Breakfast,CP Breakfast,539,0,0,539,Bulk
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/15/24,CACFP Supper,Supper,0,0,1,1,Individual
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/15/24,Lunch,CP Lunch,507,0,0,507,Bulk
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/16/24,Breakfast,CP Breakfast,560,0,0,560,Bulk
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/16/24,Lunch,CP Lunch,501,0,0,501,Bulk
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/17/24,Breakfast,CP Breakfast,563,0,0,563,Bulk
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/17/24,Lunch,CP Lunch,482,0,0,482,Bulk
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/18/24,Breakfast,CP Breakfast,544,0,0,544,Bulk
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/18/24,Lunch,CP Lunch,561,0,0,561,Bulk
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/19/24,Breakfast,CP Breakfast,520,0,0,520,Bulk
+IDEA Monterrey Park,College Preparatory,ESAR,TX,4/19/24,Lunch,CP Lunch,505,0,0,505,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/15/24,Breakfast,AC Breakfast,422,0,0,422,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/15/24,CACFP Supper,AC Supper,426,0,0,426,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/15/24,Lunch,AC Lunch,482,0,0,482,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/16/24,Breakfast,AC Breakfast,452,0,0,452,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/16/24,CACFP Supper,AC Supper,479,0,0,479,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/16/24,Lunch,AC Lunch,461,0,0,461,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/17/24,Breakfast,AC Breakfast,456,0,0,456,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/17/24,CACFP Supper,AC Supper,450,0,0,450,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/17/24,Lunch,AC Lunch,469,0,0,469,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/18/24,Breakfast,AC Breakfast,388,0,0,388,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/18/24,CACFP Supper,AC Supper,494,0,0,494,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/18/24,Lunch,AC Lunch,506,0,0,506,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/19/24,Breakfast,AC Breakfast,373,0,0,373,Bulk
+IDEA Montopolis,Academy,AUR,TX,4/19/24,CACFP Supper,Supper,277,21,152,450,Individual
+IDEA Montopolis,Academy,AUR,TX,4/19/24,Lunch,AC Lunch,489,0,0,489,Bulk
+IDEA Montopolis,College Preparatory,AUR,TX,4/15/24,Breakfast,CP Breakfast,333,0,0,333,Bulk
+IDEA Montopolis,College Preparatory,AUR,TX,4/15/24,Lunch,CP Lunch,541,0,0,541,Bulk
+IDEA Montopolis,College Preparatory,AUR,TX,4/16/24,Breakfast,CP Breakfast,185,0,0,185,Bulk
+IDEA Montopolis,College Preparatory,AUR,TX,4/16/24,Lunch,CP Lunch,451,0,0,451,Bulk
+IDEA Montopolis,College Preparatory,AUR,TX,4/17/24,Breakfast,CP Breakfast,278,0,0,278,Bulk
+IDEA Montopolis,College Preparatory,AUR,TX,4/17/24,Lunch,CP Lunch,550,0,0,550,Bulk
+IDEA Montopolis,College Preparatory,AUR,TX,4/18/24,Breakfast,CP Breakfast,217,0,0,217,Bulk
+IDEA Montopolis,College Preparatory,AUR,TX,4/18/24,Lunch,CP Lunch,538,0,0,538,Bulk
+IDEA Montopolis,College Preparatory,AUR,TX,4/19/24,Breakfast,CP Breakfast,200,0,0,200,Bulk
+IDEA Montopolis,College Preparatory,AUR,TX,4/19/24,Lunch,CP Lunch,402,0,0,402,Bulk
+IDEA Najim,Academy,ESAR,TX,4/15/24,Breakfast,AC Breakfast,470,0,0,470,Bulk
+IDEA Najim,Academy,ESAR,TX,4/15/24,CACFP Supper,Supper,127,6,44,177,Individual
+IDEA Najim,Academy,ESAR,TX,4/15/24,Lunch,AC Lunch,459,0,0,459,Bulk
+IDEA Najim,Academy,ESAR,TX,4/16/24,Breakfast,AC Breakfast,479,0,0,479,Bulk
+IDEA Najim,Academy,ESAR,TX,4/16/24,CACFP Supper,Supper,124,7,43,174,Individual
+IDEA Najim,Academy,ESAR,TX,4/16/24,Lunch,AC Lunch,448,0,0,448,Bulk
+IDEA Najim,Academy,ESAR,TX,4/17/24,Breakfast,AC Breakfast,484,0,0,484,Bulk
+IDEA Najim,Academy,ESAR,TX,4/17/24,CACFP Supper,Supper,123,4,42,169,Individual
+IDEA Najim,Academy,ESAR,TX,4/17/24,Lunch,AC Lunch,446,0,0,446,Bulk
+IDEA Najim,Academy,ESAR,TX,4/18/24,Breakfast,AC Breakfast,517,0,0,517,Bulk
+IDEA Najim,Academy,ESAR,TX,4/18/24,CACFP Supper,Supper,130,6,46,182,Individual
+IDEA Najim,Academy,ESAR,TX,4/18/24,Lunch,AC Lunch,474,0,0,474,Bulk
+IDEA Najim,Academy,ESAR,TX,4/19/24,Breakfast,AC Breakfast,478,0,0,478,Bulk
+IDEA Najim,Academy,ESAR,TX,4/19/24,CACFP Supper,Supper,114,6,42,162,Individual
+IDEA Najim,Academy,ESAR,TX,4/19/24,Lunch,AC Lunch,469,0,0,469,Bulk
+IDEA Najim,College Preparatory,ESAR,TX,4/15/24,Breakfast,CP Breakfast,348,0,0,348,Bulk
+IDEA Najim,College Preparatory,ESAR,TX,4/15/24,Lunch,CP Lunch,356,0,0,356,Bulk
+IDEA Najim,College Preparatory,ESAR,TX,4/16/24,Breakfast,CP Breakfast,392,0,0,392,Bulk
+IDEA Najim,College Preparatory,ESAR,TX,4/16/24,Lunch,CP Lunch,374,0,0,374,Bulk
+IDEA Najim,College Preparatory,ESAR,TX,4/17/24,Breakfast,CP Breakfast,359,0,0,359,Bulk
+IDEA Najim,College Preparatory,ESAR,TX,4/17/24,Lunch,CP Lunch,368,0,0,368,Bulk
+IDEA Najim,College Preparatory,ESAR,TX,4/18/24,Breakfast,CP Breakfast,356,0,0,356,Bulk
+IDEA Najim,College Preparatory,ESAR,TX,4/18/24,Lunch,CP Lunch,361,0,0,361,Bulk
+IDEA Najim,College Preparatory,ESAR,TX,4/19/24,Breakfast,CP Breakfast,308,0,0,308,Bulk
+IDEA Najim,College Preparatory,ESAR,TX,4/19/24,Lunch,CP Lunch,303,0,0,303,Bulk
+IDEA North Mission,Academy,URGV,TX,4/15/24,Breakfast,AC Breakfast,657,0,0,657,Bulk
+IDEA North Mission,Academy,URGV,TX,4/15/24,CACFP Supper,AC Supper,171,0,0,171,Bulk
+IDEA North Mission,Academy,URGV,TX,4/15/24,Lunch,AC Lunch,702,0,0,702,Bulk
+IDEA North Mission,Academy,URGV,TX,4/16/24,Breakfast,AC Breakfast,673,0,0,673,Bulk
+IDEA North Mission,Academy,URGV,TX,4/16/24,CACFP Supper,AC Supper,200,0,0,200,Bulk
+IDEA North Mission,Academy,URGV,TX,4/16/24,Lunch,AC Lunch,728,0,0,728,Bulk
+IDEA North Mission,Academy,URGV,TX,4/17/24,Breakfast,AC Breakfast,622,0,0,622,Bulk
+IDEA North Mission,Academy,URGV,TX,4/17/24,CACFP Supper,AC Supper,182,0,0,182,Bulk
+IDEA North Mission,Academy,URGV,TX,4/17/24,Lunch,AC Lunch,730,0,0,730,Bulk
+IDEA North Mission,Academy,URGV,TX,4/18/24,Breakfast,AC Breakfast,609,0,0,609,Bulk
+IDEA North Mission,Academy,URGV,TX,4/18/24,CACFP Supper,AC Supper,204,0,0,204,Bulk
+IDEA North Mission,Academy,URGV,TX,4/18/24,Lunch,AC Lunch,734,0,0,734,Bulk
+IDEA North Mission,Academy,URGV,TX,4/19/24,Breakfast,AC Breakfast,571,0,0,571,Bulk
+IDEA North Mission,Academy,URGV,TX,4/19/24,CACFP Supper,AC Supper,149,0,0,149,Bulk
+IDEA North Mission,Academy,URGV,TX,4/19/24,Lunch,AC Lunch,691,0,0,691,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/15/24,Breakfast,CP Breakfast,534,0,0,534,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/15/24,CACFP Supper,CP Supper,57,0,0,57,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/15/24,Lunch,CP Lunch,560,0,0,560,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/16/24,Breakfast,CP Breakfast,590,0,0,590,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/16/24,CACFP Supper,CP Supper,21,0,0,21,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/16/24,Lunch,CP Lunch,576,0,0,576,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/17/24,Breakfast,CP Breakfast,487,0,0,487,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/17/24,CACFP Supper,CP Supper,22,0,0,22,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/17/24,Lunch,CP Lunch,477,0,0,477,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/18/24,Breakfast,CP Breakfast,584,0,0,584,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/18/24,CACFP Supper,CP Supper,23,0,0,23,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/18/24,Lunch,CP Lunch,665,0,0,665,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/19/24,Breakfast,CP Breakfast,516,0,0,516,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/19/24,CACFP Supper,CP Supper,2,0,0,2,Bulk
+IDEA North Mission,College Preparatory,URGV,TX,4/19/24,Lunch,CP Lunch,552,0,0,552,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/15/24,Breakfast,AC Breakfast,462,0,0,462,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/15/24,CACFP Supper,AC Supper,60,0,0,60,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/15/24,Lunch,AC Lunch,593,0,0,593,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/16/24,Breakfast,AC Breakfast,504,0,0,504,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/16/24,CACFP Supper,AC Supper,58,0,0,58,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/16/24,Lunch,AC Lunch,588,0,0,588,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/17/24,Breakfast,AC Breakfast,450,0,0,450,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/17/24,CACFP Supper,AC Supper,103,0,0,103,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/17/24,Lunch,AC Lunch,539,0,0,539,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/18/24,Breakfast,AC Breakfast,456,0,0,456,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/18/24,CACFP Supper,AC Supper,181,0,0,181,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/18/24,Lunch,AC Lunch,607,0,0,607,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/19/24,Breakfast,AC Breakfast,446,0,0,446,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/19/24,CACFP Supper,AC Supper,38,0,0,38,Bulk
+IDEA Owassa,Academy,MRGV,TX,4/19/24,Lunch,AC Lunch,575,0,0,575,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/15/24,Breakfast,CP Breakfast,355,0,0,355,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/15/24,CACFP Supper,CP Supper,73,0,0,73,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/15/24,Lunch,CP Lunch,498,0,0,498,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/16/24,Breakfast,CP Breakfast,338,0,0,338,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/16/24,CACFP Supper,CP Supper,63,0,0,63,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/16/24,Lunch,CP Lunch,544,0,0,544,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/17/24,Breakfast,CP Breakfast,386,0,0,386,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/17/24,CACFP Supper,CP Supper,84,0,0,84,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/17/24,Lunch,CP Lunch,538,0,0,538,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/18/24,Breakfast,CP Breakfast,340,0,0,340,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/18/24,CACFP Supper,CP Supper,20,0,0,20,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/18/24,Lunch,CP Lunch,581,0,0,581,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/19/24,Breakfast,CP Breakfast,325,0,0,325,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/19/24,CACFP Supper,CP Supper,36,0,0,36,Bulk
+IDEA Owassa,College Preparatory,MRGV,TX,4/19/24,Lunch,CP Lunch,522,0,0,522,Bulk
+IDEA Palmview,Academy,URGV,TX,4/15/24,Breakfast,AC Breakfast,521,0,0,521,Bulk
+IDEA Palmview,Academy,URGV,TX,4/15/24,CACFP Supper,Supper,36,1,18,55,Individual
+IDEA Palmview,Academy,URGV,TX,4/15/24,Lunch,AC Lunch,595,0,0,595,Bulk
+IDEA Palmview,Academy,URGV,TX,4/16/24,Breakfast,AC Breakfast,552,0,0,552,Bulk
+IDEA Palmview,Academy,URGV,TX,4/16/24,CACFP Supper,Supper,30,1,20,51,Individual
+IDEA Palmview,Academy,URGV,TX,4/16/24,Lunch,AC Lunch,611,0,0,611,Bulk
+IDEA Palmview,Academy,URGV,TX,4/17/24,Breakfast,AC Breakfast,538,0,0,538,Bulk
+IDEA Palmview,Academy,URGV,TX,4/17/24,CACFP Supper,Supper,40,1,14,55,Individual
+IDEA Palmview,Academy,URGV,TX,4/17/24,Lunch,AC Lunch,637,0,0,637,Bulk
+IDEA Palmview,Academy,URGV,TX,4/18/24,Breakfast,AC Breakfast,545,0,0,545,Bulk
+IDEA Palmview,Academy,URGV,TX,4/18/24,CACFP Supper,Supper,33,1,17,51,Individual
+IDEA Palmview,Academy,URGV,TX,4/18/24,Lunch,AC Lunch,612,0,0,612,Bulk
+IDEA Palmview,Academy,URGV,TX,4/19/24,Breakfast,AC Breakfast,542,0,0,542,Bulk
+IDEA Palmview,Academy,URGV,TX,4/19/24,CACFP Supper,Supper,13,1,5,19,Individual
+IDEA Palmview,Academy,URGV,TX,4/19/24,Lunch,AC Lunch,559,0,0,559,Bulk
+IDEA Palmview,College Preparatory,URGV,TX,4/15/24,Breakfast,CP Breakfast,220,0,0,220,Bulk
+IDEA Palmview,College Preparatory,URGV,TX,4/15/24,CACFP Supper,Supper,13,1,6,20,Individual
+IDEA Palmview,College Preparatory,URGV,TX,4/15/24,Lunch,CP Lunch,280,0,0,280,Bulk
+IDEA Palmview,College Preparatory,URGV,TX,4/16/24,Breakfast,CP Breakfast,231,0,0,231,Bulk
+IDEA Palmview,College Preparatory,URGV,TX,4/16/24,CACFP Supper,Supper,10,0,6,16,Individual
+IDEA Palmview,College Preparatory,URGV,TX,4/16/24,Lunch,CP Lunch,275,0,0,275,Bulk
+IDEA Palmview,College Preparatory,URGV,TX,4/17/24,Breakfast,CP Breakfast,256,0,0,256,Bulk
+IDEA Palmview,College Preparatory,URGV,TX,4/17/24,CACFP Supper,Supper,7,1,5,13,Individual
+IDEA Palmview,College Preparatory,URGV,TX,4/17/24,Lunch,CP Lunch,299,0,0,299,Bulk
+IDEA Palmview,College Preparatory,URGV,TX,4/18/24,Breakfast,CP Breakfast,216,0,0,216,Bulk
+IDEA Palmview,College Preparatory,URGV,TX,4/18/24,CACFP Supper,Supper,11,0,3,14,Individual
+IDEA Palmview,College Preparatory,URGV,TX,4/18/24,Lunch,CP Lunch,276,0,0,276,Bulk
+IDEA Palmview,College Preparatory,URGV,TX,4/19/24,Breakfast,CP Breakfast,217,0,0,217,Bulk
+IDEA Palmview,College Preparatory,URGV,TX,4/19/24,CACFP Supper,Supper,5,1,1,7,Individual
+IDEA Palmview,College Preparatory,URGV,TX,4/19/24,Lunch,CP Lunch,260,0,0,260,Bulk
+IDEA Parmer Park,Academy,AUR,TX,4/15/24,Breakfast,AC Breakfast,339,0,0,339,Bulk
+IDEA Parmer Park,Academy,AUR,TX,4/15/24,CACFP Supper,Supper,44,8,31,83,Individual
+IDEA Parmer Park,Academy,AUR,TX,4/15/24,Lunch,AC Lunch,439,0,0,439,Bulk
+IDEA Parmer Park,Academy,AUR,TX,4/16/24,Breakfast,AC Breakfast,359,0,0,359,Bulk
+IDEA Parmer Park,Academy,AUR,TX,4/16/24,CACFP Supper,Supper,40,10,29,79,Individual
+IDEA Parmer Park,Academy,AUR,TX,4/16/24,Lunch,AC Lunch,409,0,0,409,Bulk
+IDEA Parmer Park,Academy,AUR,TX,4/17/24,Breakfast,AC Breakfast,370,0,0,370,Bulk
+IDEA Parmer Park,Academy,AUR,TX,4/17/24,CACFP Supper,Supper,45,9,29,83,Individual
+IDEA Parmer Park,Academy,AUR,TX,4/17/24,Lunch,AC Lunch,447,0,0,447,Bulk
+IDEA Parmer Park,Academy,AUR,TX,4/18/24,Breakfast,AC Breakfast,362,0,0,362,Bulk
+IDEA Parmer Park,Academy,AUR,TX,4/18/24,CACFP Supper,Supper,43,9,29,81,Individual
+IDEA Parmer Park,Academy,AUR,TX,4/18/24,Lunch,AC Lunch,441,0,0,441,Bulk
+IDEA Parmer Park,Academy,AUR,TX,4/19/24,Breakfast,AC Breakfast,360,0,0,360,Bulk
+IDEA Parmer Park,Academy,AUR,TX,4/19/24,CACFP Supper,Supper,41,9,24,74,Individual
+IDEA Parmer Park,Academy,AUR,TX,4/19/24,Lunch,AC Lunch,448,0,0,448,Bulk
+IDEA Parmer Park,College Preparatory,AUR,TX,4/15/24,Breakfast,CP Breakfast,270,0,0,270,Bulk
+IDEA Parmer Park,College Preparatory,AUR,TX,4/15/24,Lunch,CP Lunch,441,0,0,441,Bulk
+IDEA Parmer Park,College Preparatory,AUR,TX,4/16/24,Breakfast,CP Breakfast,286,0,0,286,Bulk
+IDEA Parmer Park,College Preparatory,AUR,TX,4/16/24,Lunch,CP Lunch,390,0,0,390,Bulk
+IDEA Parmer Park,College Preparatory,AUR,TX,4/17/24,Breakfast,CP Breakfast,297,0,0,297,Bulk
+IDEA Parmer Park,College Preparatory,AUR,TX,4/17/24,Lunch,CP Lunch,403,0,0,403,Bulk
+IDEA Parmer Park,College Preparatory,AUR,TX,4/18/24,Breakfast,CP Breakfast,288,0,0,288,Bulk
+IDEA Parmer Park,College Preparatory,AUR,TX,4/18/24,Lunch,CP Lunch,484,0,0,484,Bulk
+IDEA Parmer Park,College Preparatory,AUR,TX,4/19/24,Breakfast,CP Breakfast,287,0,0,287,Bulk
+IDEA Parmer Park,College Preparatory,AUR,TX,4/19/24,Lunch,CP Lunch,472,0,0,472,Bulk
+IDEA Pflugerville,Academy,AUR,TX,4/15/24,Breakfast,AC Breakfast,323,0,0,323,Bulk
+IDEA Pflugerville,Academy,AUR,TX,4/15/24,CACFP Supper,Supper,116,10,79,205,Individual
+IDEA Pflugerville,Academy,AUR,TX,4/15/24,Lunch,AC Lunch,458,0,0,458,Bulk
+IDEA Pflugerville,Academy,AUR,TX,4/16/24,Breakfast,AC Breakfast,318,0,0,318,Bulk
+IDEA Pflugerville,Academy,AUR,TX,4/16/24,CACFP Supper,Supper,128,14,85,227,Individual
+IDEA Pflugerville,Academy,AUR,TX,4/16/24,Lunch,AC Lunch,539,0,0,539,Bulk
+IDEA Pflugerville,Academy,AUR,TX,4/17/24,Breakfast,AC Breakfast,322,0,0,322,Bulk
+IDEA Pflugerville,Academy,AUR,TX,4/17/24,CACFP Supper,Supper,124,11,76,211,Individual
+IDEA Pflugerville,Academy,AUR,TX,4/17/24,Lunch,AC Lunch,435,0,0,435,Bulk
+IDEA Pflugerville,Academy,AUR,TX,4/18/24,Breakfast,AC Breakfast,327,0,0,327,Bulk
+IDEA Pflugerville,Academy,AUR,TX,4/18/24,CACFP Supper,Supper,135,11,85,231,Individual
+IDEA Pflugerville,Academy,AUR,TX,4/18/24,Lunch,AC Lunch,470,0,0,470,Bulk
+IDEA Pflugerville,Academy,AUR,TX,4/19/24,Breakfast,AC Breakfast,327,0,0,327,Bulk
+IDEA Pflugerville,Academy,AUR,TX,4/19/24,CACFP Supper,Supper,114,7,67,188,Individual
+IDEA Pflugerville,Academy,AUR,TX,4/19/24,Lunch,AC Lunch,458,0,0,458,Bulk
+IDEA Pflugerville,College Preparatory,AUR,TX,4/15/24,Breakfast,CP Breakfast,209,0,0,209,Bulk
+IDEA Pflugerville,College Preparatory,AUR,TX,4/15/24,CACFP Supper,Supper,5,1,4,10,Individual
+IDEA Pflugerville,College Preparatory,AUR,TX,4/15/24,Lunch,CP Lunch,420,0,0,420,Bulk
+IDEA Pflugerville,College Preparatory,AUR,TX,4/16/24,Breakfast,CP Breakfast,196,0,0,196,Bulk
+IDEA Pflugerville,College Preparatory,AUR,TX,4/16/24,CACFP Supper,Supper,4,0,1,5,Individual
+IDEA Pflugerville,College Preparatory,AUR,TX,4/16/24,Lunch,CP Lunch,436,0,0,436,Bulk
+IDEA Pflugerville,College Preparatory,AUR,TX,4/17/24,Breakfast,CP Breakfast,226,0,0,226,Bulk
+IDEA Pflugerville,College Preparatory,AUR,TX,4/17/24,CACFP Supper,Supper,6,1,4,11,Individual
+IDEA Pflugerville,College Preparatory,AUR,TX,4/17/24,Lunch,CP Lunch,428,0,0,428,Bulk
+IDEA Pflugerville,College Preparatory,AUR,TX,4/18/24,Breakfast,CP Breakfast,204,0,0,204,Bulk
+IDEA Pflugerville,College Preparatory,AUR,TX,4/18/24,Lunch,CP Lunch,464,0,0,464,Bulk
+IDEA Pflugerville,College Preparatory,AUR,TX,4/19/24,Breakfast,CP Breakfast,240,0,0,240,Bulk
+IDEA Pflugerville,College Preparatory,AUR,TX,4/19/24,CACFP Supper,Supper,3,1,6,10,Individual
+IDEA Pflugerville,College Preparatory,AUR,TX,4/19/24,Lunch,CP Lunch,404,0,0,404,Bulk
+IDEA Pharr,Academy,MRGV,TX,4/15/24,Breakfast,AC Breakfast,611,0,0,611,Bulk
+IDEA Pharr,Academy,MRGV,TX,4/15/24,CACFP Supper,Supper,104,5,79,188,Individual
+IDEA Pharr,Academy,MRGV,TX,4/15/24,Lunch,AC Lunch,706,0,0,706,Bulk
+IDEA Pharr,Academy,MRGV,TX,4/16/24,Breakfast,AC Breakfast,638,0,0,638,Bulk
+IDEA Pharr,Academy,MRGV,TX,4/16/24,CACFP Supper,Supper,147,7,128,282,Individual
+IDEA Pharr,Academy,MRGV,TX,4/16/24,Lunch,AC Lunch,708,0,0,708,Bulk
+IDEA Pharr,Academy,MRGV,TX,4/17/24,Breakfast,AC Breakfast,609,0,0,609,Bulk
+IDEA Pharr,Academy,MRGV,TX,4/17/24,CACFP Supper,Supper,110,6,73,189,Individual
+IDEA Pharr,Academy,MRGV,TX,4/17/24,Lunch,AC Lunch,702,0,0,702,Bulk
+IDEA Pharr,Academy,MRGV,TX,4/18/24,Breakfast,AC Breakfast,644,0,0,644,Bulk
+IDEA Pharr,Academy,MRGV,TX,4/18/24,CACFP Supper,Supper,156,6,115,277,Individual
+IDEA Pharr,Academy,MRGV,TX,4/18/24,Lunch,AC Lunch,667,0,0,667,Bulk
+IDEA Pharr,Academy,MRGV,TX,4/19/24,Breakfast,AC Breakfast,602,0,0,602,Bulk
+IDEA Pharr,Academy,MRGV,TX,4/19/24,CACFP Supper,Supper,116,3,76,195,Individual
+IDEA Pharr,Academy,MRGV,TX,4/19/24,Lunch,AC Lunch,684,0,0,684,Bulk
+IDEA Pharr,College Preparatory,MRGV,TX,4/15/24,Breakfast,CP Breakfast,692,0,0,692,Bulk
+IDEA Pharr,College Preparatory,MRGV,TX,4/15/24,CACFP Supper,Supper,34,2,38,74,Individual
+IDEA Pharr,College Preparatory,MRGV,TX,4/15/24,Lunch,CP Lunch,759,0,0,759,Bulk
+IDEA Pharr,College Preparatory,MRGV,TX,4/16/24,Breakfast,CP Breakfast,663,0,0,663,Bulk
+IDEA Pharr,College Preparatory,MRGV,TX,4/16/24,CACFP Supper,Supper,67,2,58,127,Individual
+IDEA Pharr,College Preparatory,MRGV,TX,4/16/24,Lunch,CP Lunch,774,0,0,774,Bulk
+IDEA Pharr,College Preparatory,MRGV,TX,4/17/24,Breakfast,CP Breakfast,658,0,0,658,Bulk
+IDEA Pharr,College Preparatory,MRGV,TX,4/17/24,CACFP Supper,Supper,32,0,25,57,Individual
+IDEA Pharr,College Preparatory,MRGV,TX,4/17/24,Lunch,CP Lunch,782,0,0,782,Bulk
+IDEA Pharr,College Preparatory,MRGV,TX,4/18/24,Breakfast,CP Breakfast,645,0,0,645,Bulk
+IDEA Pharr,College Preparatory,MRGV,TX,4/18/24,CACFP Supper,Supper,61,1,59,121,Individual
+IDEA Pharr,College Preparatory,MRGV,TX,4/18/24,Lunch,CP Lunch,718,0,0,718,Bulk
+IDEA Pharr,College Preparatory,MRGV,TX,4/19/24,Breakfast,CP Breakfast,663,0,0,663,Bulk
+IDEA Pharr,College Preparatory,MRGV,TX,4/19/24,CACFP Supper,Supper,25,1,35,61,Individual
+IDEA Pharr,College Preparatory,MRGV,TX,4/19/24,Lunch,CP Lunch,697,0,0,697,Bulk
+IDEA Price Hill,Academy,CINC,OH,4/15/24,Breakfast,AC Breakfast,211,0,0,211,Bulk
+IDEA Price Hill,Academy,CINC,OH,4/15/24,Lunch,AC Lunch,247,0,0,247,Bulk
+IDEA Price Hill,Academy,CINC,OH,4/16/24,Breakfast,AC Breakfast,240,0,0,240,Bulk
+IDEA Price Hill,Academy,CINC,OH,4/16/24,Lunch,AC Lunch,248,0,0,248,Bulk
+IDEA Price Hill,Academy,CINC,OH,4/17/24,Breakfast,AC Breakfast,239,0,0,239,Bulk
+IDEA Price Hill,Academy,CINC,OH,4/17/24,Lunch,AC Lunch,245,0,0,245,Bulk
+IDEA Price Hill,Academy,CINC,OH,4/18/24,Breakfast,AC Breakfast,236,0,0,236,Bulk
+IDEA Price Hill,Academy,CINC,OH,4/18/24,Lunch,AC Lunch,252,0,0,252,Bulk
+IDEA Price Hill,Academy,CINC,OH,4/19/24,Breakfast,AC Breakfast,184,0,0,184,Bulk
+IDEA Price Hill,Academy,CINC,OH,4/19/24,Lunch,AC Lunch,235,0,0,235,Bulk
+IDEA Price Hill,College Preparatory,CINC,OH,4/15/24,Breakfast,CP Breakfast,62,0,0,62,Bulk
+IDEA Price Hill,College Preparatory,CINC,OH,4/15/24,Lunch,CP Lunch,92,0,0,92,Bulk
+IDEA Price Hill,College Preparatory,CINC,OH,4/16/24,Breakfast,CP Breakfast,80,0,0,80,Bulk
+IDEA Price Hill,College Preparatory,CINC,OH,4/16/24,Lunch,CP Lunch,101,0,0,101,Bulk
+IDEA Price Hill,College Preparatory,CINC,OH,4/17/24,Breakfast,CP Breakfast,74,0,0,74,Bulk
+IDEA Price Hill,College Preparatory,CINC,OH,4/17/24,Lunch,CP Lunch,103,0,0,103,Bulk
+IDEA Price Hill,College Preparatory,CINC,OH,4/18/24,Breakfast,CP Breakfast,79,0,0,79,Bulk
+IDEA Price Hill,College Preparatory,CINC,OH,4/18/24,Lunch,CP Lunch,105,0,0,105,Bulk
+IDEA Price Hill,College Preparatory,CINC,OH,4/19/24,Breakfast,CP Breakfast,68,0,0,68,Bulk
+IDEA Price Hill,College Preparatory,CINC,OH,4/19/24,Lunch,CP Lunch,91,0,0,91,Bulk
+IDEA Quest,Academy,URGV,TX,4/15/24,Breakfast,AC Breakfast,516,0,0,516,Bulk
+IDEA Quest,Academy,URGV,TX,4/15/24,CACFP Supper,AC Supper,74,0,0,74,Bulk
+IDEA Quest,Academy,URGV,TX,4/15/24,CACFP Supper,Supper,39,2,25,66,Individual
+IDEA Quest,Academy,URGV,TX,4/15/24,Lunch,AC Lunch,539,0,0,539,Bulk
+IDEA Quest,Academy,URGV,TX,4/16/24,Breakfast,AC Breakfast,544,0,0,544,Bulk
+IDEA Quest,Academy,URGV,TX,4/16/24,CACFP Supper,AC Supper,81,0,0,81,Bulk
+IDEA Quest,Academy,URGV,TX,4/16/24,CACFP Supper,Supper,69,3,44,116,Individual
+IDEA Quest,Academy,URGV,TX,4/16/24,Lunch,AC Lunch,544,0,0,544,Bulk
+IDEA Quest,Academy,URGV,TX,4/17/24,Breakfast,AC Breakfast,549,0,0,549,Bulk
+IDEA Quest,Academy,URGV,TX,4/17/24,CACFP Supper,AC Supper,77,0,0,77,Bulk
+IDEA Quest,Academy,URGV,TX,4/17/24,CACFP Supper,Supper,62,1,33,96,Individual
+IDEA Quest,Academy,URGV,TX,4/17/24,Lunch,AC Lunch,506,0,0,506,Bulk
+IDEA Quest,Academy,URGV,TX,4/18/24,Breakfast,AC Breakfast,576,0,0,576,Bulk
+IDEA Quest,Academy,URGV,TX,4/18/24,CACFP Supper,AC Supper,78,0,0,78,Bulk
+IDEA Quest,Academy,URGV,TX,4/18/24,CACFP Supper,Supper,36,0,25,61,Individual
+IDEA Quest,Academy,URGV,TX,4/18/24,Lunch,AC Lunch,397,0,0,397,Bulk
+IDEA Quest,Academy,URGV,TX,4/19/24,Breakfast,AC Breakfast,535,0,0,535,Bulk
+IDEA Quest,Academy,URGV,TX,4/19/24,CACFP Supper,AC Supper,89,0,0,89,Bulk
+IDEA Quest,Academy,URGV,TX,4/19/24,Lunch,AC Lunch,534,0,0,534,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/15/24,Breakfast,CP Breakfast,357,0,0,357,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/15/24,CACFP Supper,Supper,34,1,26,61,Individual
+IDEA Quest,College Preparatory,URGV,TX,4/15/24,Lunch,CP Lunch,495,0,0,495,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/16/24,Breakfast,CP Breakfast,244,0,0,244,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/16/24,CACFP Supper,Supper,20,0,14,34,Individual
+IDEA Quest,College Preparatory,URGV,TX,4/16/24,Lunch,CP Lunch,523,0,0,523,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/17/24,Breakfast,CP Breakfast,282,0,0,282,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/17/24,CACFP Supper,Supper,34,0,19,53,Individual
+IDEA Quest,College Preparatory,URGV,TX,4/17/24,Lunch,CP Lunch,421,0,0,421,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/18/24,Breakfast,CP Breakfast,265,0,0,265,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/18/24,CACFP Supper,Supper,47,1,30,78,Individual
+IDEA Quest,College Preparatory,URGV,TX,4/18/24,Lunch,CP Lunch,475,0,0,475,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/19/24,Breakfast,CP Breakfast,258,0,0,258,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/19/24,CACFP Supper,CP Supper,16,0,0,16,Bulk
+IDEA Quest,College Preparatory,URGV,TX,4/19/24,Lunch,CP Lunch,506,0,0,506,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/15/24,Breakfast,AC Breakfast,496,0,0,496,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/15/24,CACFP Supper,Supper,124,0,0,124,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/15/24,Lunch,AC Lunch,699,0,0,699,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/16/24,Breakfast,AC Breakfast,540,0,0,540,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/16/24,CACFP Supper,Supper,104,0,0,104,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/16/24,Lunch,AC Lunch,713,0,0,713,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/17/24,Breakfast,AC Breakfast,512,0,0,512,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/17/24,CACFP Supper,Supper,118,0,0,118,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/17/24,Lunch,AC Lunch,671,0,0,671,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/18/24,Breakfast,AC Breakfast,492,0,0,492,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/18/24,CACFP Supper,Supper,111,0,0,111,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/18/24,Lunch,AC Lunch,671,0,0,671,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/19/24,Breakfast,AC Breakfast,452,0,0,452,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/19/24,CACFP Supper,AC Supper,42,0,0,42,Bulk
+IDEA Rio Grande City,Academy,URGV,TX,4/19/24,Lunch,AC Lunch,689,0,0,689,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/15/24,Breakfast,CP Breakfast,398,0,0,398,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/15/24,Lunch,CP Lunch,522,0,0,522,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/16/24,Breakfast,CP Breakfast,378,0,0,378,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/16/24,Lunch,CP Lunch,530,0,0,530,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/17/24,Breakfast,CP Breakfast,315,0,0,315,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/17/24,Lunch,CP Lunch,366,0,0,366,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/18/24,Breakfast,CP Breakfast,325,0,0,325,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/18/24,Lunch,CP Lunch,413,0,0,413,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/19/24,Breakfast,CP Breakfast,299,0,0,299,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/19/24,CACFP Supper,CP Supper,20,0,0,20,Bulk
+IDEA Rio Grande City,College Preparatory,URGV,TX,4/19/24,Lunch,CP Lunch,411,0,0,411,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/15/24,Breakfast,AC Breakfast,589,0,0,589,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/15/24,Breakfast,Breakfast,2,0,2,4,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/15/24,CACFP Supper,AC Supper,13,0,0,13,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/15/24,CACFP Supper,Supper,342,17,171,530,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/15/24,Lunch,AC Lunch,122,0,0,122,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/15/24,Lunch,Lunch,238,10,126,374,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/16/24,Breakfast,AC Breakfast,610,0,0,610,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/16/24,Breakfast,Breakfast,0,0,1,1,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/16/24,CACFP Supper,AC Supper,11,0,0,11,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/16/24,CACFP Supper,Supper,390,16,207,613,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/16/24,Lunch,AC Lunch,117,0,0,117,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/16/24,Lunch,Lunch,245,11,131,387,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/17/24,Breakfast,AC Breakfast,609,0,0,609,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/17/24,Breakfast,Breakfast,2,0,1,3,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/17/24,CACFP Supper,AC Supper,11,0,0,11,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/17/24,CACFP Supper,Supper,346,16,182,544,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/17/24,Lunch,AC Lunch,128,0,0,128,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/17/24,Lunch,Lunch,243,12,117,372,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/17/24,Lunch,Lunch Salad,1,0,0,1,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/18/24,Breakfast,AC Breakfast,532,0,0,532,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/18/24,Breakfast,Breakfast,1,0,1,2,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/18/24,CACFP Supper,AC Supper,11,0,0,11,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/18/24,CACFP Supper,Supper,354,13,169,536,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/18/24,Lunch,AC Lunch,128,0,0,128,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/18/24,Lunch,Lunch,255,9,134,398,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/19/24,Breakfast,AC Breakfast,571,0,0,571,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/19/24,Breakfast,Breakfast,1,0,1,2,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/19/24,CACFP Supper,AC Supper,8,0,0,8,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/19/24,CACFP Supper,Supper,321,15,172,508,Individual
+IDEA Rio Vista,Academy,ELPR,TX,4/19/24,Lunch,AC Lunch,126,0,0,126,Bulk
+IDEA Rio Vista,Academy,ELPR,TX,4/19/24,Lunch,Lunch,239,11,137,387,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/15/24,Breakfast,CP Breakfast,10,0,0,10,Bulk
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/15/24,Breakfast,Breakfast,92,6,117,215,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/15/24,CACFP Supper,Supper,2,1,2,5,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/15/24,Lunch,CP Lunch,316,0,0,316,Bulk
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/16/24,Breakfast,CP Breakfast,4,0,0,4,Bulk
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/16/24,Breakfast,Breakfast,88,6,107,201,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/16/24,CACFP Supper,Supper,11,0,11,22,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/16/24,Lunch,CP Lunch,392,0,0,392,Bulk
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/16/24,Lunch,Lunch,1,0,0,1,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/17/24,Breakfast,CP Breakfast,9,0,0,9,Bulk
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/17/24,Breakfast,Breakfast,87,5,111,203,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/17/24,CACFP Supper,Supper,21,1,22,44,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/17/24,Lunch,CP Lunch,343,0,0,343,Bulk
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/18/24,Breakfast,CP Breakfast,8,0,0,8,Bulk
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/18/24,Breakfast,Breakfast,87,6,98,191,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/18/24,CACFP Supper,CP Supper,16,0,0,16,Bulk
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/18/24,Lunch,CP Lunch,387,0,0,387,Bulk
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/19/24,Breakfast,CP Breakfast,9,0,0,9,Bulk
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/19/24,Breakfast,Breakfast,83,5,99,187,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/19/24,CACFP Supper,Supper,1,0,0,1,Individual
+IDEA Rio Vista,College Preparatory,ELPR,TX,4/19/24,Lunch,CP Lunch,378,0,0,378,Bulk
+IDEA Rise,Academy,TRCR,TX,4/15/24,Breakfast,AC Breakfast,438,0,0,438,Bulk
+IDEA Rise,Academy,TRCR,TX,4/15/24,CACFP Supper,AC Supper,272,0,0,272,Bulk
+IDEA Rise,Academy,TRCR,TX,4/15/24,Lunch,AC Lunch,592,0,0,592,Bulk
+IDEA Rise,Academy,TRCR,TX,4/16/24,Breakfast,AC Breakfast,380,0,0,380,Bulk
+IDEA Rise,Academy,TRCR,TX,4/16/24,CACFP Supper,AC Supper,249,0,0,249,Bulk
+IDEA Rise,Academy,TRCR,TX,4/16/24,Lunch,AC Lunch,591,0,0,591,Bulk
+IDEA Rise,Academy,TRCR,TX,4/17/24,Breakfast,AC Breakfast,503,0,0,503,Bulk
+IDEA Rise,Academy,TRCR,TX,4/17/24,CACFP Supper,AC Supper,277,0,0,277,Bulk
+IDEA Rise,Academy,TRCR,TX,4/17/24,Lunch,AC Lunch,601,0,0,601,Bulk
+IDEA Rise,Academy,TRCR,TX,4/18/24,Breakfast,AC Breakfast,475,0,0,475,Bulk
+IDEA Rise,Academy,TRCR,TX,4/18/24,CACFP Supper,AC Supper,289,0,0,289,Bulk
+IDEA Rise,Academy,TRCR,TX,4/18/24,Lunch,AC Lunch,602,0,0,602,Bulk
+IDEA Rise,Academy,TRCR,TX,4/19/24,Breakfast,AC Breakfast,444,0,0,444,Bulk
+IDEA Rise,Academy,TRCR,TX,4/19/24,CACFP Supper,AC Supper,274,0,0,274,Bulk
+IDEA Rise,Academy,TRCR,TX,4/19/24,Lunch,AC Lunch,608,0,0,608,Bulk
+IDEA Rise,College Preparatory,TRCR,TX,4/15/24,Breakfast,CP Breakfast,276,0,0,276,Bulk
+IDEA Rise,College Preparatory,TRCR,TX,4/15/24,Lunch,CP Lunch,427,0,0,427,Bulk
+IDEA Rise,College Preparatory,TRCR,TX,4/16/24,Breakfast,CP Breakfast,291,0,0,291,Bulk
+IDEA Rise,College Preparatory,TRCR,TX,4/16/24,Lunch,CP Lunch,424,0,0,424,Bulk
+IDEA Rise,College Preparatory,TRCR,TX,4/17/24,Breakfast,CP Breakfast,281,0,0,281,Bulk
+IDEA Rise,College Preparatory,TRCR,TX,4/17/24,Lunch,CP Lunch,405,0,0,405,Bulk
+IDEA Rise,College Preparatory,TRCR,TX,4/18/24,Breakfast,CP Breakfast,309,0,0,309,Bulk
+IDEA Rise,College Preparatory,TRCR,TX,4/18/24,Lunch,CP Lunch,422,0,0,422,Bulk
+IDEA Rise,College Preparatory,TRCR,TX,4/19/24,Breakfast,CP Breakfast,312,0,0,312,Bulk
+IDEA Rise,College Preparatory,TRCR,TX,4/19/24,Lunch,CP Lunch,436,0,0,436,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/15/24,Breakfast,AC Breakfast,305,0,0,305,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/15/24,CACFP Supper,Supper,168,0,0,168,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/15/24,Lunch,AC Lunch,405,0,0,405,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/16/24,Breakfast,AC Breakfast,317,0,0,317,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/16/24,CACFP Supper,Supper,137,0,0,137,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/16/24,Lunch,AC Lunch,385,0,0,385,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/17/24,Breakfast,AC Breakfast,309,0,0,309,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/17/24,CACFP Supper,Supper,147,0,0,147,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/17/24,Lunch,AC Lunch,368,0,0,368,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/18/24,Breakfast,AC Breakfast,301,0,0,301,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/18/24,CACFP Supper,Supper,181,0,0,181,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/18/24,Lunch,AC Lunch,402,0,0,402,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/19/24,Breakfast,AC Breakfast,306,0,0,306,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/19/24,CACFP Supper,Supper,98,0,0,98,Bulk
+IDEA River Bluff,Academy,JACK,FL,4/19/24,Lunch,AC Lunch,387,0,0,387,Bulk
+IDEA River Bluff,College Preparatory,JACK,FL,4/15/24,Breakfast,CP Breakfast,74,0,0,74,Bulk
+IDEA River Bluff,College Preparatory,JACK,FL,4/15/24,Lunch,CP Lunch,182,0,0,182,Bulk
+IDEA River Bluff,College Preparatory,JACK,FL,4/16/24,Breakfast,CP Breakfast,71,0,0,71,Bulk
+IDEA River Bluff,College Preparatory,JACK,FL,4/16/24,Lunch,CP Lunch,186,0,0,186,Bulk
+IDEA River Bluff,College Preparatory,JACK,FL,4/17/24,Breakfast,CP Breakfast,97,0,0,97,Bulk
+IDEA River Bluff,College Preparatory,JACK,FL,4/17/24,Lunch,CP Lunch,179,0,0,179,Bulk
+IDEA River Bluff,College Preparatory,JACK,FL,4/18/24,Breakfast,CP Breakfast,80,0,0,80,Bulk
+IDEA River Bluff,College Preparatory,JACK,FL,4/18/24,Lunch,CP Lunch,189,0,0,189,Bulk
+IDEA River Bluff,College Preparatory,JACK,FL,4/19/24,Breakfast,CP Breakfast,96,0,0,96,Bulk
+IDEA River Bluff,College Preparatory,JACK,FL,4/19/24,Lunch,CP Lunch,191,0,0,191,Bulk
+IDEA Riverview,Academy,LRGV,TX,4/15/24,Breakfast,AC Breakfast,466,0,0,466,Bulk
+IDEA Riverview,Academy,LRGV,TX,4/15/24,CACFP Supper,Supper,39,3,21,63,Individual
+IDEA Riverview,Academy,LRGV,TX,4/15/24,Lunch,AC Lunch,603,0,0,603,Bulk
+IDEA Riverview,Academy,LRGV,TX,4/16/24,Breakfast,AC Breakfast,451,0,0,451,Bulk
+IDEA Riverview,Academy,LRGV,TX,4/16/24,CACFP Supper,Supper,64,3,41,108,Individual
+IDEA Riverview,Academy,LRGV,TX,4/16/24,Lunch,AC Lunch,572,0,0,572,Bulk
+IDEA Riverview,Academy,LRGV,TX,4/17/24,Breakfast,AC Breakfast,467,0,0,467,Bulk
+IDEA Riverview,Academy,LRGV,TX,4/17/24,CACFP Supper,Supper,48,4,33,85,Individual
+IDEA Riverview,Academy,LRGV,TX,4/17/24,Lunch,AC Lunch,535,0,0,535,Bulk
+IDEA Riverview,Academy,LRGV,TX,4/18/24,Breakfast,AC Breakfast,455,0,0,455,Bulk
+IDEA Riverview,Academy,LRGV,TX,4/18/24,CACFP Supper,Supper,65,3,48,116,Individual
+IDEA Riverview,Academy,LRGV,TX,4/18/24,Lunch,AC Lunch,577,0,0,577,Bulk
+IDEA Riverview,Academy,LRGV,TX,4/19/24,Breakfast,AC Breakfast,445,0,0,445,Bulk
+IDEA Riverview,Academy,LRGV,TX,4/19/24,CACFP Supper,Supper,39,3,15,57,Individual
+IDEA Riverview,Academy,LRGV,TX,4/19/24,Lunch,AC Lunch,626,0,0,626,Bulk
+IDEA Riverview,College Preparatory,LRGV,TX,4/15/24,Breakfast,CP Breakfast,435,0,0,435,Bulk
+IDEA Riverview,College Preparatory,LRGV,TX,4/15/24,CACFP Supper,Supper,18,1,27,46,Individual
+IDEA Riverview,College Preparatory,LRGV,TX,4/15/24,Lunch,CP Lunch,628,0,0,628,Bulk
+IDEA Riverview,College Preparatory,LRGV,TX,4/16/24,Breakfast,CP Breakfast,377,0,0,377,Bulk
+IDEA Riverview,College Preparatory,LRGV,TX,4/16/24,CACFP Supper,Supper,43,2,47,92,Individual
+IDEA Riverview,College Preparatory,LRGV,TX,4/16/24,Lunch,CP Lunch,642,0,0,642,Bulk
+IDEA Riverview,College Preparatory,LRGV,TX,4/17/24,Breakfast,CP Breakfast,434,0,0,434,Bulk
+IDEA Riverview,College Preparatory,LRGV,TX,4/17/24,CACFP Supper,Supper,21,1,25,47,Individual
+IDEA Riverview,College Preparatory,LRGV,TX,4/17/24,Lunch,CP Lunch,633,0,0,633,Bulk
+IDEA Riverview,College Preparatory,LRGV,TX,4/18/24,Breakfast,CP Breakfast,336,0,0,336,Bulk
+IDEA Riverview,College Preparatory,LRGV,TX,4/18/24,CACFP Supper,Supper,29,2,41,72,Individual
+IDEA Riverview,College Preparatory,LRGV,TX,4/18/24,Lunch,CP Lunch,538,0,0,538,Bulk
+IDEA Riverview,College Preparatory,LRGV,TX,4/19/24,Breakfast,CP Breakfast,361,0,0,361,Bulk
+IDEA Riverview,College Preparatory,LRGV,TX,4/19/24,CACFP Supper,Supper,14,1,21,36,Individual
+IDEA Riverview,College Preparatory,LRGV,TX,4/19/24,Lunch,CP Lunch,566,0,0,566,Bulk
+IDEA Robindale,Academy,LRGV,TX,4/15/24,Breakfast,AC Breakfast,576,0,0,576,Bulk
+IDEA Robindale,Academy,LRGV,TX,4/15/24,CACFP Supper,Supper,115,8,70,193,Individual
+IDEA Robindale,Academy,LRGV,TX,4/15/24,Lunch,AC Lunch,622,0,0,622,Bulk
+IDEA Robindale,Academy,LRGV,TX,4/16/24,Breakfast,AC Breakfast,601,0,0,601,Bulk
+IDEA Robindale,Academy,LRGV,TX,4/16/24,CACFP Supper,Supper,121,9,63,193,Individual
+IDEA Robindale,Academy,LRGV,TX,4/16/24,Lunch,AC Lunch,618,0,0,618,Bulk
+IDEA Robindale,Academy,LRGV,TX,4/17/24,Breakfast,AC Breakfast,571,0,0,571,Bulk
+IDEA Robindale,Academy,LRGV,TX,4/17/24,CACFP Supper,Supper,123,8,74,205,Individual
+IDEA Robindale,Academy,LRGV,TX,4/17/24,Lunch,AC Lunch,648,0,0,648,Bulk
+IDEA Robindale,Academy,LRGV,TX,4/18/24,Breakfast,AC Breakfast,595,0,0,595,Bulk
+IDEA Robindale,Academy,LRGV,TX,4/18/24,CACFP Supper,Supper,110,9,65,184,Individual
+IDEA Robindale,Academy,LRGV,TX,4/18/24,Lunch,AC Lunch,607,0,0,607,Bulk
+IDEA Robindale,Academy,LRGV,TX,4/19/24,Breakfast,AC Breakfast,578,0,0,578,Bulk
+IDEA Robindale,Academy,LRGV,TX,4/19/24,CACFP Supper,Supper,104,5,52,161,Individual
+IDEA Robindale,Academy,LRGV,TX,4/19/24,Lunch,AC Lunch,610,0,0,610,Bulk
+IDEA Robindale,College Preparatory,LRGV,TX,4/15/24,Breakfast,CP Breakfast,389,0,0,389,Bulk
+IDEA Robindale,College Preparatory,LRGV,TX,4/15/24,CACFP Supper,Supper,4,0,2,6,Individual
+IDEA Robindale,College Preparatory,LRGV,TX,4/15/24,Lunch,CP Lunch,482,0,0,482,Bulk
+IDEA Robindale,College Preparatory,LRGV,TX,4/16/24,Breakfast,CP Breakfast,397,0,0,397,Bulk
+IDEA Robindale,College Preparatory,LRGV,TX,4/16/24,CACFP Supper,Supper,9,0,4,13,Individual
+IDEA Robindale,College Preparatory,LRGV,TX,4/16/24,Lunch,CP Lunch,488,0,0,488,Bulk
+IDEA Robindale,College Preparatory,LRGV,TX,4/17/24,Breakfast,CP Breakfast,359,0,0,359,Bulk
+IDEA Robindale,College Preparatory,LRGV,TX,4/17/24,CACFP Supper,Supper,4,0,5,9,Individual
+IDEA Robindale,College Preparatory,LRGV,TX,4/17/24,Lunch,CP Lunch,448,0,0,448,Bulk
+IDEA Robindale,College Preparatory,LRGV,TX,4/18/24,Breakfast,CP Breakfast,355,0,0,355,Bulk
+IDEA Robindale,College Preparatory,LRGV,TX,4/18/24,CACFP Supper,Supper,18,0,18,36,Individual
+IDEA Robindale,College Preparatory,LRGV,TX,4/18/24,Lunch,CP Lunch,483,0,0,483,Bulk
+IDEA Robindale,College Preparatory,LRGV,TX,4/19/24,Breakfast,CP Breakfast,369,0,0,369,Bulk
+IDEA Robindale,College Preparatory,LRGV,TX,4/19/24,CACFP Supper,Supper,4,1,5,10,Individual
+IDEA Robindale,College Preparatory,LRGV,TX,4/19/24,Lunch,CP Lunch,483,0,0,483,Bulk
+IDEA Round Rock Tech,Academy,AUR,TX,4/15/24,Breakfast,AC Breakfast,395,0,0,395,Bulk
+IDEA Round Rock Tech,Academy,AUR,TX,4/15/24,CACFP Supper,Supper,20,0,23,43,Individual
+IDEA Round Rock Tech,Academy,AUR,TX,4/15/24,Lunch,AC Lunch,455,0,0,455,Bulk
+IDEA Round Rock Tech,Academy,AUR,TX,4/16/24,Breakfast,AC Breakfast,367,0,0,367,Bulk
+IDEA Round Rock Tech,Academy,AUR,TX,4/16/24,CACFP Supper,Supper,36,2,53,91,Individual
+IDEA Round Rock Tech,Academy,AUR,TX,4/16/24,Lunch,AC Lunch,446,0,0,446,Bulk
+IDEA Round Rock Tech,Academy,AUR,TX,4/17/24,Breakfast,AC Breakfast,383,0,0,383,Bulk
+IDEA Round Rock Tech,Academy,AUR,TX,4/17/24,CACFP Supper,Supper,36,3,65,104,Individual
+IDEA Round Rock Tech,Academy,AUR,TX,4/17/24,Lunch,AC Lunch,403,0,0,403,Bulk
+IDEA Round Rock Tech,Academy,AUR,TX,4/18/24,Breakfast,AC Breakfast,436,0,0,436,Bulk
+IDEA Round Rock Tech,Academy,AUR,TX,4/18/24,CACFP Supper,Supper,27,2,39,68,Individual
+IDEA Round Rock Tech,Academy,AUR,TX,4/18/24,Lunch,AC Lunch,450,0,0,450,Bulk
+IDEA Round Rock Tech,Academy,AUR,TX,4/19/24,Breakfast,AC Breakfast,374,0,0,374,Bulk
+IDEA Round Rock Tech,Academy,AUR,TX,4/19/24,CACFP Supper,Supper,30,0,27,57,Individual
+IDEA Round Rock Tech,Academy,AUR,TX,4/19/24,Lunch,AC Lunch,492,0,0,492,Bulk
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/15/24,Breakfast,CP Breakfast,129,0,0,129,Bulk
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/15/24,CACFP Supper,Supper,2,1,10,13,Individual
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/15/24,Lunch,CP Lunch,316,0,0,316,Bulk
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/16/24,Breakfast,CP Breakfast,137,0,0,137,Bulk
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/16/24,CACFP Supper,Supper,4,0,6,10,Individual
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/16/24,Lunch,CP Lunch,272,0,0,272,Bulk
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/17/24,Breakfast,CP Breakfast,139,0,0,139,Bulk
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/17/24,CACFP Supper,Supper,5,0,7,12,Individual
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/17/24,Lunch,CP Lunch,288,0,0,288,Bulk
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/18/24,Breakfast,CP Breakfast,128,0,0,128,Bulk
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/18/24,CACFP Supper,Supper,3,0,3,6,Individual
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/18/24,Lunch,CP Lunch,393,0,0,393,Bulk
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/19/24,Breakfast,CP Breakfast,133,0,0,133,Bulk
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/19/24,CACFP Supper,Supper,2,0,7,9,Individual
+IDEA Round Rock Tech,College Preparatory,AUR,TX,4/19/24,Lunch,CP Lunch,328,0,0,328,Bulk
+IDEA Rundberg,Academy,AUR,TX,4/15/24,Breakfast,AC Breakfast,278,0,0,278,Bulk
+IDEA Rundberg,Academy,AUR,TX,4/15/24,CACFP Supper,Supper,175,9,103,287,Individual
+IDEA Rundberg,Academy,AUR,TX,4/15/24,Lunch,AC Lunch,550,0,0,550,Bulk
+IDEA Rundberg,Academy,AUR,TX,4/16/24,Breakfast,AC Breakfast,374,0,0,374,Bulk
+IDEA Rundberg,Academy,AUR,TX,4/16/24,CACFP Supper,Supper,177,9,98,284,Individual
+IDEA Rundberg,Academy,AUR,TX,4/16/24,Lunch,AC Lunch,574,0,0,574,Bulk
+IDEA Rundberg,Academy,AUR,TX,4/17/24,Breakfast,AC Breakfast,351,0,0,351,Bulk
+IDEA Rundberg,Academy,AUR,TX,4/17/24,CACFP Supper,Supper,160,8,85,253,Individual
+IDEA Rundberg,Academy,AUR,TX,4/17/24,Lunch,AC Lunch,580,0,0,580,Bulk
+IDEA Rundberg,Academy,AUR,TX,4/18/24,Breakfast,AC Breakfast,317,0,0,317,Bulk
+IDEA Rundberg,Academy,AUR,TX,4/18/24,CACFP Supper,Supper,178,9,98,285,Individual
+IDEA Rundberg,Academy,AUR,TX,4/18/24,Lunch,AC Lunch,593,0,0,593,Bulk
+IDEA Rundberg,Academy,AUR,TX,4/19/24,Breakfast,AC Breakfast,341,0,0,341,Bulk
+IDEA Rundberg,Academy,AUR,TX,4/19/24,CACFP Supper,Supper,166,9,90,265,Individual
+IDEA Rundberg,Academy,AUR,TX,4/19/24,Lunch,AC Lunch,551,0,0,551,Bulk
+IDEA Rundberg,College Preparatory,AUR,TX,4/15/24,Breakfast,CP Breakfast,245,0,0,245,Bulk
+IDEA Rundberg,College Preparatory,AUR,TX,4/15/24,Lunch,CP Lunch,590,0,0,590,Bulk
+IDEA Rundberg,College Preparatory,AUR,TX,4/16/24,Breakfast,CP Breakfast,246,0,0,246,Bulk
+IDEA Rundberg,College Preparatory,AUR,TX,4/16/24,Lunch,CP Lunch,614,0,0,614,Bulk
+IDEA Rundberg,College Preparatory,AUR,TX,4/17/24,Breakfast,CP Breakfast,264,0,0,264,Bulk
+IDEA Rundberg,College Preparatory,AUR,TX,4/17/24,Lunch,CP Lunch,578,0,0,578,Bulk
+IDEA Rundberg,College Preparatory,AUR,TX,4/18/24,Breakfast,CP Breakfast,283,0,0,283,Bulk
+IDEA Rundberg,College Preparatory,AUR,TX,4/18/24,Lunch,CP Lunch,587,0,0,587,Bulk
+IDEA Rundberg,College Preparatory,AUR,TX,4/19/24,Breakfast,CP Breakfast,263,0,0,263,Bulk
+IDEA Rundberg,College Preparatory,AUR,TX,4/19/24,Lunch,CP Lunch,616,0,0,616,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/15/24,Breakfast,AC Breakfast,435,0,0,435,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/15/24,CACFP Supper,AC Supper,20,0,0,20,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/15/24,CACFP Supper,Supper,53,0,27,80,Individual
+IDEA San Benito,Academy,LRGV,TX,4/15/24,Lunch,AC Lunch,541,0,0,541,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/16/24,Breakfast,AC Breakfast,422,0,0,422,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/16/24,CACFP Supper,AC Supper,18,0,0,18,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/16/24,CACFP Supper,Supper,60,0,31,91,Individual
+IDEA San Benito,Academy,LRGV,TX,4/16/24,Lunch,AC Lunch,533,0,0,533,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/17/24,Breakfast,AC Breakfast,441,0,0,441,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/17/24,CACFP Supper,AC Supper,19,0,0,19,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/17/24,CACFP Supper,Supper,63,2,51,116,Individual
+IDEA San Benito,Academy,LRGV,TX,4/17/24,Lunch,AC Lunch,549,0,0,549,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/18/24,Breakfast,AC Breakfast,465,0,0,465,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/18/24,CACFP Supper,AC Supper,21,0,0,21,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/18/24,CACFP Supper,Supper,63,1,25,89,Individual
+IDEA San Benito,Academy,LRGV,TX,4/18/24,Lunch,AC Lunch,553,0,0,553,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/19/24,Breakfast,AC Breakfast,398,0,0,398,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/19/24,CACFP Supper,AC Supper,21,0,0,21,Bulk
+IDEA San Benito,Academy,LRGV,TX,4/19/24,CACFP Supper,Supper,57,1,21,79,Individual
+IDEA San Benito,Academy,LRGV,TX,4/19/24,Lunch,AC Lunch,540,0,0,540,Bulk
+IDEA San Benito,College Preparatory,LRGV,TX,4/15/24,Breakfast,CP Breakfast,294,0,0,294,Bulk
+IDEA San Benito,College Preparatory,LRGV,TX,4/15/24,CACFP Supper,Supper,57,0,31,88,Individual
+IDEA San Benito,College Preparatory,LRGV,TX,4/15/24,Lunch,CP Lunch,651,0,0,651,Bulk
+IDEA San Benito,College Preparatory,LRGV,TX,4/16/24,Breakfast,CP Breakfast,277,0,0,277,Bulk
+IDEA San Benito,College Preparatory,LRGV,TX,4/16/24,CACFP Supper,Supper,45,3,41,89,Individual
+IDEA San Benito,College Preparatory,LRGV,TX,4/16/24,Lunch,CP Lunch,646,0,0,646,Bulk
+IDEA San Benito,College Preparatory,LRGV,TX,4/17/24,Breakfast,CP Breakfast,310,0,0,310,Bulk
+IDEA San Benito,College Preparatory,LRGV,TX,4/17/24,CACFP Supper,Supper,48,0,25,73,Individual
+IDEA San Benito,College Preparatory,LRGV,TX,4/17/24,Lunch,CP Lunch,627,0,0,627,Bulk
+IDEA San Benito,College Preparatory,LRGV,TX,4/18/24,Breakfast,CP Breakfast,287,0,0,287,Bulk
+IDEA San Benito,College Preparatory,LRGV,TX,4/18/24,CACFP Supper,Supper,56,2,26,84,Individual
+IDEA San Benito,College Preparatory,LRGV,TX,4/18/24,Lunch,CP Lunch,564,0,0,564,Bulk
+IDEA San Benito,College Preparatory,LRGV,TX,4/19/24,Breakfast,CP Breakfast,336,0,0,336,Bulk
+IDEA San Benito,College Preparatory,LRGV,TX,4/19/24,CACFP Supper,Supper,44,3,35,82,Individual
+IDEA San Benito,College Preparatory,LRGV,TX,4/19/24,Lunch,CP Lunch,552,0,0,552,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/15/24,Breakfast,AC Breakfast,564,0,0,564,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/15/24,CACFP Supper,AC Supper,143,0,0,143,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/15/24,CACFP Supper,Supper,3,0,1,4,Individual
+IDEA San Juan,Academy,MRGV,TX,4/15/24,Lunch,AC Lunch,624,0,0,624,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/16/24,Breakfast,AC Breakfast,541,0,0,541,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/16/24,CACFP Supper,AC Supper,124,0,0,124,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/16/24,Lunch,AC Lunch,657,0,0,657,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/17/24,Breakfast,AC Breakfast,544,0,0,544,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/17/24,CACFP Supper,AC Supper,133,0,0,133,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/17/24,CACFP Supper,Supper,3,0,3,6,Individual
+IDEA San Juan,Academy,MRGV,TX,4/17/24,Lunch,AC Lunch,631,0,0,631,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/18/24,Breakfast,AC Breakfast,424,0,0,424,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/18/24,CACFP Supper,AC Supper,124,0,0,124,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/18/24,Lunch,AC Lunch,616,0,0,616,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/19/24,Breakfast,AC Breakfast,546,0,0,546,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/19/24,CACFP Supper,AC Supper,85,0,0,85,Bulk
+IDEA San Juan,Academy,MRGV,TX,4/19/24,CACFP Supper,Supper,5,0,3,8,Individual
+IDEA San Juan,Academy,MRGV,TX,4/19/24,Lunch,AC Lunch,590,0,0,590,Bulk
+IDEA San Juan,College Preparatory,MRGV,TX,4/15/24,Breakfast,CP Breakfast,448,0,0,448,Bulk
+IDEA San Juan,College Preparatory,MRGV,TX,4/15/24,CACFP Supper,Supper,24,1,13,38,Individual
+IDEA San Juan,College Preparatory,MRGV,TX,4/15/24,Lunch,CP Lunch,572,0,0,572,Bulk
+IDEA San Juan,College Preparatory,MRGV,TX,4/16/24,Breakfast,CP Breakfast,461,0,0,461,Bulk
+IDEA San Juan,College Preparatory,MRGV,TX,4/16/24,CACFP Supper,Supper,14,0,10,24,Individual
+IDEA San Juan,College Preparatory,MRGV,TX,4/16/24,Lunch,CP Lunch,567,0,0,567,Bulk
+IDEA San Juan,College Preparatory,MRGV,TX,4/17/24,Breakfast,CP Breakfast,513,0,0,513,Bulk
+IDEA San Juan,College Preparatory,MRGV,TX,4/17/24,CACFP Supper,Supper,36,0,15,51,Individual
+IDEA San Juan,College Preparatory,MRGV,TX,4/17/24,Lunch,CP Lunch,537,0,0,537,Bulk
+IDEA San Juan,College Preparatory,MRGV,TX,4/18/24,Breakfast,CP Breakfast,351,0,0,351,Bulk
+IDEA San Juan,College Preparatory,MRGV,TX,4/18/24,CACFP Supper,Supper,20,0,10,30,Individual
+IDEA San Juan,College Preparatory,MRGV,TX,4/18/24,Lunch,CP Lunch,484,0,0,484,Bulk
+IDEA San Juan,College Preparatory,MRGV,TX,4/19/24,Breakfast,CP Breakfast,454,0,0,454,Bulk
+IDEA San Juan,College Preparatory,MRGV,TX,4/19/24,CACFP Supper,Supper,20,1,12,33,Individual
+IDEA San Juan,College Preparatory,MRGV,TX,4/19/24,Lunch,CP Lunch,543,0,0,543,Bulk
+IDEA South Flores,Academy,WSAR,TX,4/15/24,Breakfast,AC Breakfast,515,0,0,515,Bulk
+IDEA South Flores,Academy,WSAR,TX,4/15/24,CACFP Supper,Supper,343,11,228,582,Individual
+IDEA South Flores,Academy,WSAR,TX,4/15/24,Lunch,AC Lunch,603,0,0,603,Bulk
+IDEA South Flores,Academy,WSAR,TX,4/16/24,Breakfast,AC Breakfast,568,0,0,568,Bulk
+IDEA South Flores,Academy,WSAR,TX,4/16/24,CACFP Supper,Supper,360,8,214,582,Individual
+IDEA South Flores,Academy,WSAR,TX,4/16/24,Lunch,AC Lunch,598,0,0,598,Bulk
+IDEA South Flores,Academy,WSAR,TX,4/17/24,Breakfast,AC Breakfast,592,0,0,592,Bulk
+IDEA South Flores,Academy,WSAR,TX,4/17/24,CACFP Supper,Supper,388,11,223,622,Individual
+IDEA South Flores,Academy,WSAR,TX,4/17/24,Lunch,AC Lunch,624,0,0,624,Bulk
+IDEA South Flores,Academy,WSAR,TX,4/18/24,Breakfast,AC Breakfast,554,0,0,554,Bulk
+IDEA South Flores,Academy,WSAR,TX,4/18/24,CACFP Supper,Supper,356,14,227,597,Individual
+IDEA South Flores,Academy,WSAR,TX,4/18/24,Lunch,AC Lunch,640,0,0,640,Bulk
+IDEA South Flores,Academy,WSAR,TX,4/19/24,Breakfast,AC Breakfast,512,0,0,512,Bulk
+IDEA South Flores,Academy,WSAR,TX,4/19/24,CACFP Supper,Supper,348,10,215,573,Individual
+IDEA South Flores,Academy,WSAR,TX,4/19/24,Lunch,AC Lunch,650,0,0,650,Bulk
+IDEA South Flores,College Preparatory,WSAR,TX,4/15/24,Breakfast,CP Breakfast,238,0,0,238,Bulk
+IDEA South Flores,College Preparatory,WSAR,TX,4/15/24,CACFP Supper,Supper,13,0,12,25,Individual
+IDEA South Flores,College Preparatory,WSAR,TX,4/15/24,Lunch,CP Lunch,614,0,0,614,Bulk
+IDEA South Flores,College Preparatory,WSAR,TX,4/16/24,Breakfast,CP Breakfast,245,0,0,245,Bulk
+IDEA South Flores,College Preparatory,WSAR,TX,4/16/24,CACFP Supper,Supper,16,0,13,29,Individual
+IDEA South Flores,College Preparatory,WSAR,TX,4/16/24,Lunch,CP Lunch,598,0,0,598,Bulk
+IDEA South Flores,College Preparatory,WSAR,TX,4/17/24,Breakfast,CP Breakfast,322,0,0,322,Bulk
+IDEA South Flores,College Preparatory,WSAR,TX,4/17/24,CACFP Supper,Supper,16,0,13,29,Individual
+IDEA South Flores,College Preparatory,WSAR,TX,4/17/24,Lunch,CP Lunch,647,0,0,647,Bulk
+IDEA South Flores,College Preparatory,WSAR,TX,4/18/24,Breakfast,CP Breakfast,255,0,0,255,Bulk
+IDEA South Flores,College Preparatory,WSAR,TX,4/18/24,CACFP Supper,Supper,13,0,6,19,Individual
+IDEA South Flores,College Preparatory,WSAR,TX,4/18/24,Lunch,CP Lunch,627,0,0,627,Bulk
+IDEA South Flores,College Preparatory,WSAR,TX,4/19/24,Breakfast,CP Breakfast,209,0,0,209,Bulk
+IDEA South Flores,College Preparatory,WSAR,TX,4/19/24,CACFP Supper,Supper,16,0,13,29,Individual
+IDEA South Flores,College Preparatory,WSAR,TX,4/19/24,Lunch,CP Lunch,552,0,0,552,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/15/24,Breakfast,AC Breakfast,367,0,0,367,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/15/24,CACFP Supper,AC Supper,496,0,0,496,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/15/24,Lunch,AC Lunch,516,0,0,516,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/16/24,Breakfast,AC Breakfast,396,0,0,396,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/16/24,CACFP Supper,AC Supper,499,0,0,499,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/16/24,Lunch,AC Lunch,497,0,0,497,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/17/24,Breakfast,AC Breakfast,427,0,0,427,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/17/24,CACFP Supper,AC Supper,493,0,0,493,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/17/24,Lunch,AC Lunch,521,0,0,521,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/18/24,Breakfast,AC Breakfast,401,0,0,401,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/18/24,CACFP Supper,AC Supper,506,0,0,506,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/18/24,Lunch,AC Lunch,511,0,0,511,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/19/24,Breakfast,AC Breakfast,385,0,0,385,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/19/24,CACFP Supper,AC Supper,450,0,0,450,Bulk
+IDEA Southeast,Academy,TRCR,TX,4/19/24,Lunch,AC Lunch,497,0,0,497,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/15/24,Breakfast,CP Breakfast,214,0,0,214,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/15/24,CACFP Supper,CP Supper,132,0,0,132,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/15/24,Lunch,CP Lunch,279,0,0,279,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/16/24,Breakfast,CP Breakfast,216,0,0,216,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/16/24,CACFP Supper,CP Supper,128,0,0,128,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/16/24,Lunch,CP Lunch,268,0,0,268,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/17/24,Breakfast,CP Breakfast,244,0,0,244,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/17/24,CACFP Supper,CP Supper,107,0,0,107,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/17/24,Lunch,CP Lunch,323,0,0,323,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/18/24,Breakfast,CP Breakfast,235,0,0,235,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/18/24,CACFP Supper,CP Supper,146,0,0,146,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/18/24,Lunch,CP Lunch,284,0,0,284,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/19/24,Breakfast,CP Breakfast,213,0,0,213,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/19/24,CACFP Supper,CP Supper,93,0,0,93,Bulk
+IDEA Southeast,College Preparatory,TRCR,TX,4/19/24,Lunch,CP Lunch,272,0,0,272,Bulk
+IDEA Spears,Academy,HOUR,TX,4/15/24,Breakfast,AC Breakfast,512,0,0,512,Bulk
+IDEA Spears,Academy,HOUR,TX,4/15/24,CACFP Supper,Supper,131,0,0,131,Bulk
+IDEA Spears,Academy,HOUR,TX,4/15/24,Lunch,AC Lunch,546,0,0,546,Bulk
+IDEA Spears,Academy,HOUR,TX,4/16/24,Breakfast,AC Breakfast,493,0,0,493,Bulk
+IDEA Spears,Academy,HOUR,TX,4/16/24,CACFP Supper,Supper,72,0,0,72,Bulk
+IDEA Spears,Academy,HOUR,TX,4/16/24,Lunch,AC Lunch,612,0,0,612,Bulk
+IDEA Spears,Academy,HOUR,TX,4/17/24,Breakfast,AC Breakfast,516,0,0,516,Bulk
+IDEA Spears,Academy,HOUR,TX,4/17/24,CACFP Supper,Supper,150,0,0,150,Bulk
+IDEA Spears,Academy,HOUR,TX,4/17/24,Lunch,AC Lunch,531,0,0,531,Bulk
+IDEA Spears,Academy,HOUR,TX,4/18/24,Breakfast,AC Breakfast,520,0,0,520,Bulk
+IDEA Spears,Academy,HOUR,TX,4/18/24,CACFP Supper,AC Supper,87,0,0,87,Bulk
+IDEA Spears,Academy,HOUR,TX,4/18/24,Lunch,AC Lunch,523,0,0,523,Bulk
+IDEA Spears,Academy,HOUR,TX,4/19/24,Breakfast,AC Breakfast,536,0,0,536,Bulk
+IDEA Spears,Academy,HOUR,TX,4/19/24,CACFP Supper,AC Supper,13,0,0,13,Bulk
+IDEA Spears,Academy,HOUR,TX,4/19/24,Lunch,AC Lunch,521,0,0,521,Bulk
+IDEA Spears,College Preparatory,HOUR,TX,4/15/24,Breakfast,CP Breakfast,316,0,0,316,Bulk
+IDEA Spears,College Preparatory,HOUR,TX,4/15/24,Lunch,CP Lunch,405,0,0,405,Bulk
+IDEA Spears,College Preparatory,HOUR,TX,4/16/24,Breakfast,CP Breakfast,323,0,0,323,Bulk
+IDEA Spears,College Preparatory,HOUR,TX,4/16/24,Lunch,CP Lunch,401,0,0,401,Bulk
+IDEA Spears,College Preparatory,HOUR,TX,4/17/24,Breakfast,CP Breakfast,309,0,0,309,Bulk
+IDEA Spears,College Preparatory,HOUR,TX,4/17/24,Lunch,CP Lunch,347,0,0,347,Bulk
+IDEA Spears,College Preparatory,HOUR,TX,4/18/24,Breakfast,CP Breakfast,316,0,0,316,Bulk
+IDEA Spears,College Preparatory,HOUR,TX,4/18/24,Lunch,CP Lunch,424,0,0,424,Bulk
+IDEA Spears,College Preparatory,HOUR,TX,4/19/24,Breakfast,CP Breakfast,326,0,0,326,Bulk
+IDEA Spears,College Preparatory,HOUR,TX,4/19/24,Lunch,CP Lunch,381,0,0,381,Bulk
+IDEA Sports Park,Academy,LRGV,TX,4/15/24,Breakfast,AC Breakfast,455,0,0,455,Bulk
+IDEA Sports Park,Academy,LRGV,TX,4/15/24,CACFP Supper,Supper,65,6,27,98,Individual
+IDEA Sports Park,Academy,LRGV,TX,4/15/24,Lunch,AC Lunch,507,0,0,507,Bulk
+IDEA Sports Park,Academy,LRGV,TX,4/16/24,Breakfast,AC Breakfast,434,0,0,434,Bulk
+IDEA Sports Park,Academy,LRGV,TX,4/16/24,CACFP Supper,Supper,31,4,21,56,Individual
+IDEA Sports Park,Academy,LRGV,TX,4/16/24,Lunch,AC Lunch,512,0,0,512,Bulk
+IDEA Sports Park,Academy,LRGV,TX,4/17/24,Breakfast,AC Breakfast,452,0,0,452,Bulk
+IDEA Sports Park,Academy,LRGV,TX,4/17/24,CACFP Supper,Supper,31,3,20,54,Individual
+IDEA Sports Park,Academy,LRGV,TX,4/17/24,Lunch,AC Lunch,527,0,0,527,Bulk
+IDEA Sports Park,Academy,LRGV,TX,4/18/24,Breakfast,AC Breakfast,460,0,0,460,Bulk
+IDEA Sports Park,Academy,LRGV,TX,4/18/24,CACFP Supper,Supper,40,4,31,75,Individual
+IDEA Sports Park,Academy,LRGV,TX,4/18/24,Lunch,AC Lunch,515,0,0,515,Bulk
+IDEA Sports Park,Academy,LRGV,TX,4/19/24,Breakfast,AC Breakfast,469,0,0,469,Bulk
+IDEA Sports Park,Academy,LRGV,TX,4/19/24,CACFP Supper,Supper,22,4,19,45,Individual
+IDEA Sports Park,Academy,LRGV,TX,4/19/24,Lunch,AC Lunch,470,0,0,470,Bulk
+IDEA Sports Park,College Preparatory,LRGV,TX,4/15/24,Breakfast,CP Breakfast,241,0,0,241,Bulk
+IDEA Sports Park,College Preparatory,LRGV,TX,4/15/24,CACFP Supper,Supper,3,2,8,13,Individual
+IDEA Sports Park,College Preparatory,LRGV,TX,4/15/24,Lunch,CP Lunch,318,0,0,318,Bulk
+IDEA Sports Park,College Preparatory,LRGV,TX,4/16/24,Breakfast,CP Breakfast,235,0,0,235,Bulk
+IDEA Sports Park,College Preparatory,LRGV,TX,4/16/24,CACFP Supper,Supper,14,2,10,26,Individual
+IDEA Sports Park,College Preparatory,LRGV,TX,4/16/24,Lunch,CP Lunch,324,0,0,324,Bulk
+IDEA Sports Park,College Preparatory,LRGV,TX,4/17/24,Breakfast,CP Breakfast,235,0,0,235,Bulk
+IDEA Sports Park,College Preparatory,LRGV,TX,4/17/24,CACFP Supper,Supper,12,1,9,22,Individual
+IDEA Sports Park,College Preparatory,LRGV,TX,4/17/24,Lunch,CP Lunch,333,0,0,333,Bulk
+IDEA Sports Park,College Preparatory,LRGV,TX,4/18/24,Breakfast,CP Breakfast,241,0,0,241,Bulk
+IDEA Sports Park,College Preparatory,LRGV,TX,4/18/24,CACFP Supper,Supper,22,3,15,40,Individual
+IDEA Sports Park,College Preparatory,LRGV,TX,4/18/24,Lunch,CP Lunch,235,0,0,235,Bulk
+IDEA Sports Park,College Preparatory,LRGV,TX,4/19/24,Breakfast,CP Breakfast,237,0,0,237,Bulk
+IDEA Sports Park,College Preparatory,LRGV,TX,4/19/24,CACFP Supper,Supper,6,0,6,12,Individual
+IDEA Sports Park,College Preparatory,LRGV,TX,4/19/24,Lunch,CP Lunch,275,0,0,275,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/15/24,Breakfast,CP Breakfast,212,0,0,212,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/15/24,CACFP Supper,CP Supper,35,0,0,35,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/15/24,Lunch,CP Lunch,230,0,0,230,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/16/24,Breakfast,CP Breakfast,203,0,0,203,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/16/24,CACFP Supper,CP Supper,35,0,0,35,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/16/24,Lunch,CP Lunch,282,0,0,282,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/17/24,Breakfast,CP Breakfast,176,0,0,176,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/17/24,CACFP Supper,CP Supper,35,0,0,35,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/17/24,Lunch,CP Lunch,192,0,0,192,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/18/24,Breakfast,CP Breakfast,210,0,0,210,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/18/24,CACFP Supper,CP Supper,35,0,0,35,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/18/24,Lunch,CP Lunch,258,0,0,258,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/19/24,Breakfast,CP Breakfast,172,0,0,172,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/19/24,CACFP Supper,CP Supper,35,0,0,35,Bulk
+IDEA Toros,College Preparatory,MRGV,TX,4/19/24,Lunch,CP Lunch,258,0,0,258,Bulk
+IDEA Travis,Academy,PRBR,TX,4/15/24,Breakfast,AC Breakfast,666,0,0,666,Bulk
+IDEA Travis,Academy,PRBR,TX,4/15/24,Breakfast,CP Breakfast,249,0,0,249,Bulk
+IDEA Travis,Academy,PRBR,TX,4/15/24,CACFP Supper,Supper,44,2,45,91,Individual
+IDEA Travis,Academy,PRBR,TX,4/15/24,Lunch,AC Lunch,657,0,0,657,Bulk
+IDEA Travis,Academy,PRBR,TX,4/15/24,Lunch,CP Lunch,299,0,0,299,Bulk
+IDEA Travis,Academy,PRBR,TX,4/16/24,Breakfast,AC Breakfast,651,0,0,651,Bulk
+IDEA Travis,Academy,PRBR,TX,4/16/24,Breakfast,CP Breakfast,246,0,0,246,Bulk
+IDEA Travis,Academy,PRBR,TX,4/16/24,CACFP Supper,Supper,49,3,46,98,Individual
+IDEA Travis,Academy,PRBR,TX,4/16/24,Lunch,AC Lunch,629,0,0,629,Bulk
+IDEA Travis,Academy,PRBR,TX,4/16/24,Lunch,CP Lunch,259,0,0,259,Bulk
+IDEA Travis,Academy,PRBR,TX,4/17/24,Breakfast,AC Breakfast,666,0,0,666,Bulk
+IDEA Travis,Academy,PRBR,TX,4/17/24,Breakfast,CP Breakfast,249,0,0,249,Bulk
+IDEA Travis,Academy,PRBR,TX,4/17/24,CACFP Supper,Supper,46,4,47,97,Individual
+IDEA Travis,Academy,PRBR,TX,4/17/24,Lunch,AC Lunch,612,0,0,612,Bulk
+IDEA Travis,Academy,PRBR,TX,4/17/24,Lunch,CP Lunch,298,0,0,298,Bulk
+IDEA Travis,Academy,PRBR,TX,4/18/24,Breakfast,AC Breakfast,622,0,0,622,Bulk
+IDEA Travis,Academy,PRBR,TX,4/18/24,Breakfast,CP Breakfast,256,0,0,256,Bulk
+IDEA Travis,Academy,PRBR,TX,4/18/24,CACFP Supper,Supper,54,3,50,107,Individual
+IDEA Travis,Academy,PRBR,TX,4/18/24,Lunch,AC Lunch,678,0,0,678,Bulk
+IDEA Travis,Academy,PRBR,TX,4/18/24,Lunch,CP Lunch,297,0,0,297,Bulk
+IDEA Travis,Academy,PRBR,TX,4/19/24,Breakfast,AC Breakfast,626,0,0,626,Bulk
+IDEA Travis,Academy,PRBR,TX,4/19/24,Breakfast,CP Breakfast,185,0,0,185,Bulk
+IDEA Travis,Academy,PRBR,TX,4/19/24,CACFP Supper,Supper,43,4,37,84,Individual
+IDEA Travis,Academy,PRBR,TX,4/19/24,Lunch,AC Lunch,668,0,0,668,Bulk
+IDEA Travis,Academy,PRBR,TX,4/19/24,Lunch,CP Lunch,212,0,0,212,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/15/24,Breakfast,AC Breakfast,590,0,0,590,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/15/24,CACFP Supper,AC Supper,208,0,0,208,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/15/24,Lunch,AC Lunch,637,0,0,637,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/16/24,Breakfast,AC Breakfast,550,0,0,550,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/16/24,CACFP Supper,AC Supper,207,0,0,207,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/16/24,Lunch,AC Lunch,652,0,0,652,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/17/24,Breakfast,AC Breakfast,560,0,0,560,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/17/24,CACFP Supper,AC Supper,69,0,0,69,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/17/24,Lunch,AC Lunch,628,0,0,628,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/18/24,Breakfast,AC Breakfast,538,0,0,538,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/18/24,CACFP Supper,AC Supper,56,0,0,56,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/18/24,Lunch,AC Lunch,505,0,0,505,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/19/24,Breakfast,AC Breakfast,527,0,0,527,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/19/24,CACFP Supper,AC Supper,39,0,0,39,Bulk
+IDEA Tres Lagos,Academy,URGV,TX,4/19/24,Lunch,AC Lunch,603,0,0,603,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/15/24,Breakfast,CP Breakfast,366,0,0,366,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/15/24,CACFP Supper,CP Supper,66,0,0,66,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/15/24,Lunch,CP Lunch,508,0,0,508,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/16/24,Breakfast,CP Breakfast,334,0,0,334,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/16/24,CACFP Supper,CP Supper,57,0,0,57,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/16/24,Lunch,CP Lunch,542,0,0,542,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/17/24,Breakfast,CP Breakfast,341,0,0,341,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/17/24,CACFP Supper,CP Supper,65,0,0,65,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/17/24,Lunch,CP Lunch,550,0,0,550,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/18/24,Breakfast,CP Breakfast,331,0,0,331,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/18/24,CACFP Supper,CP Supper,72,0,0,72,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/18/24,Lunch,CP Lunch,451,0,0,451,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/19/24,Breakfast,CP Breakfast,333,0,0,333,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/19/24,CACFP Supper,CP Supper,48,0,0,48,Bulk
+IDEA Tres Lagos,College Preparatory,URGV,TX,4/19/24,Lunch,CP Lunch,500,0,0,500,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/15/24,Breakfast,AC Breakfast,258,0,0,258,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/15/24,CACFP Supper,AC Supper,142,0,0,142,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/15/24,Lunch,AC Lunch,293,0,0,293,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/16/24,Breakfast,AC Breakfast,277,0,0,277,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/16/24,Lunch,AC Lunch,304,0,0,304,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/17/24,Breakfast,AC Breakfast,271,0,0,271,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/17/24,CACFP Supper,AC Supper,156,0,0,156,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/17/24,Lunch,AC Lunch,290,0,0,290,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/18/24,Breakfast,AC Breakfast,271,0,0,271,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/18/24,CACFP Supper,AC Supper,142,0,0,142,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/18/24,Lunch,AC Lunch,271,0,0,271,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/19/24,Breakfast,AC Breakfast,268,0,0,268,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/19/24,CACFP Supper,AC Supper,143,0,0,143,Bulk
+IDEA University Prep,Academy,SOLA,LA,4/19/24,Lunch,AC Lunch,276,0,0,276,Bulk
+IDEA University Prep,College Preparatory,SOLA,LA,4/15/24,Breakfast,CP Breakfast,105,0,0,105,Bulk
+IDEA University Prep,College Preparatory,SOLA,LA,4/15/24,Lunch,CP Lunch,191,0,0,191,Bulk
+IDEA University Prep,College Preparatory,SOLA,LA,4/16/24,Breakfast,CP Breakfast,103,0,0,103,Bulk
+IDEA University Prep,College Preparatory,SOLA,LA,4/16/24,Lunch,CP Lunch,183,0,0,183,Bulk
+IDEA University Prep,College Preparatory,SOLA,LA,4/17/24,Breakfast,CP Breakfast,112,0,0,112,Bulk
+IDEA University Prep,College Preparatory,SOLA,LA,4/17/24,Lunch,CP Lunch,189,0,0,189,Bulk
+IDEA University Prep,College Preparatory,SOLA,LA,4/18/24,Breakfast,CP Breakfast,99,0,0,99,Bulk
+IDEA University Prep,College Preparatory,SOLA,LA,4/18/24,Lunch,CP Lunch,172,0,0,172,Bulk
+IDEA University Prep,College Preparatory,SOLA,LA,4/19/24,Breakfast,CP Breakfast,116,0,0,116,Bulk
+IDEA University Prep,College Preparatory,SOLA,LA,4/19/24,Lunch,CP Lunch,185,0,0,185,Bulk
+IDEA Valley View,Academy,CINC,OH,4/15/24,Breakfast,AC Breakfast,233,0,0,233,Bulk
+IDEA Valley View,Academy,CINC,OH,4/15/24,Lunch,AC Lunch,258,0,0,258,Bulk
+IDEA Valley View,Academy,CINC,OH,4/16/24,Breakfast,AC Breakfast,227,0,0,227,Bulk
+IDEA Valley View,Academy,CINC,OH,4/16/24,Lunch,AC Lunch,248,0,0,248,Bulk
+IDEA Valley View,Academy,CINC,OH,4/17/24,Breakfast,AC Breakfast,245,0,0,245,Bulk
+IDEA Valley View,Academy,CINC,OH,4/17/24,Lunch,AC Lunch,261,0,0,261,Bulk
+IDEA Valley View,Academy,CINC,OH,4/18/24,Breakfast,AC Breakfast,231,0,0,231,Bulk
+IDEA Valley View,Academy,CINC,OH,4/18/24,Lunch,AC Lunch,269,0,0,269,Bulk
+IDEA Valley View,Academy,CINC,OH,4/19/24,Breakfast,AC Breakfast,223,0,0,223,Bulk
+IDEA Valley View,Academy,CINC,OH,4/19/24,Lunch,AC Lunch,255,0,0,255,Bulk
+IDEA Valley View,College Preparatory,CINC,OH,4/15/24,Breakfast,CP Breakfast,36,0,0,36,Bulk
+IDEA Valley View,College Preparatory,CINC,OH,4/15/24,Lunch,CP Lunch,56,0,0,56,Bulk
+IDEA Valley View,College Preparatory,CINC,OH,4/16/24,Breakfast,CP Breakfast,27,0,0,27,Bulk
+IDEA Valley View,College Preparatory,CINC,OH,4/16/24,Lunch,CP Lunch,64,0,0,64,Bulk
+IDEA Valley View,College Preparatory,CINC,OH,4/17/24,Breakfast,CP Breakfast,31,0,0,31,Bulk
+IDEA Valley View,College Preparatory,CINC,OH,4/17/24,Lunch,CP Lunch,63,0,0,63,Bulk
+IDEA Valley View,College Preparatory,CINC,OH,4/18/24,Breakfast,CP Breakfast,31,0,0,31,Bulk
+IDEA Valley View,College Preparatory,CINC,OH,4/18/24,Lunch,CP Lunch,60,0,0,60,Bulk
+IDEA Valley View,College Preparatory,CINC,OH,4/19/24,Breakfast,CP Breakfast,24,0,0,24,Bulk
+IDEA Valley View,College Preparatory,CINC,OH,4/19/24,Lunch,CP Lunch,45,0,0,45,Bulk
+IDEA Victory,Academy,TABR,FL,4/15/24,Breakfast,AC Breakfast,372,0,0,372,Bulk
+IDEA Victory,Academy,TABR,FL,4/15/24,CACFP Supper,Supper,303,0,0,303,Bulk
+IDEA Victory,Academy,TABR,FL,4/15/24,Lunch,AC Lunch,421,0,0,421,Bulk
+IDEA Victory,Academy,TABR,FL,4/16/24,Breakfast,AC Breakfast,359,0,0,359,Bulk
+IDEA Victory,Academy,TABR,FL,4/16/24,CACFP Supper,Supper,280,0,0,280,Bulk
+IDEA Victory,Academy,TABR,FL,4/16/24,Lunch,AC Lunch,379,0,0,379,Bulk
+IDEA Victory,Academy,TABR,FL,4/17/24,Breakfast,AC Breakfast,387,0,0,387,Bulk
+IDEA Victory,Academy,TABR,FL,4/17/24,CACFP Supper,Supper,256,0,0,256,Bulk
+IDEA Victory,Academy,TABR,FL,4/17/24,Lunch,AC Lunch,390,0,0,390,Bulk
+IDEA Victory,Academy,TABR,FL,4/18/24,Breakfast,AC Breakfast,400,0,0,400,Bulk
+IDEA Victory,Academy,TABR,FL,4/18/24,CACFP Supper,Supper,343,0,0,343,Bulk
+IDEA Victory,Academy,TABR,FL,4/18/24,Lunch,AC Lunch,724,0,0,724,Bulk
+IDEA Victory,Academy,TABR,FL,4/19/24,Breakfast,AC Breakfast,364,0,0,364,Bulk
+IDEA Victory,Academy,TABR,FL,4/19/24,CACFP Supper,Supper,256,0,0,256,Bulk
+IDEA Victory,Academy,TABR,FL,4/19/24,Lunch,AC Lunch,395,0,0,395,Bulk
+IDEA Victory,College Preparatory,TABR,FL,4/15/24,Breakfast,CP Breakfast,204,0,0,204,Bulk
+IDEA Victory,College Preparatory,TABR,FL,4/15/24,Lunch,CP Lunch,321,0,0,321,Bulk
+IDEA Victory,College Preparatory,TABR,FL,4/16/24,Breakfast,CP Breakfast,220,0,0,220,Bulk
+IDEA Victory,College Preparatory,TABR,FL,4/16/24,Lunch,CP Lunch,324,0,0,324,Bulk
+IDEA Victory,College Preparatory,TABR,FL,4/17/24,Breakfast,CP Breakfast,206,0,0,206,Bulk
+IDEA Victory,College Preparatory,TABR,FL,4/17/24,Lunch,CP Lunch,334,0,0,334,Bulk
+IDEA Victory,College Preparatory,TABR,FL,4/18/24,Breakfast,CP Breakfast,200,0,0,200,Bulk
+IDEA Victory,College Preparatory,TABR,FL,4/19/24,Breakfast,CP Breakfast,192,0,0,192,Bulk
+IDEA Victory,College Preparatory,TABR,FL,4/19/24,Lunch,CP Lunch,335,0,0,335,Bulk
+IDEA Walzem,Academy,ESAR,TX,4/15/24,Breakfast,AC Breakfast,445,0,0,445,Bulk
+IDEA Walzem,Academy,ESAR,TX,4/15/24,Lunch,AC Lunch,494,0,0,494,Bulk
+IDEA Walzem,Academy,ESAR,TX,4/16/24,Breakfast,AC Breakfast,428,0,0,428,Bulk
+IDEA Walzem,Academy,ESAR,TX,4/16/24,CACFP Supper,Supper,216,5,123,344,Individual
+IDEA Walzem,Academy,ESAR,TX,4/16/24,Lunch,AC Lunch,516,0,0,516,Bulk
+IDEA Walzem,Academy,ESAR,TX,4/17/24,Breakfast,AC Breakfast,450,0,0,450,Bulk
+IDEA Walzem,Academy,ESAR,TX,4/17/24,CACFP Supper,Supper,235,4,125,364,Individual
+IDEA Walzem,Academy,ESAR,TX,4/17/24,Lunch,AC Lunch,490,0,0,490,Bulk
+IDEA Walzem,Academy,ESAR,TX,4/18/24,Breakfast,AC Breakfast,455,0,0,455,Bulk
+IDEA Walzem,Academy,ESAR,TX,4/18/24,CACFP Supper,Supper,245,4,120,369,Individual
+IDEA Walzem,Academy,ESAR,TX,4/18/24,Lunch,AC Lunch,464,0,0,464,Bulk
+IDEA Walzem,Academy,ESAR,TX,4/19/24,Breakfast,AC Breakfast,435,0,0,435,Bulk
+IDEA Walzem,Academy,ESAR,TX,4/19/24,CACFP Supper,Supper,212,5,115,332,Individual
+IDEA Walzem,Academy,ESAR,TX,4/19/24,Lunch,AC Lunch,479,0,0,479,Bulk
+IDEA Walzem,College Preparatory,ESAR,TX,4/15/24,Breakfast,CP Breakfast,452,0,0,452,Bulk
+IDEA Walzem,College Preparatory,ESAR,TX,4/15/24,Lunch,CP Lunch,516,0,0,516,Bulk
+IDEA Walzem,College Preparatory,ESAR,TX,4/16/24,Breakfast,CP Breakfast,509,0,0,509,Bulk
+IDEA Walzem,College Preparatory,ESAR,TX,4/16/24,CACFP Supper,Supper,23,1,21,45,Individual
+IDEA Walzem,College Preparatory,ESAR,TX,4/16/24,Lunch,CP Lunch,571,0,0,571,Bulk
+IDEA Walzem,College Preparatory,ESAR,TX,4/17/24,Breakfast,CP Breakfast,502,0,0,502,Bulk
+IDEA Walzem,College Preparatory,ESAR,TX,4/17/24,CACFP Supper,Supper,26,0,19,45,Individual
+IDEA Walzem,College Preparatory,ESAR,TX,4/17/24,Lunch,CP Lunch,526,0,0,526,Bulk
+IDEA Walzem,College Preparatory,ESAR,TX,4/18/24,Breakfast,CP Breakfast,475,0,0,475,Bulk
+IDEA Walzem,College Preparatory,ESAR,TX,4/18/24,CACFP Supper,Supper,29,1,23,53,Individual
+IDEA Walzem,College Preparatory,ESAR,TX,4/18/24,Lunch,CP Lunch,564,0,0,564,Bulk
+IDEA Walzem,College Preparatory,ESAR,TX,4/19/24,Breakfast,CP Breakfast,477,0,0,477,Bulk
+IDEA Walzem,College Preparatory,ESAR,TX,4/19/24,CACFP Supper,Supper,25,1,23,49,Individual
+IDEA Walzem,College Preparatory,ESAR,TX,4/19/24,Lunch,CP Lunch,496,0,0,496,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/15/24,Breakfast,AC Breakfast,542,0,0,542,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/15/24,CACFP Supper,AC Supper,178,0,0,178,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/15/24,Lunch,AC Lunch,587,0,0,587,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/16/24,Breakfast,AC Breakfast,547,0,0,547,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/16/24,CACFP Supper,AC Supper,170,0,0,170,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/16/24,Lunch,AC Lunch,614,0,0,614,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/17/24,Breakfast,AC Breakfast,560,0,0,560,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/17/24,CACFP Supper,AC Supper,174,0,0,174,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/17/24,Lunch,AC Lunch,596,0,0,596,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/18/24,Breakfast,AC Breakfast,565,0,0,565,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/18/24,CACFP Supper,AC Supper,165,0,0,165,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/18/24,Lunch,AC Lunch,607,0,0,607,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/19/24,Breakfast,AC Breakfast,480,0,0,480,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/19/24,CACFP Supper,AC Supper,78,0,0,78,Bulk
+IDEA Weslaco,Academy,LRGV,TX,4/19/24,Lunch,AC Lunch,507,0,0,507,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/15/24,Breakfast,CP Breakfast,426,0,0,426,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/15/24,CACFP Supper,CP Supper,45,0,0,45,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/15/24,Lunch,CP Lunch,575,0,0,575,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/16/24,Breakfast,CP Breakfast,458,0,0,458,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/16/24,CACFP Supper,CP Supper,87,0,0,87,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/16/24,Lunch,CP Lunch,582,0,0,582,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/17/24,Breakfast,CP Breakfast,424,0,0,424,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/17/24,CACFP Supper,CP Supper,45,0,0,45,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/17/24,Lunch,CP Lunch,530,0,0,530,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/18/24,Breakfast,CP Breakfast,404,0,0,404,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/18/24,CACFP Supper,CP Supper,87,0,0,87,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/18/24,Lunch,CP Lunch,650,0,0,650,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/19/24,Breakfast,CP Breakfast,432,0,0,432,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/19/24,CACFP Supper,CP Supper,29,0,0,29,Bulk
+IDEA Weslaco,College Preparatory,LRGV,TX,4/19/24,Lunch,CP Lunch,516,0,0,516,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/15/24,Breakfast,AC Breakfast,510,0,0,510,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/15/24,CACFP Supper,AC Supper,184,0,0,184,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/15/24,CACFP Supper,Supper,24,0,10,34,Individual
+IDEA Weslaco Pike,Academy,LRGV,TX,4/15/24,Lunch,AC Lunch,687,0,0,687,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/16/24,Breakfast,AC Breakfast,487,0,0,487,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/16/24,CACFP Supper,AC Supper,160,0,0,160,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/16/24,CACFP Supper,Supper,23,3,9,35,Individual
+IDEA Weslaco Pike,Academy,LRGV,TX,4/16/24,Lunch,AC Lunch,679,0,0,679,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/17/24,Breakfast,AC Breakfast,491,0,0,491,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/17/24,CACFP Supper,AC Supper,119,0,0,119,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/17/24,CACFP Supper,Supper,32,2,15,49,Individual
+IDEA Weslaco Pike,Academy,LRGV,TX,4/17/24,Lunch,AC Lunch,664,0,0,664,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/18/24,Breakfast,AC Breakfast,480,0,0,480,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/18/24,CACFP Supper,AC Supper,121,0,0,121,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/18/24,CACFP Supper,Supper,30,3,14,47,Individual
+IDEA Weslaco Pike,Academy,LRGV,TX,4/18/24,Lunch,AC Lunch,672,0,0,672,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/19/24,Breakfast,AC Breakfast,469,0,0,469,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/19/24,CACFP Supper,AC Supper,111,0,0,111,Bulk
+IDEA Weslaco Pike,Academy,LRGV,TX,4/19/24,CACFP Supper,Supper,18,2,10,30,Individual
+IDEA Weslaco Pike,Academy,LRGV,TX,4/19/24,Lunch,AC Lunch,649,0,0,649,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/15/24,Breakfast,CP Breakfast,183,0,0,183,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/15/24,CACFP Supper,CP Supper,10,0,0,10,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/15/24,CACFP Supper,Supper,39,5,13,57,Individual
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/15/24,Lunch,CP Lunch,655,0,0,655,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/16/24,Breakfast,CP Breakfast,224,0,0,224,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/16/24,CACFP Supper,CP Supper,10,0,0,10,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/16/24,CACFP Supper,Supper,27,4,5,36,Individual
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/16/24,Lunch,CP Lunch,690,0,0,690,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/17/24,Breakfast,CP Breakfast,215,0,0,215,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/17/24,CACFP Supper,CP Supper,10,0,0,10,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/17/24,CACFP Supper,Supper,18,5,4,27,Individual
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/17/24,Lunch,CP Lunch,627,0,0,627,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/18/24,Breakfast,CP Breakfast,296,0,0,296,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/18/24,CACFP Supper,CP Supper,10,0,0,10,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/18/24,CACFP Supper,Supper,24,5,8,37,Individual
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/18/24,Lunch,CP Lunch,656,0,0,656,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/19/24,Breakfast,CP Breakfast,240,0,0,240,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/19/24,CACFP Supper,CP Supper,10,0,0,10,Bulk
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/19/24,CACFP Supper,Supper,20,2,6,28,Individual
+IDEA Weslaco Pike,College Preparatory,LRGV,TX,4/19/24,Lunch,CP Lunch,637,0,0,637,Bulk
+IDEA Yukon,Academy,PRBR,TX,4/15/24,Breakfast,AC Breakfast,572,0,0,572,Bulk
+IDEA Yukon,Academy,PRBR,TX,4/15/24,CACFP Supper,Supper,25,0,55,80,Individual
+IDEA Yukon,Academy,PRBR,TX,4/15/24,Lunch,AC Lunch,622,0,0,622,Bulk
+IDEA Yukon,Academy,PRBR,TX,4/16/24,Breakfast,AC Breakfast,641,0,0,641,Bulk
+IDEA Yukon,Academy,PRBR,TX,4/16/24,CACFP Supper,Supper,26,1,51,78,Individual
+IDEA Yukon,Academy,PRBR,TX,4/16/24,Lunch,AC Lunch,562,0,0,562,Bulk
+IDEA Yukon,Academy,PRBR,TX,4/17/24,Breakfast,AC Breakfast,584,0,0,584,Bulk
+IDEA Yukon,Academy,PRBR,TX,4/17/24,CACFP Supper,Supper,21,0,50,71,Individual
+IDEA Yukon,Academy,PRBR,TX,4/17/24,Lunch,AC Lunch,591,0,0,591,Bulk
+IDEA Yukon,Academy,PRBR,TX,4/18/24,Breakfast,AC Breakfast,569,0,0,569,Bulk
+IDEA Yukon,Academy,PRBR,TX,4/18/24,CACFP Supper,Supper,22,0,55,77,Individual
+IDEA Yukon,Academy,PRBR,TX,4/18/24,Lunch,AC Lunch,635,0,0,635,Bulk
+IDEA Yukon,Academy,PRBR,TX,4/19/24,Breakfast,AC Breakfast,568,0,0,568,Bulk
+IDEA Yukon,Academy,PRBR,TX,4/19/24,CACFP Supper,Supper,11,0,37,48,Individual
+IDEA Yukon,Academy,PRBR,TX,4/19/24,Lunch,AC Lunch,633,0,0,633,Bulk
+IDEA Yukon,College Preparatory,PRBR,TX,4/15/24,Breakfast,CP Breakfast,337,0,0,337,Bulk
+IDEA Yukon,College Preparatory,PRBR,TX,4/15/24,CACFP Supper,Supper,11,0,17,28,Individual
+IDEA Yukon,College Preparatory,PRBR,TX,4/15/24,Lunch,CP Lunch,297,0,0,297,Bulk
+IDEA Yukon,College Preparatory,PRBR,TX,4/16/24,Breakfast,CP Breakfast,279,0,0,279,Bulk
+IDEA Yukon,College Preparatory,PRBR,TX,4/16/24,CACFP Supper,Supper,12,0,33,45,Individual
+IDEA Yukon,College Preparatory,PRBR,TX,4/16/24,Lunch,CP Lunch,316,0,0,316,Bulk
+IDEA Yukon,College Preparatory,PRBR,TX,4/17/24,Breakfast,CP Breakfast,296,0,0,296,Bulk
+IDEA Yukon,College Preparatory,PRBR,TX,4/17/24,CACFP Supper,Supper,8,0,12,20,Individual
+IDEA Yukon,College Preparatory,PRBR,TX,4/17/24,Lunch,CP Lunch,317,0,0,317,Bulk
+IDEA Yukon,College Preparatory,PRBR,TX,4/18/24,Breakfast,CP Breakfast,295,0,0,295,Bulk
+IDEA Yukon,College Preparatory,PRBR,TX,4/18/24,CACFP Supper,Supper,8,0,19,27,Individual
+IDEA Yukon,College Preparatory,PRBR,TX,4/18/24,Lunch,CP Lunch,308,0,0,308,Bulk
+IDEA Yukon,College Preparatory,PRBR,TX,4/19/24,Breakfast,CP Breakfast,264,0,0,264,Bulk
+IDEA Yukon,College Preparatory,PRBR,TX,4/19/24,CACFP Supper,Supper,2,0,10,12,Individual
+IDEA Yukon,College Preparatory,PRBR,TX,4/19/24,Lunch,CP Lunch,298,0,0,298,Bulk

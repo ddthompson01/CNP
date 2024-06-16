@@ -1,0 +1,41 @@
+  SCHOOLNAME	ATTDATE	MEMBERSHIP	ABSENCES	ATTENDANCE
+IDEA Bassett Academy	2024-04-15	477	65	412
+IDEA Bassett Academy	2024-04-16	476	40	436
+IDEA Bassett Academy	2024-04-17	476	32	444
+IDEA Bassett Academy	2024-04-18	476	38	438
+IDEA Bassett Academy	2024-04-19	476	64	412
+IDEA Bassett College Preparatory	2024-04-15	247	28	219
+IDEA Bassett College Preparatory	2024-04-16	247	27	220
+IDEA Bassett College Preparatory	2024-04-17	247	18	229
+IDEA Bassett College Preparatory	2024-04-18	247	22	225
+IDEA Bassett College Preparatory	2024-04-19	247	45	202
+IDEA Hope Academy	2024-04-15	479	73	406
+IDEA Hope Academy	2024-04-16	479	59	420
+IDEA Hope Academy	2024-04-17	479	42	437
+IDEA Hope Academy	2024-04-18	479	42	437
+IDEA Hope Academy	2024-04-19	479	55	424
+IDEA Hope College Preparatory	2024-04-15	254	32	222
+IDEA Hope College Preparatory	2024-04-16	254	31	223
+IDEA Hope College Preparatory	2024-04-17	254	20	234
+IDEA Hope College Preparatory	2024-04-18	254	33	221
+IDEA Hope College Preparatory	2024-04-19	253	31	222
+IDEA River Bluff Academy	2024-04-15	471	53	418
+IDEA River Bluff Academy	2024-04-16	471	46	425
+IDEA River Bluff Academy	2024-04-17	471	42	429
+IDEA River Bluff Academy	2024-04-18	471	63	408
+IDEA River Bluff Academy	2024-04-19	471	75	396
+IDEA River Bluff College Preparatory	2024-04-15	230	35	195
+IDEA River Bluff College Preparatory	2024-04-16	230	24	206
+IDEA River Bluff College Preparatory	2024-04-17	230	31	199
+IDEA River Bluff College Preparatory	2024-04-18	230	32	198
+IDEA River Bluff College Preparatory	2024-04-19	230	39	191
+IDEA Victory Academy	2024-04-15	589	79	510
+IDEA Victory Academy	2024-04-16	589	71	518
+IDEA Victory Academy	2024-04-17	589	52	537
+IDEA Victory Academy	2024-04-18	590	54	536
+IDEA Victory Academy	2024-04-19	592	110	482
+IDEA Victory College Preparatory	2024-04-15	379	57	322
+IDEA Victory College Preparatory	2024-04-16	378	37	341
+IDEA Victory College Preparatory	2024-04-17	380	30	350
+IDEA Victory College Preparatory	2024-04-18	380	34	346
+IDEA Victory College Preparatory	2024-04-19	380	72	308
