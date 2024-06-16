@@ -20,8 +20,8 @@ CNP Applications Analyst Technical Assessment
  
 ****Section 2.2 SQL**** - </br>
 
- *Review Q1 SQL file:* **[HERE](https://github.com/ddthompson01/CNP/tree/main/Part-2.2/Q1/Q1_Test%20Results)**<br />
- *Review Q1 SQL test file:* **[HERE](https://github.com/ddthompson01/CNP/blob/main/Part-2.1/utils.py)**<br />
+ *Review Q1 SQL file:* **[HERE](https://github.com/ddthompson01/CNP/blob/main/Part-2.2/Q1/q1_storedproc.sql)**<br />
+ *Review Q1 SQL test file:* **[HERE](https://github.com/ddthompson01/CNP/tree/main/Part-2.2/Q1/Q1_Test%20Results)**<br />
  
  *Review Q3 SQL file:* **[HERE](https://github.com/ddthompson01/CNP/blob/main/Part-2.2/Q3/UserAccess.sql)**<br />
  *Review Q3 SQL test file:* **[HERE](https://github.com/ddthompson01/CNP/blob/main/Part-2.2/Q3/Tests.sql)**<br />
