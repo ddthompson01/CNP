@@ -31,3 +31,7 @@ CNP Applications Analyst Technical Assessment
 
 Database Setup for Q3 using MYSQL:
 ![RelationalDB_Setup2](https://github.com/ddthompson01/CNP/assets/112508527/be485d11-5c29-4ce9-9d81-dc887faad0fa)
+
+****Section 2.1 Data Anaylysis**** - </br>
+ *Downlaod PowerBi file:* **[HERE](https://github.com/ddthompson01/CNP/blob/main/Part-3/meal_insights_ddt.pbix)**<br />
+![dash_ddt](https://github.com/ddthompson01/CNP/assets/112508527/5b2ac511-11ed-4596-a931-05e2b50f4415)
