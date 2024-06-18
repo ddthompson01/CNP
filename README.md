@@ -1,6 +1,10 @@
 # CNP ASSESSMENT
 CNP Applications Analyst Technical Assessment
 
+ ****Section 1 Prolem Solving** - </br>
+ *Review the pdf file:* **[HERE](https://github.com/ddthompson01/CNP/blob/main/Section-1_ddt.pdf)**<br />
+
+
 ****Section 2.1 Scripting to Automate Actions**** - </br>
   
  *Review the main.py Script:* **[HERE](https://github.com/ddthompson01/CNP/blob/main/Part-2.1/main.py)**<br />
