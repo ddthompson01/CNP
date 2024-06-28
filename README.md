@@ -37,5 +37,8 @@ Database Setup for Q3 using MYSQL:
 ![RelationalDB_Setup2](https://github.com/ddthompson01/CNP/assets/112508527/be485d11-5c29-4ce9-9d81-dc887faad0fa)
 
 ****Section 2.1 Data Anaylysis**** - </br>
- *Download PowerBi file:* **[HERE](https://github.com/ddthompson01/CNP/blob/main/Part-3/meal_insights_ddt.pbix)**<br />
-![dash_ddt](https://github.com/ddthompson01/CNP/assets/112508527/5b2ac511-11ed-4596-a931-05e2b50f4415)
+ *Download PowerBi file:* **[HERE](https://github.com/ddthompson01/CNP/blob/main/Part-3/meal_insights_dt.pbix)**<br />
+![Screenshot 2024-06-28 050542](https://github.com/ddthompson01/CNP/assets/112508527/23d56bea-6763-475a-8ef1-eba08f51d2ef)
+![Screenshot 2024-06-28 050655](https://github.com/ddthompson01/CNP/assets/112508527/6eefa9b4-0d1b-4e21-8e5d-34ba13a8bd6b)
+
+
