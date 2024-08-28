@@ -1,5 +1,4 @@
-# CNP ASSESSMENT
-CNP Applications Analyst Technical Assessment
+# Applications Analyst Technical Assessment
 
  ****Section 1 Problem Solving** - </br>
  *Review the pdf file:* **[HERE](https://github.com/ddthompson01/CNP/blob/main/Section-1_ddt.pdf)**<br />
